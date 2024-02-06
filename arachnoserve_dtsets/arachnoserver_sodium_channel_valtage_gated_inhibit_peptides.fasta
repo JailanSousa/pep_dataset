@@ -1,0 +1,661 @@
+>as:δ-theraphotoxin-Cg1a_1|sp:P83974 Toxin from venom of the spider Chilobrachys guangxiensis that inhibits inactivation of voltage-gated sodium and activiation of potassium channels
+MKTSILFVIFSLALLFALSAATEIEETDRACGQFWWKCGEGKPPCCANFACKIGLYLCIW
+SP
+
+>as:δ-theraphotoxin-Cg1a_2|sp:B1P1B7 Toxin from venom of the spider Chilobrachys guangxiensis that inhibits inactivation of voltage-gated sodium and activiation of potassium channels
+MKTSILFVIFSLALLFALSAATEIEETDRACGQFWWKCGEGKPPCCANFACKIGLYLCIW
+SP
+
+>as:δ-theraphotoxin-Cg1a_3|gb:B1P1B8 Toxin from venom of the spider Chilobrachys guangxiensis that inhibits inactivation of voltage-gated sodium and activiation of potassium channels
+MKTSILFVIFSLALVFALSPATEIEETDRACGQFWWKCGEGKPPCCANFACKIGLYLCIW
+SP
+
+>as:μ-agatoxin-Ao1b|sp:Q5Y4U6 Translation of mRNA sequence for toxin μ-agatoxin-Ao1b from spider Agelena orientalis.
+MKAIIFFCFLSVMVFIVAEASSLEALKIFEGERECVGENGHCRSWYNDCCDGYYCSCMQP
+PNCICRNNNG
+
+>as:μ-agatoxin-Ao1a|sp:Q5Y4U7 Translation of mRNA sequence for toxin μ-agatoxin-Ao1a from spider Agelena orientalis.
+MKAIIFFCFLSVMVFIVAEASSLEALKIFEGERDCVGENGRCRDWYNDCCDGFYCSCRQP
+PYCICRNNNG
+
+>as:mu-segestritoxin-Sf1a|sp:P61095 Insecticidal toxin (SFI1; Toxin F5.6) from the spider Segestria florentina
+KECMTDGTVCYIHNHNDCCGSCLCSNGPIARPWEMMVGNCMCGPKA
+
+>as:mu-segestritoxin-Sf1b|sp:P61096 Insecticidal toxin (SFI2; Toxin F5.7) from the spider Segestria florentina
+KECMADETVCYIHNHNNCCGSCLCLNGPYARPWEMLVGNCKCGPKE
+
+>as:mu-segestritoxin-Sf1c|sp:P61097 Insecticidal toxin (Toxin SFI3) from the spider Segestria  florentina
+KECMVDGTVCYIHNHNDCCGSCLCLNGPIARPWEMMVGNCKCGPKA
+
+>as:mu-segestritoxin-Sf1d|sp:P61098 Insecticidal toxin (Toxin SFI4) from the spider Segestria florentina
+KECMVDGTVCYIHNHNDCCGSCLCLNGPIARPWKMMVGNCKCGPKA
+
+>as:mu-segestritoxin-Sf1e|sp:P61099 Insecticidal toxin (Toxin SFI5) from the spider Segestria florentina
+KECMVDGTVCYIHNHNDCCGSCLCPNGPLARPWEMLVGNCKCGPKA
+
+>as:mu-segestritoxin-Sf1f|sp:P61100 Insecticidal toxin (Toxin SFI6) from the spider Segestria florentina
+KECMTDETVCYIHNHNDCCGSCLCLNGPIARPWEMMVGNCKCGPKA
+
+>as:mu-segestritoxin-Sf1g|sp:P61101 Insecticidal toxin (Toxin SFI7) from the spider Segestria florentina
+KECMADGTVCYIHNHNDCCGSCLCPNGPLARPWEVLVGNCKCGPKA
+
+>as:mu-segestritoxin-Sf1h|sp:P61102 Insecticidal toxin (Toxin SFI8) from the spider Segestria florentina
+KECMADGTVCYIHNHNDCCGSCLCPNGPLARPWEMLVGNCKCGPKA
+
+>as:mu-segestritoxin-Sf1i|sp:P61094 Insecticidal toxin F5.5 from the spider Segestria florentina (N-terminal fragment)
+AECMVDETVCYIHNHNNC
+
+>as:δ-ctenitoxin-Pn1a_2|sp:P59368 Toxin from venom of the spider Phoneutria nigriventer that slows down inactivation of Nav channels
+MKVAIVFLSLLVLAFASESIEENREEFPVEESARCGDINAACKEDCDCCGYTTACDCYWS
+KSCKCREAAIVIYTAPKKKLTC
+
+>as:δ-ctenitoxin-Pn1a_1|sp:2108421A Toxin from venom of the spider Phoneutria nigriventer that slows down inactivation of Nav channels
+CGDINAACKEDCDCCGYTTACDCYWSKSCKCREAAIVIYTAPKKKLTC
+
+>as:μ-agatoxin-Hc1a|sp:P15967 Insecticidal neurotoxin (Curtatoxin I) from the spider Hololena curta
+SCVGEYGRCRSAYEDCCDGYYCNCSQPPYCLCRNNN
+
+>as:μ-agatoxin-Hc1b|sp:P60177  Insecticidal neurotoxin (Curtatoxin II) from the spider Hololena curta
+ADCVGDGQRCADWAGPYCCSGYYCSCRSMPYCRCRSDS
+
+>as:μ-agatoxin-Hc1c|sp:P15968 Insecticidal neurotoxin (Curtatoxin III) from the spider Hololena curta
+ADCVGDGQKCADWFGPYCCSGYYCSCRSMPYCRCRSDS
+
+>as:δ-Amaurobitoxin-Pl1a|sp:P83256 Insecticidal toxin (δ-palutoxinIT1) from the spider Pireneitega luctuosa
+GCLGEGEKCADWSGPSCCDGFYCSCRSMPYCRCRNNS
+
+>as:δ-Amaurobitoxin-Pl1b|sp:P83257 Insecticidal toxin (δ-PaluIT2) from the spider Pireneitega luctuosa
+ACVGDGQRCASWSGPYCCDGYYCSCRSMPYCRCRNNS
+
+>as:δ-Amaurobitoxin-Pl1c|sp:P83258 Insecticidal toxin (δ-palutoxin IT3) from the spider Pireneitega luctuosa
+ADCLNEGDWCADWSGPSCCGEMWCSCPGFGKCRCKK
+
+>as:δ-Amaurobitoxin-Pl1d|sp:P83259 Insecticidal toxin (δ-palutoxin IT4) from the spider Pireneitega luctuosa
+ACATKNQRCASWAGPYCCDGFYCSCRSYPGCMCRPNS
+
+>as:δ-hexatoxin-Ar1a|sp:P01478 Vertebrate and insect toxin δ-hexatoxin-Ar1a from Sydney funnel-web spider Atrax robustus.
+CAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_7 Translation of δ-hexatoxin-Ar1a_7 (XenFW86) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFLKIALGDFSEGNKNDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFM
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_2 Translation of δ-hexatoxin-Ar1a_2 (XenFW1) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFLKIALGDFSEGNENDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFL
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_3 Translation of δ-hexatoxin-Ar1a_3 (XenFW2) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFLTIVLGDFSEGNENDLVEIMESLPEKLSEADIPVLKKLEAIEDALLVK
+DSLPHAEEDRSARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_4 Translation of δ-hexatoxin-Ar1a_4 (XenFW3) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFLTIVLGDFSEGNENDLVEIMESLPEKLSEADIPVLKKLEAIEDALLVK
+DSLPHAEEDRSARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_5 Translation of δ-hexatoxin-Ar1a_5 (XenFW4) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFVTIALGDFSEGNENDLVEIMESLPEKLSEADIPVLKKLEAIEDALLVK
+DSLPHAEEDRSARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_6 Translation of δ-hexatoxin-Ar1a_6 (XenFW80) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFVTIALGDFSEGNENDLVEIMESLPEKLSEADIPVLKKLEAIEDALLVK
+DSLPHAEEDRSARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_8 Translation of δ-hexatoxin-Ar1a_8 (XenFW87) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFLKIALGDFSEGNENDLVESLPEKLSEADIPVLRKLEAIEDPLLEKVFL
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_9 Translation of δ-hexatoxin-Ar1a_9 (XenFW88) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFSLKIALGDFSEGNENDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFL
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_10 Translation of δ-hexatoxin-Ar1a_10 (XenFW89) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFVTIALGDFSEGNENDLVEIMESLPEKLSEADIPVLKKLEAIEDALLVK
+DSLPHAEEDRSARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_11 Translation of δ-hexatoxin-Ar1a_11 (XenFW90) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFLKIALGDFSEGNKNDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFM
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_12 Translation of δ-hexatoxin-Ar1a_12 (XenFW91) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFLKIALGDFSEGNENDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFL
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_13 Translation of δ-hexatoxin-Ar1a_13 (XenFW92) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFVTIALGDFSEGNENDLVEIMESLPEKLSEADIPVLKKLEAIEDALLVK
+DSLPHAEEDRSARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_14 Translation of δ-hexatoxin-Ar1a_14 (XenFW94) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFVTIALGDFSEGNENDLVEIMESLPEKLSEADIPVLKKLEAIEDALLVK
+DSLPHAEEDRSARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_15 Translation of δ-hexatoxin-Ar1a_15 (XenFW95) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFVTIALGDFSEGNENDLVEIMESLPEKLSEADIPVLKKLEAIEDALLVK
+DSLPHAEEDRSARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_16 Translation of δ-hexatoxin-Ar1a_16 (XenFW96) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFLKIALGDFSEGNKNDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFM
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_17 Translation of δ-hexatoxin-Ar1a_17 (XenFW97) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFLKIALGDFSEGNENDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFL
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_18 Translation of δ-hexatoxin-Ar1a_18 (XenFW99) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFLKIALGDFSEGNKNDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFM
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_19 Translation of δ-hexatoxin-Ar1a_19 (XenFW100) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFLKIALGDFSEGNKNDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFI
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_20 Translation of δ-hexatoxin-Ar1a_20 (XenFW101) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFVTIALGDFSEGNENDLVEIMESLPEKLSEADIPVLKKLEAIEDALLVK
+DSLPHAEEDRSARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_21 Translation of δ-hexatoxin-Ar1a_21 (XenFW102) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFLKIALGDFSEGNKNDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFM
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_22 Translation of δ-hexatoxin-Ar1a_22 (XenFW314) from the Sydney funnel-web spider Atrax robustus.
+MKITAALYVLFFLKIALGDFSEGNENDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFL
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_23 Translation of δ-hexatoxin-Ar1a_23 (XenFW315) from the Sydney funnel-web spider Atrax robustus.
+MKITAALYVLFFLKIALGDFSEGNKNDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFL
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_24 Translation of δ-hexatoxin-Ar1a_24 (XenFW316) from the Sydney funnel-web spider Atrax robustus.
+MKITAALYVLFFLKIALGDFSEGNENDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFL
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_25 Translation of δ-hexatoxin-Ar1a_25 (XenFW317) from the Sydney funnel-web spider Atrax robustus.
+MKITAALYVLFFLKIALGDFSEGNENDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFL
+QHAEADRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_26 Translation of δ-hexatoxin-Ar1a_26 (XenFW323) from the Sydney funnel-web spider Atrax robustus.
+MKITAALYVLFFLKIALGDFSEGNKNDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFM
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_27 Translation of δ-hexatoxin-Ar1a_27 (XenFW324) from the Sydney funnel-web spider Atrax robustus.
+MKITAALYVLFFLKIALGDFSEGNKNDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFM
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_28 Translation of δ-hexatoxin-Ar1a_28 (XenFW326) from the Sydney funnel-web spider Atrax robustus.
+MKITAALYVLFFLKIALGDFSEGNENDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFL
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_29 Translation of δ-hexatoxin-Ar1a_29 (XenFW327) from the Sydney funnel-web spider Atrax robustus.
+MKITAALYVLFFLKIALGDFSEGNENDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFL
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Ar1a_30 Translation of δ-hexatoxin-Ar1a_30 (XenFW328) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFLKNALGDFSEGNENDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFL
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQVSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Iw1a|sp:P0C1R3 Insect and vertebrate toxin from Illawarra funnel-web spider Illawarra wisharti.
+CAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQSTITGLFKKC
+
+>as:δ-hexatoxin-Iw1a_2 Translation of δ-hexatoxin-Iw1a_2 (SDW27) from Illawarra funnel-web spider Illawarra wisharti.
+MKTIAALYVLFFLTIALGDFSEGNENDLVEIMESLPEKLSEADIPVLKKLEAIEDALLEK
+ASLPHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQSTITGLFKKC
+
+>as:δ-hexatoxin-Iw1a_3 Translation of δ-hexatoxin-Iw1a_3 (SDW28) from Illawarra funnel-web spider Illawarra wisharti.
+MKTIAALYVLFFLTIALGDFSEGNENDLVEIMESLPEKLSEADIPVLKKLEAIEDALLEK
+ASLPHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQSTITGLFKKC
+
+>as:δ-hexatoxin-Iw1a_4 Translation of δ-hexatoxin-Iw1a_4 (SDW29) from Illawarra funnel-web spider Illawarra wisharti.
+LEKASLPHAKEDRNARPXRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQSTITGLFKK
+C
+
+>as:δ-hexatoxin-Hv1a|sp:P13494 Vertebrate and insect toxin from Blue Mountains funnel-web spider Hadronyche versuta.
+CAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISALWKKC
+
+>as:δ-hexatoxin-Hv1a_2 Translation of δ-hexatoxin-Hv1a_2 (XenFW299) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKITAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDALLEKDFL
+SHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISALWKKC
+
+>as:δ-hexatoxin-Hv1a_3 Translation of δ-hexatoxin-Hv1a_3 (XenFW300) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKITAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDALLEKDFL
+SHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISALWKKC
+
+>as:δ-hexatoxin-Hv1a_4 Translation of δ-hexatoxin-Hv1a_4 (XenFW301) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKITAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDALLEKDFL
+SHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISALWKKC
+
+>as:δ-hexatoxin-Hv1a_5 Translation of δ-hexatoxin-Hv1a_5 (XenFW304) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKITAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDALLEKDFL
+SHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISALWKKC
+
+>as:δ-hexatoxin-Hv1a_6 Translation of δ-hexatoxin-Hv1a_6 (XenFW305) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKITAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDVLLEKDFL
+SHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISALWKKC
+
+>as:δ-hexatoxin-Hv1a_7 Translation of δ-hexatoxin-Hv1a_7 (XenFW306) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKIPAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDALLEKDFL
+SHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISALWKKC
+
+>as:δ-hexatoxin-Hv1a_8 Translation of δ-hexatoxin-Hv1a_8 (XenFW308) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKITAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDALLEKDFL
+SHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISALWKKC
+
+>as:δ-hexatoxin-Hv1a_9 Translation of δ-hexatoxin-Hv1a_9 (XenFW309) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKITAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDALLEKDFL
+SHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISALWKKC
+
+>as:δ-hexatoxin-Hv1a_10 Translation of δ-hexatoxin-Hv1a_10 (XenFW?) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKITAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDALLEKDFL
+SHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISALWKKC
+
+>as:δ-hexatoxin-Hv1a_11 Translation of δ-hexatoxin-Hv1a_11 (XenFW311) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKIPAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDALLEKDFL
+SHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISALWKKC
+
+>as:δ-hexatoxin-Hv1a_12 Translation of δ-hexatoxin-Hv1a_12 (XenFW312) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKIPAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDALLEKDFL
+SHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISALWKKC
+
+>as:δ-hexatoxin-Hv1a_13 Translation of δ-hexatoxin-Hv1a_13 (XenFW313) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKITAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDALLEKDFL
+SHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISALWKKC
+
+>as:δ-hexatoxin-Hv1a_14 Translation of δ-hexatoxin-Hv1a_14 (XenFW303) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKIPAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDALLENDFL
+PHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAXYNEQGSCQSTISALWKKC
+
+>as:U2-theraphotoxin-Hs1a|sp:P61103 Toxin from venom of the spider Haplopelma schmidti with unknown molecular target
+MVNMKASMFLTFAGLVLLFVVCYASESEEKEFPKEMLSSIFAVDNDFKQEERDCAGYMRE
+CKEKLCCSGYVCSSRWKWCVLPAPWRR
+
+>as:μ-theraphotoxin-Hhn2b_1|sp:P83591 Toxin from venom of the spider Haplopelma hainanum that inhibits voltage-gated sodium channels
+ECKGFGKSCVPGKNECCSGYACNSRDKWCKVLL
+
+>as:μ-theraphotoxin-Hhn2b_2|sp:D2Y1X6 Toxin from venom of the spider Haplopelma hainanum that inhibits voltage-gated sodium channels
+MKASMFLALAGLVLLFVVCYASESEEKEFPRELISKIFAVDDFKGEERECKGFGKSCVPG
+KNECCSGYACNSRDKWCKVLLGK
+
+>as:μ-theraphotoxin-Hhn2b_3|sp:D2Y1X7 Toxin from venom of the spider Haplopelma hainanum that inhibits voltage-gated sodium channels
+MKASMFLALAGLVLLFVVCYASESEEKEFPRELISKIFTVDDFKGEERECKGFGKSCVPG
+KNECCSGYACNSRDKWCKVLLGK
+
+>as:μ-theraphotoxin-Hhn2b_4|sp:D2Y1X8 Toxin from venom of the spider Haplopelma hainanum that inhibits voltage-gated sodium channels
+MKASMFLALAGLVLLFVVCYASESEEKEFPRELISKIFAVDDFKGEVRECKGFGKSCVPG
+KNECCSGYACNSRDKWCKVLLGK
+
+>as:μ-diguetoxin-Dc1b|sp:P55816 Insecticidal toxin (DTX11) from the spider Diguetia canities
+AKDGDVKGPAGCMKYKSGDCRGKTCCDQQYLWYKWRNLACRCFTVEVFKKDCWCNDIS
+
+>as:μ-diguetoxin-Dc1c|sp:P55817 Insecticidal toxin (DTX12) from Diguetia canities
+AKDGDFEGPPGCLKMGELCKGGTCCTKVYKYWKWRKLECLGKNDGWFKKKFICDEPCNPX
+X
+
+>as:μ-diguetoxin-Dc1a|sp:P49126 Insecticidal toxin (DTX9.2) from the spider Diguetia canities
+MKVFVVLLCLSLAAVYALEERLDKDADIMLDSPADMERAKDGDVEGPAGCKKYDVECDSG
+ECCQKQYLWYKWRPLDCRCLKSGFFSSKCVCRDV
+
+>as:μ-agatoxin-Aa1a|sp:P11057 Insecticidal neurotoxin (mu-Aga I) from the spider Agelenopsis aperta
+ECVPENGHCRDWYDECCEGFYCSCRQPPKCICRNNN
+
+>as:μ-hexatoxin-Mg1b|sp:P83557 Toxin μ-hexatoxin-Mg1b from the spider Macrothele gigas.
+CMGYDIHCTDRLPCCFGLECVKTSGYWWYKKTYCRRKS
+
+>as:μ-agatoxin-Aa1b|sp:P11058 Insecticidal neurotoxin (mu-Aga II) from the spider Agelenopsis aperta
+ECATKNKRCADWAGPWCCDGLYCSCRSYPGCMCRPSS
+
+>as:μ-hexatoxin-Mg1a|sp:P83558 Translation of cDNA sequence of insecticidal toxin μ-hexatoxin-Mg1a from the spider Macrothele gigas.
+MMTLSPFLLLLIAAVVIGNASEGEVKNEFEERLKDEFKDPSRSEVAEVILLRELEVLEET
+LFGKEMTSDTEENRNSREKRCMGYDIECNENLPCCKHRKLECVETSGYWWYKRKYCRPIK
+G
+
+>as:μ-agatoxin-Aa1c|sp:P60178 Insecticidal neurotoxin (mu-Aga III) from the spider Agelenopsis aperta
+ADCVGDGQRCADWAGPYCCSGYYCSCRSMPYCRCRSDS
+
+>as:μ-hexatoxin-Mg2a|sp:P83559 Insecticidal toxin μ-hexatoxin-Mg2a from the spider Macrothele gigas.
+GGCIKWNHSCQTTTLKCCGKCVVCYCHTPWGTNCRCDRTRLFCTED
+
+>as:μ-agatoxin-Aa1d|sp:P11060 Insecticidal neurotoxin (mu-Aga IV) from the spider Agelenopsis aperta
+ACVGENQQCADWAGPHCCDGYYCTCRYFPKCICRNNN
+
+>as:δ-hexatoxin-Mg1a|sp:P83560 Translation of cDNA sequence for insect and vertebrate toxin δ-hexatoxin-Mg1a from the spider Macrothele gigas.
+MKTLVIACVALVLVVVHGEVIEEVNEKQLQESVEEKYSLLQRLEKLDEAITAEENRNSRV
+RRCGSKRAWCKEKKDCCCGYNCVYAWYNQQSSCERKWKYLFTGEC
+
+>as:δ-hexatoxin-Mg1a_2 Translation of cDNA sequence (AB105149.1) for insect and vertebrate toxin δ-hexatoxin-Mg1a_2 from the spider Macrothele gigas.
+MKTLVIACVALVLVVVHGEVIEEVNEKQLQESVEEKYSLLQRLEKLDEAITAEENRNSRV
+RRCGSKRAWCKEKKDCCCGYNCVYAWYNQQSSCERKWKYLFTGEC
+
+>as:μ-agatoxin-Aa1e|sp:P11061 Insecticidal neurotoxin (mu-Aga V) from the spider Agelenopsis aperta
+ACVGENKQCADWAGPHCCDGYYCTCRYFPKCICRNNN
+
+>as:μ-agatoxin-Aa1f|sp:P11062  Insecticidal neurotoxin (mu-Aga VI) from the spider Agelenopsis aperta
+DCVGESQQCADWAGPHCCDGYYCTCRYFPKCICVNNN
+
+>as:mu-cyrtautoxin-As1a|sp:P49268 Insecticidal toxin mu-cyrtautoxin-As1a from the spider Apomastus schlingeri.
+CNSKGTPCTNADECCGGKCAYNVWNCIGGGCSKTCGY
+
+>as:μ-hexatoxin-Mg1c|sp:Q75WH1 Translation of cDNA sequence of toxin μ-hexatoxin-Mg1c from the spider Macrothele gigas
+TSQGTTPDKVQLEVNCISNLPNNEVEETDLLRELEMIEENLFGKELSFVPEENRNSRHKR
+CMGYDIECNERLHCCADLECVKTSGRWWYKKTYCRRKSG
+
+>as:mu-segestritoxin-Ssp1a Insecticidal toxin from the spider Segestria sp.
+KECKPDGEQCGITDHNDCCNACVCPDGPFMRPWNMMLQRCSCGPKP
+
+>as:mu-segestritoxin-Ssp1b Insecticidal toxin from the spider Segestria sp.
+KECKPDGEQCGITDHNDCCNSCVCPGGPYMRPWDMMLQRCKCGPKE
+
+>as:mu-segestritoxin-Ssp1l Insecticidal toxin from the spider Segestria sp.
+KECKPDGEQCGITDHNDYCNACVCPDGPFMRPWNMMLQRCSCGPKP
+
+>as:δ-hexatoxin-Hi1a_1 Translation of δ-hexatoxin-Hi1a_1 (SDW22) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_2 Translation of δ-hexatoxin-Hi1a_2 (XenFW16) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_3 Translation of δ-hexatoxin-Hi1a_3 (XenFW18) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_4 Translation of δ-hexatoxin-Hi1a_4 (XenFW21) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_5 Translation of δ-hexatoxin-Hi1a_5 (XenFW332) from Toowoomba funnel-web spider Hadronyche infensa.
+MKIPAALYVLFFLTIVLGDFTGGNEDDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_6 Translation of δ-hexatoxin-Hi1a_6 (XenFW19) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_7 Translation of δ-hexatoxin-Hi1a_7 (XenFW20) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_8 Translation of δ-hexatoxin-Hi1a_8 (XenFW22) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_9 Translation of δ-hexatoxin-Hi1a_9 (XenFW24) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_10 Translation of δ-hexatoxin-Hi1a_10 (XenFW25) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_13 Translation of δ-hexatoxin-Hi1a_13 (RL5_rep_c413) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_14 Translation of δ-hexatoxin-Hi1a_14 (RL5_rep_c271) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_15 Translation of δ-hexatoxin-Hi1a_15 (RL5_rep_c170) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_16 Translation of δ-hexatoxin-Hi1a_16 (RL5_rep_c40) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_17 Translation of δ-hexatoxin-Hi1a_17 (RL5_rep_c4) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_11 Translation of δ-hexatoxin-Hi1a_11 (RL5_rep_c28683) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_12 Translation of δ-hexatoxin-Hi1a_12 (RL5_rep_c924) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_18  Translation of δ-hexatoxin-Hi1a_18 (RL5_c16280) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_19 Translation of δ-hexatoxin-Hi1a_19 (RL5_c16925) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGSENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_20 Translation of δ-hexatoxin-Hi1a_20 (RL5_c23219) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_21 Translation of δ-hexatoxin-Hi1a_21 (RL5_rep_c17331) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_22 Translation of δ-hexatoxin-Hi1a_22 (RL5_rep_c28333) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_23 Translation of δ-hexatoxin-Hi1a_23 (RL5_rep_c29933) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDXLLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_24 Translation of δ-hexatoxin-Hi1a_24 (RL5_rep_c5239) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLDGLLVSVQLFLVDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDF
+LPYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_25 Translation of δ-hexatoxin-Hi1a_25 (RL5_rep_c8499) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFCEELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_26 Translation of δ-hexatoxin-Hi1a_26 (RL5_s28930) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_27 Translation of δ-hexatoxin-Hi1a_27 (RL5_s31678) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVFGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1a_28 cDNA sequence (RRL5_s33029) for δ-hexatoxin-Hi1a_28 from the spider Hadronyche infensa
+MKIIIALYVLFFLTIALGDITEGNEDDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hvn1a_4 Translation of δ-hexatoxin-Hvn1a_4 (TFWSa2) from the Tasmanian funnel-web spider Hadronyche venenata.
+MKVIATLYGLLFLTVVLGDITEGNGNDLVENLRAELSEADIPLLKKLEAIEDALLEKDFL
+IHEEEDRNARPKRCAKSRNWCAKTEDCCCPMKCIDAWYNNQASCQSTFMGMFRKC
+
+>as:δ-hexatoxin-Hvn1a_3 Translation of δ-hexatoxin-Hvn1a_3 (TFWSa9) from the Tasmanian funnel-web spider Hadronyche venenata.
+MKVIATLYGLLFLTVVLGDITEGNGNDLVENLRAELSEADIPLLKKLEAIEDALLEKDFL
+IHEEEDRNARPKRCAKSRNWCAKTEDCCCPMKCIDAWYNNQASCQSTFMGMFRKC
+
+>as:δ-hexatoxin-Hvn1a_2 Translation of δ-hexatoxin-Hvn1a_2 (TFWSa1) from the Tasmanian funnel-web spider Hadronyche venenata.
+MKVIATLYGLLFLTVVLGDITEGNGNDLVENLRAELSEADIPLLKKLEAIEDALLEKDFL
+IHEEEDRNARPKRCAKSRNWCAKTEDCCCPMKCIDAWYNNQASCQSTFMGMFRKC
+
+>as:δ-hexatoxin-Hvn1a_1 Translation of δ-hexatoxin-Hvn1a_1 (TFWSa12) from the Tasmanian funnel-web spider Hadronyche venenata.
+MKVIASFYGLLFLTVVLGDITEGNGNDLVENLRAELSEADIPLLKKLEAIEDALLEKDFL
+IHEEEDRNARPKRCAKSRNWCAKTEDCCCPMKCIDAWYNNQASCQSTFMGMFRKC
+
+>as:δ-hexatoxin-Hvn1a_5 Translation of δ-hexatoxin-Hvn1a_5 (TFWSa5) from the Tasmanian funnel-web spider Hadronyche venenata.
+MKVIATLYGLLFLTVVLGDITEGNGNDLVENLRAELSEADIXLLKKLEAIEDALLEKDFL
+IHEEEDRNARPKRCAKSRNWCAKTEDCCCPMKCIDAWYNNQASCQSTFMGMFRKC
+
+>as:δ-hexatoxin-Hvn1a_6 Translation of δ-hexatoxin-Hvn1a_6 (TFWSa6) from the Tasmanian funnel-web spider Hadronyche venenata.
+MKVIATLYGLLFLTVVLGDITEGNGNDLVENLRAELSEADIXLLKKLEAIEDALLEKDFL
+IHEEEDRNXRPKRCAKSRNWCAKTEDCCCPMKCIDAWYNNQASCQSTFMGMFRKC
+
+>as:δ-hexatoxin-Hvn1b Translation of δ-hexatoxin-Hvn1b (TFWSa8) from the Tasmanian funnel-web spider Hadronyche venenata.
+MKVIATFYGLLFLTVVLGDITEGNGNDLVENLRAELSEADIPLLKKLEAIEDALLEKDFL
+IHEEEDRNARPKRCAKSRNWCAKTEDCCCPMKCIDAWYNNQVSCQSTFMGMFRKC
+
+>as:δ-hexatoxin-Hva1a_2 Translation of δ-hexatoxin-Hva1a_2 (SDW42) from the funnel-web spider Hadronyche valida.
+MKVIAALYVLFFLTIALGDITAGNEDDLVENMRKELSETDIPLLKKRGAIEDAPPECAKN
+TQTCSIDEDCCCPLKCISIPLLGERRCFFTFKSLFQTCP
+
+>as:δ-hexatoxin-Hva1a_1 Translation of δ-hexatoxin-Hva1a_1 (SDW41) from the funnel-web spider Hadronyche valida.
+MKVIAALYVLFFLTIALGDITAGNEDDLVENMRKELSETDIPLLKKRGAIEDAPPECAKN
+TQTCSIDEDCCCPLKCISIPLLGERRCFFTFKSLFQTCP
+
+>as:δ-hexatoxin-Ar1b Translation of δ-hexatoxin-Ar1b (XenFW82) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFLTIVLGDFSEGNENDLVEIMESLPEKLPEADIPVLKKLEAIEDALLVK
+DSLPHAEEDRSARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQTTITGLFKEC
+
+>as:δ-hexatoxin-Hv1d Translation of δ-hexatoxin-Hv1d (XenFw302) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKITAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDALLENDFL
+PHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISVLWKKC
+
+>as:δ-hexatoxin-Hv1c Translation of δ-hexatoxin-Hv1c (XenFw310) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKITAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDALLEKDFL
+SHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWFNEQGSCQSTISALWKKC
+
+>as:δ-hexatoxin-Iw1b Translation of δ-hexatoxin-Iw1b (SDW30) from Illawarra funnel-web spider Illawarra wisharti.
+LEKASLPHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNRQGSCQSTITGLFKK
+C
+
+>as:δ-hexatoxin-Hi1b_1 Translation of δ-hexatoxin-Hi1b_1 (XenFw329) from Toowoomba funnel-web spider Hadronyche infensa.
+MKITAALYVLFFLTIVLGDFTGGNENDLVENFREELSEADIPLLTKLEAIEDALLENDFL
+PHEEEDGSTRTKRCASTKVYCEKDKDCCCPMRCVKSYWKGHGVCSASLFERLKGC
+
+>as:δ-hexatoxin-Hi1b_2 Translation of δ-hexatoxin-Hi1b_2 (XenFw331) from Toowoomba funnel-web spider Hadronyche infensa.
+MKITAALYVLFFLTIVLGDFTGGNENDLVENFREELSEADIPLLKKLEAIEDALLENDFL
+PHEEEDGSTRTKRCASTKVYCEKDKDCCCPMRCVKSYWKGHGVCSASLFERLKGC
+
+>as:δ-hexatoxin-Hi1b_3 Translation of δ-hexatoxin-Hi1b_3 (XenFw333) from Toowoomba funnel-web spider Hadronyche infensa.
+MKITAALYVLFFLTIVLGDFTGGNENDLVENFREELSEADIPLLKKLEAIEDALLENDFL
+PHEEEDGSTRTKRCASTKVYCEKDKDCCCPMRCVKSYWKGHGVCSASLFERLKGC
+
+>as:δ-hexatoxin-Hi1b_4 Translation of δ-hexatoxin-Hi1b_4 (XenFw334) from Toowoomba funnel-web spider Hadronyche infensa.
+MKITAALYVLFFLTIVLGDFTGGNENDLVENFREELSEADIPLLKKLEAIEDALLENDFL
+PHEEEDGSTRTKRCASTKVYCEKDKDCCCPMRCVKSYWKGHGVCSASLFERLKGC
+
+>as:δ-hexatoxin-Hi1b_5 Translation of δ-hexatoxin-Hi1b_5 (XenFw336) from Toowoomba funnel-web spider Hadronyche infensa.
+MKITAALYVLFFLTIVLGDFTGGNENDLVENFREELSEADIPLLKKLEAIEDALLENDFL
+PHEEEDGSTRTKRCASTKVYCEKDKDCCCPMRCVKSYWKGHGVCSASLFERLKGC
+
+>as:δ-hexatoxin-Hi1b_6 Translation of δ-hexatoxin-Hi1b_6 (XenFw337) from Toowoomba funnel-web spider Hadronyche infensa.
+MKIPAALYVLFFLTIVLGDFTGGNENDLVENFREELSEADIPLLKKLEAIEDALLENDFL
+PHEEEDGSTRTKRCASTKVYCEKDKDCCCPMRCVKSYWKGHGVCSASLFERLKGC
+
+>as:δ-hexatoxin-Hi1b_7 Translation of δ-hexatoxin-Hi1b_7 (XenFw338) from Toowoomba funnel-web spider Hadronyche infensa.
+MKITAALYVLFFLTIVLGDFTGGNENDLVENFREELSEADIPLLKKLEAIEDALLENDFL
+PHEEEDGSTRTKRCASTKVYCEKDKDCCCPMRCVKSYWKGHGVCSASLFERLKGC
+
+>as:δ-hexatoxin-Hi1b_8 Translation of δ-hexatoxin-Hi1b_8 (XenFw341) from Toowoomba funnel-web spider Hadronyche infensa.
+MKITAALYVLFFLTIVLGDFTGGNENDLVENFREELSEADIPLLKKLEAIEDALLENDFL
+PHEEEDGSTRTKRCASTKVYCEKDKDCCCPMRCVKSYWKGHGVCSASLFERLKGC
+
+>as:δ-hexatoxin-Hi1b_9 Translation of δ-hexatoxin-Hi1b_9 (XenFw330) from Toowoomba funnel-web spider Hadronyche infensa.
+NDLVENFREELSEADIPLLKKLEAIEDALLENDFLPHEEEDGSTRTKRCASTKVYCEKDK
+DCCCPMRCVKSYWKGHGVCSASLFERLKGC
+
+>as:δ-hexatoxin-Hi1b_10 Translation of δ-hexatoxin-Hi1b_10 (RL5_rep_c664) from Toowoomba funnel-web spider Hadronyche infensa.
+MKIIAALYVLFFLTIVLGDFTGGNENDLVENFREELSEADVPLLKKLEAIEDALLENDFL
+PHDEEDRSARPKRCASTKVYCEKDKDCCCPMRCVKSYWKGHGVCSASLFERLKGC
+
+>as:δ-hexatoxin-Hi1c Translation of δ-hexatoxin-Hi1c (XenFw340) from Toowoomba funnel-web spider Hadronyche infensa.
+MKITAALYVLFFLTIVLGDFTGGNENDLVENFREELSEADIPLLKKLEAIEDALLENDFL
+PHEEEDGSTRTKRCASTKVYCEKDKDCCCPMRCVKSYWKGHGVCSTSLFERLKGC
+
+>as:δ-hexatoxin-As1a Translation of δ-hexatoxin-As1a (SDW60) from the funnel-web spider Atrax sutherlandi.
+MKVIAALYVLFFLTIVLGDFSEGNENDLVEIMESLPEKLSEADIPVLKKLEAIEEALLEK
+AFLPHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQSSCQSTISGLFKKC
+
+>as:δ-hexatoxin-Hmo1a Translation of δ-hexatoxin-Hmo1a from the the funnel-web spider Hadronyche modesta.
+MKVIATLYGLLFLTVVLGDITEGNENDLVGNLREELSEADIPLLKKLEAIEDALLEKDFL
+LHEEEDRNARPKRCAKKRNWCAKTEDCCCPMKCIDAWYNNQASCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hf1a Translation of δ-hexatoxin-Hf1a from Northern tree-dwelling funnel-web spider Hadronyche formidabilis
+MKIIATLYGLLFLTVVLGDITEGNENDLVDNLREELSEADIPLLKKLEAIEDPLLENLPH
+AEKDGSTRTKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQGSCQSTFMGLFKKC
+
+>as:δ-hexatoxin-Hf1b Translation of δ-hexatoxin-Hf1b from Northern tree-dwelling funnel-web spider Hadronyche formidabilis
+MKIITALHVLLFLTIALGDITAGNEDDLVENIRKEVSEADIPLLKKMKAIEDALLKKDFL
+SHEEDRNARPKRCAKKRAWCGKDADCCCPWKCIGQWYNGQASCQSTFMGLFKSCS
+
+>as:δ-hexatoxin-Hf1c Translation of δ-hexatoxin-Hf1c from Northern tree-dwelling funnel-web spider Hadronyche formidabilis
+MKIIAALYVLFFLTIVLGDFPEGNENDLVENFRGELSEADIPLLKKLEATEDALLENDFL
+PHEEEDGSTRTKRCTSKKVWCGKDADCCCPTRCIHSYFKGHGTCTASLLERLFKSC
+
+>as:δ-hexatoxin-Hc1a Translation of δ-hexatoxin-Hc1a from Southern tree-dwelling funnel-web spider Hadronyche cerberea
+MKIIAALYVLFFLTVALGDFTEGNENDLVENFREELSEADIPLLKKLEEIEDALLEKDFL
+PHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWYNEQGSCQSTISALWKKC
+
+>as:δ-hexatoxin-Hc1b Translation of δ-hexatoxin-Hc1b from Southern tree-dwelling funnel-web spider Hadronyche cerberea
+MKIITALYVLFFLTIALGDITEGNENDQVGGLREELSEADIPLLKKLEAIEDAHLEKDFL
+PHEEEDRNARPKRCAKKRAWCGKNEDCCCPWKCIGQWYNNQASCQSTFMGLFKSC
+
+>as:δ-hexatoxin-Hva1b_1 Translation of δ-hexatoxin-Hva1b_1 (SDW43) from the funnel-web spider Hadronyche valida.
+MKVIAALYVLFFLTLALGDIPEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDSL
+PYEEEDGSTRTKRCANTKVWCSKDEDCCCPRRCVQSLSKRHGTCHASLIERLIGC
+
+>as:δ-hexatoxin-Hva1c_1 Translation of δ-hexatoxin-Hva1c_1 (SDW44) from the funnel-web spider Hadronyche valida.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEALEDALLEKDFL
+PYEEEDRNARPKRCAKKRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Ar1c Translation of δ-hexatoxin-Ar1c (XenFW328) from the Sydney funnel-web spider Atrax robustus.
+MKVIAALYVLFFLKNALGDFSEGNENDLVESLPEKLSEADIPVLKKLEAIEDPLLEKVFL
+QHAEEDRNARPKRCAKKRNWCGKNEDCCCPMKCIYAWYNQQVSCQTTITGLFKKC
+
+>as:δ-hexatoxin-Hi1d_1|RL5_rep_c1299 Translation of δ-hexatoxin-Hi1d (RL5_rep_c1299) from Toowoomba funnel-web spider Hadronyche infensa.
+MKIIIALYVLFFLTIALGDITEGNEDDLVENFRKELSEADIPLLKKMEAIEDAFLEKGFL
+PHEEDRNARPKRCAKKRAWCGKEGDCCCPWKCIGQWYNGQASCQSTFMGLFKSC
+
+>as:δ-hexatoxin-Hi1d_2|RL5_rep_c26 Translation of δ-hexatoxin-Hi1d (RL5_rep_c26) from Toowoomba funnel-web spider Hadronyche infensa.
+MKIIIALYVLFFLTIALGDITEGNEDDLVENFRKELSEADIPLLKKMEAIEDAFLEKGFL
+PHEEDRNARPKRCAKKRAWCGKEGDCCCPWKCIGQWYNGQASCQSTFMGLFKSC
+
+>as:δ-hexatoxin-Hi1d_3|RL5_rep_c6486 Translation of δ-hexatoxin-Hi1d (RL5_rep_c6486) from Toowoomba funnel-web spider Hadronyche infensa.
+MKIIIALYVLFFLTIALGDITEGNEDDLVENFRKELSEADIPLLKKMEAIEDAFSSIVEY
+LPQKVPLLKKMEAIEDAFLEKGFLPHEEDRNARPKRCAKKRAWCGKEGDCCCPWKCIGQW
+YNGQASCQSTFMGLFKSC
+
+>as:δ-hexatoxin-Hi1d_4|RL5_rep_c7247 Translation of δ-hexatoxin-Hi1d (RL5_rep_c7247) from Toowoomba funnel-web spider Hadronyche infensa.
+MKIITALYVLFFLTIALGDITEGNEDDLVDNFRKELSESDIPLLNKMEAIEDAFLEKGFL
+PHEEDRNARPKRCAKKRAWCGKEGDCCCPWKCIGQWYNGQASCQSTFMGLFKSC
+
+>as:δ-hexatoxin-Hi1d_5|RL5_s33092 Translation of δ-hexatoxin-Hi1d (RL5_s33092) from Toowoomba funnel-web spider Hadronyche infensa.
+MKIIIALYVLFFLTIALGDITEGNEDDLVENFRKELSEVDIPLLKKMEAIEDAFLEKGFL
+PHEEDRNARPKRCAKKRAWCGKEGDCCCPWKCIGQWYNGQASCQSTFMGLFKSC
+
+>as:δ-hexatoxin-Hi1d_6|RL5_s33179 Translation of δ-hexatoxin-Hi1d (RL5_s33179) from Toowoomba funnel-web spider Hadronyche infensa.
+MKIITALYVLFFLTIALGDITEGNEDDLVDNFRKELSEADIPLLKKMEAIEDAFLEKGFL
+PHEEDRNARPKRCAKKRAWCGKEGDCCCPWKCIGQWYNGQASCQSTFMGLFKSC
+
+>as:δ-hexatoxin-Hi1e_2|RL5_rep_c3026  Translation of δ-hexatoxin-Hi1e (RL5_rep_c3026) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCNGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1e_1|RL5_rep_c2613 Translation of δ-hexatoxin-Hi1e (RL5_rep_c2613) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCNGAWYNQQSSCQSTFMGMFKKC
+
+>as:δ-hexatoxin-Hi1f_1|RL5_rep_c4102 Translation of δ-hexatoxin-Hi1f (RL5_rep_c4102) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMLQKC
+
+>as:δ-hexatoxin-Hi1g_4|RL5_s30242 Translation of δ-hexatoxin-Hi1g (RL5_s30242) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMLQK
+
+>as:δ-hexatoxin-Hi1g_6|RL5_s33874 Translation of δ-hexatoxin-Hi1g (RL5_s33874) from Toowoomba funnel-web spider Hadronyche infensa.
+MKIIIALYVLFFLTIALGDITEGNEDDLVENFRKELSEADIPLLKKMEAIEDAFLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMLQK
+
+>as:δ-hexatoxin-Hi1g_3|RL5_rep_c740 Translation of δ-hexatoxin-Hi1g (RL5_rep_c740) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMLQK
+
+>as:δ-hexatoxin-Hi1g_2|RL5_rep_c6507 Translation of δ-hexatoxin-Hi1g (RL5_rep_c6507) from Toowoomba funnel-web spider Hadronyche infensa.
+MKIITALYVLFFLTIALGDITEGNEBDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMLQK
+
+>as:δ-hexatoxin-Hi1g_1|RL5_rep_c27041 Translation of δ-hexatoxin-Hi1g (RL5_rep_c27041) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMLQK
+
+>as:δ-hexatoxin-Hv1e  Translation of δ-hexatoxin-Hv1e (XenFw307) from the Blue Mountains funnel-web spider Hadronyche versuta.
+MKITAALYVLFFLTIALGDFTEGNENDLVENLRAELSEADIPLLKKLEAAEDALLENDFL
+PHAEEDRSARPKRCAKKRNWCGKTEDCCCPMKCVYAWYNEQGSWQSTISALWKKC
+
+>as:δ-hexatoxin-Hi1h|RL5_s33646 Translation of δ-hexatoxin-Hi1h (RL5_s33646) from Toowoomba funnel-web spider Hadronyche infensa.
+MKVIATLYGLLFLTVVLGDITEGNENDLVENFREELSEADIPLLKKLEAIEDALLEKDFL
+PYEEEDRNARPKRCAKVRNWCAKNEDCCCPMKCIGAWYNQQSSCQSTFMGMLQKVLIPLC
+LSTVTS
+

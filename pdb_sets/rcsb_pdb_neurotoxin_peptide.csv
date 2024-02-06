@@ -1,0 +1,17 @@
+Identifier,Polymer EntityData,,,,,,,,,
+Entry ID,Entity ID,Asym ID,Auth Asym ID,Database Name,Accession Code(s),Sequence,Polymer Entity Sequence Length,Entity Macromolecule Type,Molecular Weight (Entity),
+"1G92","1","A","A","UniProt","P41736","FLPLLILGSLLMTPPVIQAIHDAQR",25,"polypeptide(L)",2.759
+"1PEN","1","A","A","UniProt","P50984","GCCSLPPCAANNPDYCX",17,"polypeptide(L)",1.626
+"1TCG","1","A","A","UniProt","P01523","RDCCTPPKKCKDRQCKPQRCCAX",23,"polypeptide(L)",2.621
+"1TCH","1","A","A","UniProt","P01523","RDCCTPPKKCKDAQCKPQRCCAX",23,"polypeptide(L)",2.535
+"1TCJ","1","A","A","UniProt","P01523","RDCCTPPKKCKDRQCKPQRCCAX",23,"polypeptide(L)",2.621
+"1TCK","1","A","A","UniProt","P01523","RDCCTPPKKCKDAQCKPQRCCAX",23,"polypeptide(L)",2.535
+"1AS5","1","A","A","UniProt","P56529","HPPCCLYGKCRRYPGCSSASCCQRX",25,"polypeptide(L)",2.727
+"1GIB","1","A","A","UniProt","P01524","RDCCTPPRKCKDRRCKPMKCCA",22,"polypeptide(L)",2.655
+"1XGC","1","A","A","UniProt","P0DQR7","ECCNPACGRHYSCX",14,"polypeptide(L)",1.443
+"1P1P","1","A","A","UniProt","P55963","GCCGSYPNAACHPCSCKDRPSYCGQX",26,"polypeptide(L)",2.625
+"1MII","1","A","A","UniProt","P56636","GCCSNPVCHLEHSNLCX",17,"polypeptide(L)",1.716
+"1NOT","1","A","A","UniProt","P0DQR7","ECCNPACGRHYSCX",14,"polypeptide(L)",1.443
+"1E74","1","A","A","UniProt","P50983","GCCSDPRCAWECX",13,"polypeptide(L)",1.329
+"1E75","1","A","A","UniProt","P50983","GCCSDPLCAWRCX",13,"polypeptide(L)",1.313
+"1E76","1","A","A","UniProt","P50983","GCCSNPRCAWRCX",13,"polypeptide(L)",1.356
