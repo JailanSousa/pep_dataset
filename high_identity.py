@@ -150,11 +150,11 @@ class SeqIdentity:
             
             pset.drop(index=l, inplace=True)
         
-        pset.to_csv('remove_high_pident.csv')
+        pset.to_csv('remove_high_pident_tst.csv')
         
         print('done')
         
-file = 'high_identity_tst.csv'
+file = 'keep_pepset.csv'
 
 pident = SeqIdentity(file)
 
