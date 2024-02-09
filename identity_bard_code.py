@@ -1,6 +1,7 @@
 import biotite.sequence as seq
 import biotite.sequence.align as align
 
+import sys
 import numpy as np
 import pandas as pd
 
@@ -88,10 +89,17 @@ class SeqIdentity:
 
         # Create uniq dataset.
         uniq = pepset.iloc[unique_seqs]
-        uniq.to_csv('uniq_pepset.csv', index=False)
+        uniq.to_csv('uniq_pepset2.csv', index=False)
+        
+    def run():
 
-file = 'high_identity_tst.csv'
-pident = SeqIdentity(file)
+        try:
+            file = sys.argv[1]
+            pident = SeqIdentity(file)
 
-pident.remove_redundants_seqs()
+            pident.remove_redundants_seqs()
 
+        except IndexError:
+            print('A csv file is necessary!')
+
+SeqIdentity.run()
