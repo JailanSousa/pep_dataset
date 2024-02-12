@@ -1,5 +1,4 @@
 import pandas as pd
-from tqdm import tqdm
 
 def scoring_seqs(file):
     

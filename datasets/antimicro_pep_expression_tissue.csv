@@ -1,0 +1,68 @@
+Entry,Tissue specificity,Keep
+Q9U8X3,"TISSUE SPECIFICITY: Granular hemocytes, small secretory granules. {ECO:0000269|PubMed:10473569}.",
+A0A1X9QHL1,TISSUE SPECIFICITY: Highly expressed by the mesenteries. Moderately expressed by the pharynx. Weakly expressed by the gonad and pedal disk. No expression in tentacle. {ECO:0000269|PubMed:28796463}.,
+P83312,TISSUE SPECIFICITY: Expressed by the venom gland. {ECO:0000269|Ref.1}.,keep
+P83313,TISSUE SPECIFICITY: Expressed by the venom gland. {ECO:0000269|PubMed:12354111}.,keep
+P83314,TISSUE SPECIFICITY: Expressed by the venom gland. {ECO:0000305}.,keep
+C7C1L2,TISSUE SPECIFICITY: Expressed by the venom gland. {ECO:0000305|PubMed:19379768}.,keep
+L0GBQ6,TISSUE SPECIFICITY: Expressed by the venom gland. {ECO:0000305|PubMed:23182832}.,keep
+Q5VJS9,TISSUE SPECIFICITY: Expressed by the venom gland. {ECO:0000305|Ref.1}.,keep
+B5LUQ7,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:18803332}.,keep
+B5LUQ8,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:18803332}.,keep
+B5LUQ9,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:18803332}.,keep
+O15496,"TISSUE SPECIFICITY: Found in spleen, thymus, peripheral blood leukocytes, pancreas, lung, and colon (PubMed:9188469). Expressed in neuronal fibers in dorsal root ganglia and in peripheral tissues including stomach, white adipose tissue and prostate (at protein level) (PubMed:21266581). {ECO:0000269|PubMed:21266581, ECO:0000269|PubMed:9188469}.",
+P31107,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000305|PubMed:1438301}.,keep
+P62568,TISSUE SPECIFICITY: Expressed by the skin parotoid and/or rostral glands. {ECO:0000305|Ref.1}.,keep
+P81605,"TISSUE SPECIFICITY: Detected in urine (at protein level) (PubMed:25326458, PubMed:36213313, PubMed:37453717). Constitutively expressed in eccrine sweat gland cells (at protein level). Secreted into the sweat at a concentration of 1-10 micrograms/ml. {ECO:0000269|PubMed:11694882, ECO:0000269|PubMed:25326458, ECO:0000269|PubMed:36213313, ECO:0000269|PubMed:37453717}.",
+P86169,TISSUE SPECIFICITY: Expressed by the venom gland. {ECO:0000269|PubMed:19013478}.,keep
+B5LUQ4,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:18803332}.,keep
+B5LUR0,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:18803332}.,keep
+B5LUR1,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:18803332}.,keep
+G5EC68,TISSUE SPECIFICITY: Expressed in the pharynx (at protein level). Detected in pharyngeal neurons and secretory cells. {ECO:0000269|PubMed:11772394}.,
+O44662,"TISSUE SPECIFICITY: Expressed in hypoderm. {ECO:0000269|PubMed:11717458, ECO:0000269|PubMed:15048112}.",
+P0DUJ6,TISSUE SPECIFICITY: Expressed by the venom gland. {ECO:0000305|PubMed:32206496}.,keep
+P82389,"TISSUE SPECIFICITY: Expressed by the skin dorsal glands. {ECO:0000305|PubMed:10951191, ECO:0000305|PubMed:15721491}.",keep
+P82390,"TISSUE SPECIFICITY: Expressed by the skin dorsal glands. {ECO:0000305|PubMed:10951191, ECO:0000305|PubMed:15721491}.",keep
+P84276,"TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:11087945, ECO:0000269|PubMed:15128283}.",keep
+Q800R2,TISSUE SPECIFICITY: Expressed by the skin parotoid and/or rostral glands. {ECO:0000305|Ref.2}.,keep
+A7WNV3,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:11087945}.,keep
+A7WNV4,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:11087945}.,keep
+A7WNV5,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:11087945}.,keep
+A7WNV6,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:11087945}.,keep
+A7WNV7,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:11087945}.,keep
+B6CPR5,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:11087945}.,keep
+O44664,"TISSUE SPECIFICITY: Weakly or not expressed in absence of infection. Upon infection by D.coniospora, it is expressed in hypoderm. Also expressed in perivulval cells when D.coniospora spores adhere to this region (PubMed:11717458, PubMed:15048112, PubMed:18394898, PubMed:19380113). Expressed in hypodermis upon physical injury (PubMed:18394898). {ECO:0000269|PubMed:11717458, ECO:0000269|PubMed:15048112, ECO:0000269|PubMed:18394898, ECO:0000269|PubMed:19380113}.",
+P07198,"TISSUE SPECIFICITY: XPF is synthesized in the stomach and stored in a novel granular multinucleated cell in the gastric mucosa, it is stored as active, processed peptides in large granules within the granular gland secretions of the skin.",
+P0C1Z7,"TISSUE SPECIFICITY: Granular hemocytes, small secretory granules. {ECO:0000269|PubMed:10473569}.",
+P0C1Z8,"TISSUE SPECIFICITY: Granular hemocytes, small secretory granules. {ECO:0000269|PubMed:10473569}.",
+P0C1Z9,"TISSUE SPECIFICITY: Granular hemocytes, small secretory granules. {ECO:0000269|PubMed:10473569}.",
+P0C8B1,"TISSUE SPECIFICITY: Highly expressed in intestine, liver and spleen and expressed at lower levels in brain, kidney, lung, testis and venom gland. {ECO:0000269|PubMed:18662710}.",
+P0DV62,TISSUE SPECIFICITY: Expressed by the venom gland. {ECO:0000305|PubMed:32707636}.,keep
+P56249,TISSUE SPECIFICITY: Expressed by the granular skin glands. {ECO:0000305|PubMed:9225251}.,keep
+P61508,TISSUE SPECIFICITY: Expressed by the venom gland.,keep
+P62547,TISSUE SPECIFICITY: Expressed by the skin dorsal glands. {ECO:0000305|PubMed:9516047}.,keep
+P81251,TISSUE SPECIFICITY: Expressed by the skin dorsal glands. {ECO:0000305|PubMed:9516047}.,keep
+P81252,TISSUE SPECIFICITY: Expressed by the skin dorsal glands. {ECO:0000305|PubMed:9516047}.,keep
+P81835,TISSUE SPECIFICITY: Expressed by the dorsal and submental skin glands. {ECO:0000305|PubMed:10504394}.,keep
+P82386,TISSUE SPECIFICITY: Expressed by the skin dorsal glands. {ECO:0000305|PubMed:10951191}.,keep
+P82391,TISSUE SPECIFICITY: Expressed by the skin dorsal glands. {ECO:0000305|PubMed:10951191}.,keep
+P83621,TISSUE SPECIFICITY: Expressed by the venom gland. {ECO:0000305}.,keep
+P84262,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:11087945}.,keep
+P84274,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:11087945}.,keep
+P84275,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:11087945}.,keep
+P84277,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:11087945}.,keep
+P84278,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:11087945}.,keep
+P84279,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:11087945}.,keep
+P84280,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:11087945}.,keep
+P84281,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:11087945}.,keep
+P86127,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:16470724}.,keep
+P86131,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:15317042}.,keep
+P86485,TISSUE SPECIFICITY: Expressed by the skin dorsal glands. {ECO:0000269|PubMed:19642086}.,keep
+P86505,TISSUE SPECIFICITY: Expressed by the skin dorsal glands. {ECO:0000269|PubMed:16124032}.,keep
+P0C200,"TISSUE SPECIFICITY: Granular hemocytes, small secretory granules. {ECO:0000269|PubMed:10473569}.",
+P80952,TISSUE SPECIFICITY: Skin.,keep
+P86136,TISSUE SPECIFICITY: Expressed by the skin glands. {ECO:0000269|PubMed:18601958}.,keep
+P82387,TISSUE SPECIFICITY: Expressed by the skin dorsal glands.,keep
+Q8MMJ7,"TISSUE SPECIFICITY: Expressed by the venom gland. {ECO:0000305|PubMed:11520071, ECO:0000305|PubMed:12054688}.",keep
+P33046,TISSUE SPECIFICITY: Large granules of neutrophils.,
+P81058,"TISSUE SPECIFICITY: Higher expression in hemocytes and to a lesser extent in heart, testis, gills, intestine, lymphoid organ and hepatopancreas. Traces in eyes and subcuticular epithelium. Not present in the brain. {ECO:0000269|PubMed:10639333}.",
