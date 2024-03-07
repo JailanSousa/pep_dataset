@@ -5,7 +5,8 @@ import pandas as pd
 from dbsetmain import main, read_info, sequence
 import os
 
-os.chdir('/home/jssousa/neuro_pep_dataset/ncbi_dtsets')
+rootdir = '/home/jssousa/pep_dataset/ncbi_dtsets'
+os.chdir(rootdir)
 
 class InsectPepDataSet:
     
@@ -147,7 +148,7 @@ class InsectPepDataSet:
     
     def add_seq(self):
         
-        file = 'paraly_peptide.fasta'
+        file = 'venom_pep.fasta'
         fasta = sequence(file)
         id_seq = self.version_id()
         
@@ -189,9 +190,9 @@ class InsectPepDataSet:
 
         df = pd.DataFrame(pepdataset)
         df_non_redundante = df.drop_duplicates(subset=['sequence'], keep='first')
-        return df_non_redundante.to_csv('paraly_peptide.csv', index=False)
+        return df_non_redundante.to_csv(f'{rootdir}/venom_peptide.csv', index=False)
 
-file_name = 'paraly_peptide.gp'
+file_name = 'venom_pep.gp'
 tst = InsectPepDataSet(file_name)
 
 

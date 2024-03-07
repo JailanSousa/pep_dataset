@@ -1,9 +1,9 @@
 import pandas as pd
 import os
 
-# os.chdir('/home/jssousa/neuro_pep_dataset')
+#os.chdir('/home/jssousa/pep_dataset/datasets')
 
-file = 'allsets_again.csv'
+file = 'pep_modelling_set.csv'
 
 df = pd.read_csv(file)
 
@@ -13,6 +13,6 @@ df = pd.read_csv(file)
 
 df_non_redd = df.drop_duplicates(subset=['Entry'], keep='first')
 
-df_non_redd.to_csv('allsets_again.csv', index=False)
+df_non_redd.to_csv('pep_modelling_set.csv', index=False)
 
 print('OK')

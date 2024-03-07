@@ -1,0 +1,371 @@
+Entry,pdb_code,Sequence,Length,kingdom,Organism,DBSOURCE,Protein names,PubMed ID,Reviewed,Function [CC],ShortFunction
+P0C2A0,,KKDGYIVDSNGCAPECFPTNXGC,23,Metazoa,Androctonus crassicauda (Arabian fat-tailed scorpion),UniprotKB,Toxin Acra2,16762386,reviewed,FUNCTION: Excitatory insect toxins induce a spastic paralysis. They bind voltage-independently at site-4 of sodium channels (Nav) and shift the voltage of activation toward more negative potentials thereby affecting sodium channel activation and promoting spontaneous and repetitive firing (By similarity). Is lethal to mice. Is about 1% of the total protein in the venom. {ECO:0000250}.,insect Nav inhibitor
+P0DMQ4,,MNTATGFIVLLVXATVIGGIEAGESDMRKDVMGLFRRTICTGADRPCAACCPCCPGTSCQGPESNXISYCRND,73,Metazoa,Hadronyche modesta (Victorian funnel-web spider),UniprotKB,Lambda-hexatoxin-Hmo1d (Lambda-HXTX-Hmo1d) (Kappa-hexatoxin-Hmo1d),24593665,reviewed,FUNCTION: This excitatory toxin inhibits insect calcium-activated potassium (KCa) channels (Slo-type). {ECO:0000250|UniProtKB:P82228}.,insect KCav inhibitor
+P55817,,AKDGDFEGPPGCLKMGELCKGGTCCTKVYKYWKWRKLECLGKNDGWFKKKFICDEPCNPXX,61,Metazoa,Diguetia canities (Desert bush spider) (Segestria canities),UniprotKB,Mu-diguetoxin-Dc1c (Mu-DGTX-Dc1c) (Insecticidal toxin DTX12),8541888,reviewed,FUNCTION: Acts by delaying the inactivation of presynaptic voltage-sensitive sodium channels (Nav). Acts against insects and causes a progressive spastic paralysis.,insect VGSC inhibitor
+P0CAZ5,,MKYFVVXXALVAAFACIAESKPAESEHELAEVEEENELADLEDAVWLEDLADLSDLEETRGFFGNAWKKIKGKAEKFFRKKAAKIIAKKEGITKEEAEAKVDPMSKKQIKVYLLKHYGKKALQKASEKL,129,Metazoa,Lachesana tarabaevi (Spider),UniprotKB,M-zodatoxin-Lt8l (M-ZDTX-Lt8l) (Cytoinsectotoxin 1-12),18215128,reviewed,"FUNCTION: Insecticidal, cytolytic and antimicrobial peptide. Forms voltage-dependent, ion-permeable channels in membranes. At high concentration causes cell membrane lysis (By similarity). {ECO:0000250}.",insecticide and antimicrobial
+P0CJ35,,RRCFITPNVRSERCPPGQEVCFTKTXDG,28,Metazoa,Oxyuranus scutellatus scutellatus (Australian taipan) (Coastal taipan),UniprotKB,"Taicatoxin, alpha-neurotoxin-like component (TCX, alpha-neurotoxin-like component)",1485334; 8901456; 9242659; 15855042,reviewed,"FUNCTION: The heterotrimer blocks the voltage-dependent L-type calcium channels (Cav1/CACNA1) from the heart, and the small conductance calcium-activated potassium channels (KCa2/KCNN) in the chromaffin cells and in the brain. Is very toxic to mice. {ECO:0000269|PubMed:15855042, ECO:0000269|PubMed:8901456, ECO:0000269|PubMed:9242659}.",Cav blocker
+B3EWY0,,GSPLTYPCHSAQCEQPCKDANMRFGXCMN,29,Metazoa,Mesobuthus gibbosus (Mediterranean checkered scorpion) (Buthus gibbosus),UniprotKB,Potassium channel toxin alpha-KTx 3.15 (MegKTx1),23142506,reviewed,"FUNCTION: May play a role in blocking voltage-gated potassium channels Kv1.1/KCNA1, Kv1.3/KCNA3 and Kv1.6/KCNA6. {ECO:0000269|PubMed:23142506}.",may Kav blocker
+P0C167,,VFIDVSCSVSKECWAPCKAAVGTDRGKCMGKKCRCYX,37,Metazoa,Centruroides limbatus (Bark scorpion),UniprotKB,Potassium channel toxin alpha-KTx 1.4 (Limbatotoxin) (LbTx) (Limbatustoxin),,reviewed,FUNCTION: Blocks selectively the high conductance calcium-activated (maxi-K) potassium channels. {ECO:0000250|UniProtKB:P0C182}.,KCav blocker
+P81789,,GCANAYKSCNGPHTCCWGYNGYKKACICSGXNWK,34,Metazoa,Phoneutria nigriventer (Brazilian armed spider) (Ctenus nigriventer),UniprotKB,Omega-ctenitoxin-Pn2a (Omega-CNTX-Pn2a) (Neurotoxin Tx3-3) (Omega-PnTx3-3) (PnTx3-3),8446961; 16278100; 8660275; 9351520; 9631431; 10884557; 11397544; 19370546,reviewed,"FUNCTION: Inhibits all known high-voltage activated calcium channels (L-, P/Q- and R-type currents) (Cav), and most effectively the P/Q- (Cav2.1/CACNA1A) and R-type (Cav2.3/CACNA1E) currents (PubMed:10884557). In rat brain, inhibits glutamate release, neuronal death and loss of neurotransmission in the hippocampus resulting from ischemia. In vivo, induces rapid general flaccid paralysis followed by death in 10-30 minutes at dose levels of 5 ug per mouse. {ECO:0000269|PubMed:10884557, ECO:0000269|PubMed:11397544, ECO:0000269|PubMed:19370546, ECO:0000269|PubMed:8660275, ECO:0000269|PubMed:9351520, ECO:0000269|PubMed:9631431}.",Cav blocker
+C0HJN0,,ISCTGSKQCYDPCKKKTGCPNAKCMNKSCXCYGC,34,Metazoa,Heterometrus laoticus (Thai giant scorpion),UniprotKB,Potassium channel toxin alpha-KTx 6 hetlaxin,24189292; 23657660,reviewed,"FUNCTION: Binds to voltage-gated potassium channels Kv1.3/KCNA3 (IC(50)=0.48 uM) and Kv1.1/KCNA1 (IC(50)=6.7 uM) and inhibits channel activity. {ECO:0000269|PubMed:23657660, ECO:0000269|PubMed:24189292}.",Kav inhibitor
+P0C7W7,,XIIGAPCRRCYHSDGKGGCVRDWSCGQQ,28,Metazoa,Stichodactyla haddoni (Saddle carpet anemone) (Haddon's sea anemone),UniprotKB,Kappa-stichotoxin-Shd1a/kappa-stichotoxin-Shd1b (Kappa-SHTX-Shd1a/kappa-SHTX-Shd1b) (Kappa-AnmTX Sha 9a-1) (Potassium channel toxin SHTX I/SHTX II) (Potassium channel toxin SHTX-1/SHTX-2),18243416; 22683676; 23801332,reviewed,FUNCTION: Kappa-stichotoxin-Shd1a: inhibits voltage-gated potassium channels (Kv).; FUNCTION: Kappa-stichotoxin-Shd1b: inhibits voltage-gated potassium channels (Kv). This toxin inhibits the binding of 125I-alpha-dendrotoxin to synaptosomal membranes (IC(50)=270 nM). {ECO:0000269|PubMed:18243416}.,Kav inhibitor
+P59849,,TFINVKCTSPKQCLPACKEKFGXAAGKCMNGKCK,34,Metazoa,Centruroides limbatus (Bark scorpion),UniprotKB,Potassium channel toxin alpha-KTx 2.6 (Hongotoxin-3) (HgTX3),9446567,reviewed,FUNCTION: Potent inhibitor of Kv1/KCNA voltage-gated potassium channels. {ECO:0000250|UniProtKB:P59847}.,Kav inhibitor
+Q3YEF9,,MEKLTILLLVAAVLMSTQALIQSDGEKRQQAKINFLSXRKSTAESWWEGECKGWSVYCSWDWECCSGECTRYYCELW,77,Metazoa,Conus betulinus (Beech cone),UniprotKB,Conotoxin Bt6.6 (Conotoxin BeB54),17177885,reviewed,,may neurotoxin
+Q9BP72,,MSRLGIMVLTLLLLVYMATSHQDAGEKQATQRDAINFRWKRSLTRRTATEECEESCEEEEKTCCGEXDGEPVCARFCLG,79,Metazoa,Conus arenatus (Sand-dusted cone),UniprotKB,Conotoxin ArMSGL-0124,11158371,reviewed,,may neurotoxin
+Q9BP90,,MKLTCVLIVAVLILTACQLIAADDSRDLKRFSRRKMRDGMLNTKNMKRQCLPPLSLCTMDDDECCDDCXLFLCLVTS,77,Metazoa,Conus arenatus (Sand-dusted cone),UniprotKB,Conotoxin ArMKLT2-0251,11158371,reviewed,,may neurotoxin
+D5KR58,,MKLTCVLIVAVLILTACQFTAADDMEYPKWLRGLSTDXSERGCWLCLGPNACCRGSVCHDYCPR,64,Metazoa,Californiconus californicus (California cone) (Conus californicus),UniprotKB,Conotoxin cal6.4a (Conotoxin cal6.4c),21172372,reviewed,FUNCTION: Probable neurotoxin with unknown target. Possibly targets ion channels. {ECO:0000305}.,possible ion channel inhibitor
+P83896,,KAKCADIDQPCKTSCDCCETKGACTCYKSGCVCRMGSFXATCKK,44,Metazoa,Phoneutria keyserlingi (Brazilian wandering spider) (Ctenus keyserlingii),UniprotKB,U4-ctenitoxin-Pk1a (U4-CNTX-Pk1a) (Neurotoxin PKTx28C4),16278100,reviewed,"FUNCTION: Neurotoxin. Causes spastic paralysis and death in mice within 10 minutes at dose levels of 3 ug per mouse. {ECO:0000269|Ref.2, ECO:0000305}.",paralytic
+D2Y102,,MKLCVVXVLLMLAMPFNGGEASRFFNQHARSQRSGMKTRGIWCDPPCPEGETCRGGECSDEFNGDLGG,68,Metazoa,Californiconus californicus (California cone) (Conus californicus),UniprotKB,Conotoxin Cal14.13c (Conotoxin Cal14.1c),21172372,reviewed,FUNCTION: Probable neurotoxin with unknown target. Possibly targets ion channels. {ECO:0000305}.,possible ion channel inhibitor
+P0DOZ3,,RVLEPGXEDPDVGEPAGEYEHHLLEX,26,Metazoa,Conus regius (Crown cone),UniprotKB,Conotoxin reg6(gamma),17153339,reviewed,,may neurotoxin
+P85023,,LCCPPQXCGPDCASPCC,17,Metazoa,Conus regius (Crown cone),UniprotKB,Conotoxin Reg12b (Reg12l),17153339,reviewed,,may neurotoxin
+Q9BP53,,MLCLPXFIILLLLASPAAPNPLQTRXQSNLIRAGPEDANIKTXKRVIISGLXXSILVPLIDAIIG,65,Metazoa,Conus ventricosus (Mediterranean cone),UniprotKB,Conotoxin VnMLCL-031,11158371,reviewed,,may neurotoxin
+AAB33956,,LFDFIVHAKDILGGIDNLAKGIXQAINKV,29,Metazoa,Habrobracon hebetor,accession AAB33956.1,"Brh-III=73 kda insecticidal toxin {N-terminal} [Bracon
+hebetor=parasitic wasps, venom, Peptide Partial, 29 aa].",7703987,"TITLE     Purification and characterization of insecticidal toxins from venom
+            glands of the parasitic wasp, Bracon hebetor",Method: direct peptide sequencing.,insectcidal
+AAB33954,,TDFYYTDVIADQDFLLKQKKVFQLLYHVSQPXISN,35,Metazoa,Habrobracon hebetor,accession AAB33954.1,"Brh-I=73 kda insecticidal toxin {N-terminal} [Bracon
+hebetor=parasitic wasps, venom, Peptide Partial, 35 aa].",7703987,"TITLE     Purification and characterization of insecticidal toxins from venom
+            glands of the parasitic wasp, Bracon hebetor",Method: direct peptide sequencing.,insectcidal
+AAB37463,,AATDSKIVEYKPIRTTNVAQEXXIQ,25,Metazoa,Manduca sexta,accession AAB37463.1,"kda biotin protein/pyruvate carboxylase homolog {N-terminal}
+Manduca sexta=tobacco hornworms, larvae, midguts, brush border
+membrane vesicles, Peptide Partial, 25 aa].",8702286,"TITLE     The Bacillus thuringiensis insecticidal toxin binds
+            biotin-containing proteins",Method: direct peptide sequencing.,insecticidal
+1EIT,1EIT,ECVPENGHCRDWYDECCEGFYCSCRQPPKCICRNNNX,37,Metazoa,Agelenopsis aperta,pdb:,"Chain A, MU-AGATOXIN-I.","   2914898
+   8232218
+   7773772
+   7703698
+   8608119","TITLE     Purification and characterization of two classes of neurotoxins
+            from the funnel web spider, Agelenopsis aperta
+  TITLE     Structure and properties of omega-agatoxin IVB, a new antagonist of
+            P-type calcium channels
+  TITLE     Structure-activity relationships for P-type calcium
+            channel-selective omega-agatoxins
+  TITLE     The solution structure of omega-Aga-IVB, a P-type calcium channel
+            antagonist from venom of the funnel web spider, Agelenopsis aperta
+  TITLE     Three-dimensional structure analysis of mu-agatoxins: further
+            evidence for common motifs among neurotoxins with diverse ion
+            channel specificities
+","On Jul 10, 2009 this sequence version replaced gi:157830954.
+            NMR STUDY OF MU-AGATOXIN.",neurotoxin
+2NBC,2NBC,WCASGCRKKRHGGCSCX,17,Metazoa,Anochetus emarginatus,pdb:,"Chain A, poneritoxin.",27474999,"TITLE     Isolation and characterization of a structurally unique
+            beta-hairpin venom peptide from the predatory ant Anochetus
+            emarginatus
+","Resonance assignments and structure determination of poneritoxin,
+            omega-PONTX-Ae1a, from Anochetus emarginatus.",may neurotoxin
+2E2S,2E2S,GGCLPHNRFCNALSGPRCCSGLKCKELSIWDSRCLX,36,Metazoa,Allagelena opulenta,pdb:,"Chain A, Agelenin.",17644092,"TITLE     Solution structure of agelenin, an insecticidal peptide isolated
+            from the spider Agelena opulenta, and its structural similarities
+            to insect-specific calcium channel inhibitors
+","On Jul 10, 2009 this sequence version replaced gi:187609436.
+            Solution structure of agelenin, an insecticidal peptide from the
+            venom of Agelena opulenta.",Cav inhibitor
+2KNN,2KNN,GIPCGXSCVWIPCISSAIGCSCKSKVCYRN,30,Viridiplantae,Viola odorata,pdb:,"Chain A, Cycloviolacin-O2.",19735083,"TITLE     The conserved glu in the cyclotide cycloviolacin O2 has a key
+            structural role
+","Solution structure of the cyclotide cycloviolacin O2 with Glu6
+            methylated (cyO2Me).",insecticidal
+1V91,1V91,ACVGDGQRCASWSGPYCCDGYYCSCRSMPYCRCRNNSX,38,Metazoa,Pireneitega luctuosa,pdb:,"Chain A, Delta-palutoxin IT2.",15726637,"TITLE     Solution structure of two insect-specific spider toxins and their
+            pharmacological interaction with the insect voltage-gated Na+
+            channel
+","On Jul 10, 2009 this sequence version replaced gi:157880509.
+            Solution structure of insectidal toxin delta-paluIT2-NH2.",insecticidal
+6WQR,6WQR,ACKEYWECGAFLFCIEGICVPMIX,24,Metazoa,Haemadipsa sylvestris,pdb:,"Chain A, HSTX-I.",32524995,"TITLE     Pharmacological activity and NMR solution structure of the leech
+            peptide HSTX-I
+  TITLE     Direct Submission",NMR solution structure of leech peptide HSTX-I.,may neurotoxin
+5WLX,5WLX,GDCHKFLGWCRGEKDPCCEHLTCHVKHGWCVWDGTIX,37,Metazoa,Avicularia,pdb:,"Chain A, Kappa-theraphotoxin-Aa1a.",30149017,"TITLE     Novel venom-derived inhibitors of the human EAG channel, a putative
+            antiepileptic drug target
+  TITLE     Direct Submission",Solution structure of kappa-theraphotoxin-Aa1a.,may neurotoxin
+W4VRY9,,MNTMITFLVLFVLTAANGAPEANERKIPEAIHNEDQSLAEMAEELMFFLQQTEFEAPLLQEEEEAEXAEXRNSRERRCAMGDVPCTKGKTNCCKGYECKPKSPAWWYDTDFCQSIHSGRPIGI,123,Metazoa,Trittame loki,UniProtKB:,"RecName: Full=U9-barytoxin-Tl1a; Short=U9-BATX-Tl1a; AltName:
+Full=Toxin ICK-2; Flags: Precursor.",24351713,"TITLE     A proteomics and transcriptomics investigation of the venom from
+            the barychelid spider Trittame loki (brush-foot trapdoor)","[FUNCTION] Ion channel inhibitor. {ECO:0000305}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000250}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            [DOMAIN] The presence of a 'disulfide through disulfide knot'
+            structurally defines this protein as a knottin. {ECO:0000250}.
+            [SIMILARITY] Belongs to the neurotoxin 14 (magi-1) family. 05
+            (ICK-7) subfamily. ICK-7 sub-subfamily. {ECO:0000305}.",ion channel inhibitor
+W4VRY7,,MKTIIVFLSLLVLATKFGDAKEGVNQEQKKEVTQNEFRVEYLNEMAAMSLLQQLEAXESALFEKEAGRNSRQXRCAMGDVPCTKGKTNCCKGYECKPKSPSWWYDTDFCQPIHGGRPIGI,120,Metazoa,Trittame loki,UniProtKB:,"RecName: Full=U13-barytoxin-Tl1a; Short=U13-BATX-Tl1a; AltName:
+Full=Toxin ICK-7; Flags: Precursor.",24351713,"TITLE     A proteomics and transcriptomics investigation of the venom from
+            the barychelid spider Trittame loki (brush-foot trapdoor)","[FUNCTION] Ion channel inhibitor. {ECO:0000305}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000250}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            [DOMAIN] The presence of a 'disulfide through disulfide knot'
+            structurally defines this protein as a knottin. {ECO:0000250}.
+            [SIMILARITY] Belongs to the neurotoxin 14 (magi-1) family. 05
+            (ICK-7) subfamily. ICK-7 sub-subfamily. {ECO:0000305}.",ion channel inhibitor
+1AV3,1AV3,CRIXNQKCFQHLDDCCSRKCNRFNKCV,27,Metazoa,Conus purpurascens,pdb:,"Chain A, KAPPA-PVIIA.","   12074021
+   9438859","TITLE     Strategy for rapid immobilization of prey by a fish-hunting marine
+            snail
+  TITLE     Solution structure and proposed binding mechanism of a novel
+            potassium channel toxin kappa-conotoxin PVIIA
+  TITLE     Direct Submission","On Nov 7, 2007 this sequence version replaced gi:157830099.
+            POTASSIUM CHANNEL BLOCKER KAPPA CONOTOXIN PVIIA FROM C.
+            PURPURASCENS, NMR, 20 STRUCTURES.",may neurotoxin
+6CGW,6CGW,YCQKWXWTCDSKRACCEGLRCKLWCRKEI,29,Metazoa,Chilobrachys guangxiensis,pdb:,"Chain A, Beta/kappa-theraphotoxin-Cg2a.",29723257,"TITLE     Pharmacological characterization of potent and selective NaV1.7
+            inhibitors engineered from Chilobrachys jingzhao tarantula venom
+            peptide JzTx-V
+  TITLE     Direct Submission","Solution NMR structure of JzTx-V, a Nav 1.7 inhibitory peptide.",may neurotoxin
+6CNU,6CNU,EXCQKWXWTCDSARACCEGLRCKLWCRKEIX,31,Metazoa,Chilobrachys guangxiensis,pdb:,"Chain B, JzTx-V.",30346167,"TITLE     Discovery of Tarantula Venom-Derived NaV1.7-Inhibitory JzTx-V
+            Peptide 5-Br-Trp24 Analogue AM-6120 with Systemic Block of
+            Histamine-Induced Pruritis
+  TITLE     Direct Submission","On Mar 6, 2020 this sequence version replaced gi:1595432332.
+            Crystal Structure of JzTX-V.",may neurotoxin
+2LXG,2LXG,CCNCSSKWCRDHSRCCX,17,Metazoa,Conus kinoshitai,pdb:,"Chain A, Mu-conotoxin KIIIA.",23167564,"TITLE     Distinct disulfide isomers of mu-conotoxins KIIIA and KIIIB block
+            voltage-gated sodium channels
+  TITLE     Direct Submission",NMR solution structure of Mu-conotoxin KIIIA.,may neurotoxin
+2LOC,2LOC,VXERCCKNGKRGCGRWCRDHSRCCX,25,Metazoa,Conus bullatus,pdb:,"Chain A, Mu-conotoxin BuIIIB.",23557677,"TITLE     Mammalian neuronal sodium channel blocker mu-conotoxin BuIIIB has a
+            structured N-terminus that influences potency
+  TITLE     Direct Submission",Conotoxin analogue [D-Ala2]BuIIIB.,may neurotoxin
+2LO9,2LO9,VGERCCKNGKRGCGRWCRDHSRCCX,25,Metazoa,Conus bullatus,pdb:,"Chain A, Mu-conotoxin BuIIIB.",23557677,"TITLE     Mammalian neuronal sodium channel blocker mu-conotoxin BuIIIB has a
+            structured N-terminus that influences potency
+  TITLE     Direct Submission",NMR solution structure of Mu-contoxin BuIIIB.,may neurotoxin
+1NIX,1NIX,ECKGFGKSCVPGKNECCSGYACNSRDKWCKVLLX,34,Metazoa,Haplopelma hainanum,pdb:,"Chain A, HAINANTOXIN-I.",14675784,"TITLE     Function and solution structure of hainantoxin-I, a novel insect
+            sodium channel inhibitor from the Chinese bird spider Selenocosmia
+            hainana
+  TITLE     Direct Submission","On Jul 10, 2009 this sequence version replaced gi:159162746.
+            THREE DIMENSIONAL SOLUTION STRUCTURE OF HAINANTOXIN-I BY 2D 1H-NMR.",Nav inhibitor
+1V90,1V90,GCLGEGEKCADWSGPSCCDGFYCSCRSMPYCRCRNNSX,38,Metazoa,Pireneitega luctuosa,pdb:,"Chain A, Delta-palutoxin IT1.",15726637,"TITLE     Solution structure of two insect-specific spider toxins and their
+            pharmacological interaction with the insect voltage-gated Na+
+            channel
+  TITLE     Direct Submission","On Jul 10, 2009 this sequence version replaced gi:159163214.
+            Solution structure by NMR means of delta-paluIT1-NH2.",may neurotoxin
+5TLR,5TLR,GCLGIWKACNPSNDQCCKSSKLVCSRKTRWCKWQIX,36,Metazoa,Cyriopagopus schmidti,pdb:,"Chain A, Mu-theraphotoxin-Hs2a.",28115115,"TITLE     Spider peptide toxin HwTx-IV engineered to bind to lipid membranes
+            has an increased inhibitory potency at human voltage-gated sodium
+            channel hNaV1.7
+  TITLE     Direct Submission",Solution NMR structure of gHwTx-IV.,may neurotoxin
+2H9X,2H9X,GVXCRCDSDGPSVHGNTLSGTVWVGSCASGWHKCNDEYNIAYECCKQ,47,Metazoa,Condylactis gigantea,pdb:,"Chain A, Toxin CgNa.","   16814340
+   17506725","TITLE     A new toxin from the sea anemone Condylactis gigantea with effect
+            on sodium channel inactivation
+  TITLE     CgNa, a type I toxin from the giant Caribbean sea anemone
+            Condylactis gigantea shows structural similarities to both type I
+            and II toxins, as well as distinctive structural and functional
+            properties(1)
+  TITLE     Direct Submission","On Nov 7, 2007 this sequence version replaced gi:157883776.
+            NMR structure for the CgNa toxin from the sea anemone Condylactis
+            gigantea.",may neurotoxin
+6GFT,6GFT,ECKGFGKSCVPGKNECCSGLTCSNKHKWCKVLLX,34,Metazoa,Cyriopagopus schioedtei,pdb:,"Chain A, cyriotoxin-1a.",30784059,"TITLE     From identification to functional characterization of
+            cyriotoxin-1a, an antinociceptive toxin from the spider
+            Cyriopagopus schioedtei
+  TITLE     Direct Submission","Antinociceptive evaluation of cyriotoxin-1a, the first toxin
+            purified from Cyriopagopus schioedtei spider venom.",may neurotoxin
+AAB23587,,LANRLYSGIKVKIQRVNNSSTNDNLVRKNDQVYINFVASKTHLFPLYADTATTNKEKXIK,60,Bacteria,Clostridium botulinum,accession AAB23587.1,"type E neurotoxin, type E NT=16 kda fragment [Clostridium
+botulinum, type E, E-43, Alaska, Peptide Partial, 60 aa].",1388670,"TITLE     Pepsin fragmentation of botulinum type E neurotoxin: isolation and
+            characterization of 112, 48, 46, and 16 kD fragments",Method: direct peptide sequencing.,may neurotoxin
+AAB23586,,FKRIKSSSVLNMRYKNDKYVDTSGYDSNININGDVYKYPTNKXQFGIYNXKL,52,Bacteria,Clostridium botulinum,accession AAB23586.1,"type E neurotoxin, type E NT=46 kda fragment [Clostridium
+botulinum, type E, E-43, Alaska, Peptide Partial, 52 aa].",1388670,"TITLE     Pepsin fragmentation of botulinum type E neurotoxin: isolation and
+            characterization of 112, 48, 46, and 16 kD fragments",Method: direct peptide sequencing.,may neurotoxin
+P0CAR4,,LICYNDHGYIGETSESCKNGETTCYEEXWTEARXXIIERACGCXKVKPGVQMKCCKTQ,58,Metazoa,Micrurus pyrrhocryptus,UniProtKB:,RecName: Full=Weak neurotoxin D2B.,19135468,TITLE     Biochemical characterization of the Micrurus pyrrhocryptus venom,"[FUNCTION] Binds to muscle nicotinic acetylcholine receptor (nAChR)
+            and inhibit acetylcholine from binding to the receptor, thereby
+            impairing neuromuscular transmission.
+            {ECO:0000250|UniProtKB:F5CPD6}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:19135468}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [MASS SPECTROMETRY] Mass=7009; Method=Electrospray;
+            Evidence={ECO:0000269|PubMed:19135468}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Type I alpha-neurotoxin sub-subfamily.
+            {ECO:0000305}.",nAChR inhibitor
+P0CAR3,,MICYNHQSSEPPTTXTCSEGQ,21,Metazoa,Micrurus pyrrhocryptus,UniProtKB:,RecName: Full=Short neurotoxin E1.,19135468,TITLE     Biochemical characterization of the Micrurus pyrrhocryptus venom,"[FUNCTION] Binds to muscle nicotinic acetylcholine receptor (nAChR)
+            and inhibit acetylcholine from binding to the receptor, thereby
+            impairing neuromuscular transmission.
+            {ECO:0000250|UniProtKB:P60775}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:19135468}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [PTM] Contains 4 disulfide bonds. {ECO:0000250|UniProtKB:F5CPD8}.
+            [MASS SPECTROMETRY] Mass=6643; Method=Electrospray;
+            Evidence={ECO:0000269|PubMed:19135468}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Type I alpha-neurotoxin sub-subfamily.
+            {ECO:0000305}.",nAChR inhibitor
+AAB36283,,KKXLTKYSAGLQTSQTXPAGQKIXFKKW,28,Metazoa,Micrurus nigrocinctus,accession AAB36283.1,"Mnn-3C=nicotinic acetylcholine receptor-binding
+protein/AchR-binding protein {N-terminal} [Micrurus
+nigrocinctus=Central American coral snakes, nigrocinctus, venom,
+Peptide Partial, 28 aa].",8603741,"TITLE     Characterization of multiple nicotinic acetylcholine
+            receptor-binding proteins and phospholipases A2 from the venom of
+            the coral snake Micrurus nigrocinctus",Method: direct peptide sequencing.,may neurotoxin
+AAB36281,,MIXHNQQSSQPPTTKTXSEGQXYKKT,26,Metazoa,Micrurus nigrocinctus,accession AAB36281.1,"Mnn-9=nicotinic acetylcholine receptor-binding protein/AchR-binding
+protein {N-terminal} [Micrurus nigrocinctus=Central American coral
+snakes, nigrocinctus, venom, Peptide Partial, 26 aa].",8603741,"TITLE     Characterization of multiple nicotinic acetylcholine
+            receptor-binding proteins and phospholipases A2 from the venom of
+            the coral snake Micrurus nigrocinctus",Method: direct peptide sequencing.,may neurotoxin
+1TCK,1TCK,RDCCTXXKKCKDAQCKXQRCCAX,23,Metazoa,Conus geographus,pdb:,"Chain A, MU-CONOTOXIN GIIIA.","   2069951
+   1654319
+   1335283","TITLE     Tertiary structure of conotoxin GIIIA in aqueous solution
+  TITLE     Active site of mu-conotoxin GIIIA, a peptide blocker of muscle
+            sodium channels
+  TITLE     Structure-activity relationships of mu-conotoxin GIIIA: structure
+            determination of active and inactive sodium channel blocker
+            peptides by NMR and simulated annealing calculations
+  TITLE     Direct Submission","On Jul 10, 2009 this sequence version replaced gi:159163057.
+            STRUCTURE-ACTIVITY RELATIONSHIPS OF MU-CONOTOXIN GIIIA: STRUCTURE
+            DETERMINATION OF ACTIVE AND INACTIVE SODIUM CHANNEL BLOCKER
+            PEPTIDES BY NMR AND SIMULATED ANNEALING CALCULATIONS.",may neurotoxin
+1TCJ,1TCJ,RDCCTXXKKCKDRQCKXQRCCAX,23,Metazoa,Conus geographus,pdb:,"Chain A, MU-CONOTOXIN GIIIA.","   2069951
+   1654319
+   1335283","TITLE     Tertiary structure of conotoxin GIIIA in aqueous solution
+  TITLE     Active site of mu-conotoxin GIIIA, a peptide blocker of muscle
+            sodium channels
+  TITLE     Structure-activity relationships of mu-conotoxin GIIIA: structure
+            determination of active and inactive sodium channel blocker
+            peptides by NMR and simulated annealing calculations
+  TITLE     Direct Submission","On Jul 10, 2009 this sequence version replaced gi:159163056.
+            STRUCTURE-ACTIVITY RELATIONSHIPS OF MU-CONOTOXIN GIIIA: STRUCTURE
+            DETERMINATION OF ACTIVE AND INACTIVE SODIUM CHANNEL BLOCKER
+            PEPTIDES BY NMR AND SIMULATED ANNEALING CALCULATIONS.",may neurotoxin
+1CN2,1CN2,KEGYLVDKNTGCKYECLKLGDNDYCLRECKQQYGKGAGGYCYAFACWCTHLYEQAIVWPLPNKRCSX,67,Metazoa,Centruroides noxius,pdb:,"Chain A, TOXIN 2.","   8585086
+   10080898","TITLE     Cloning and characterization of the cDNAs encoding Na+
+            channel-specific toxins 1 and 2 of the scorpion Centruroides noxius
+            Hoffmann
+  TITLE     Solution structure of toxin 2 from centruroides noxius Hoffmann, a
+            beta-scorpion neurotoxin acting on sodium channels
+  TITLE     Direct Submission","On Jul 10, 2009 this sequence version replaced gi:157830646.
+            SOLUTION STRUCTURE OF TOXIN 2 FROM CENTRUROIDES NOXIUS HOFFMANN, A
+            BETA SCORPION NEUROTOXIN ACTING ON SODIUM CHANNELS, NMR, 15
+            STRUCTURES.",may neurotoxin
+1OMC,1OMC,CKSXGSSCSXTSYNCCRSCNXYTKRCYX,28,Metazoa,Conus geographus,pdb:,"Chain A, OMEGA-CONOTOXIN GVIA.","   6509012
+   2433275
+   8338837","TITLE     Purification and sequence of a presynaptic peptide toxin from Conus
+            geographus venom
+  TITLE     Neuronal calcium channel inhibitors. Synthesis of omega-conotoxin
+            GVIA and effects on 45Ca uptake by synaptosomes
+  TITLE     Solution structure of omega-conotoxin GVIA using 2-D NMR
+            spectroscopy and relaxation matrix analysis
+  TITLE     Direct Submission","On Jul 10, 2009 this sequence version replaced gi:159162793.
+            SOLUTION STRUCTURE OF OMEGA-CONOTOXIN GVIA USING 2-D NMR
+            SPECTROSCOPY AND RELAXATION MATRIX ANALYSIS.",may neurotoxin
+1OMN,1OMN,CKGKGAPCRKTMYDCCSGSCGRRGKCX,27,Metazoa,Conus magus,pdb:,"Chain A, OMEGA-CONOTOXIN M VII C (M SEVEN C).","   1352986
+   7731037","TITLE     A new Conus peptide ligand for mammalian presynaptic Ca2+ channels
+  TITLE     Solution structure of omega-conotoxin MVIIC, a high affinity ligand
+            of P-type calcium channels, using 1H NMR spectroscopy and complete
+            relaxation matrix analysis
+  TITLE     Direct Submission","On Jul 10, 2009 this sequence version replaced gi:159162795.
+            SOLUTION STRUCTURE OF OMEGA-CONOTOXIN MVIIC, A HIGH AFFINITY OF
+            P-TYPE CALCIUM CHANNELS, USING 1H NMR SPECTROSCOPY AND COMPLETE
+            RELAXATION MATRIX ANALYSIS.",may neurotoxin
+1GIB,1GIB,RDCCTXXRKCKDRRCKXMKCCA,22,Metazoa,Conus geographus,pdb:,"Chain A, MU-CONOTOXIN GIIIB.","   1991506
+   2069951
+   1335283
+   8688418","TITLE     Solution structure of mu-conotoxin GIIIA analysed by 2D-NMR and
+            distance geometry calculations
+  TITLE     Tertiary structure of conotoxin GIIIA in aqueous solution
+  TITLE     Structure-activity relationships of mu-conotoxin GIIIA: structure
+            determination of active and inactive sodium channel blocker
+            peptides by NMR and simulated annealing calculations
+  TITLE     Three-dimensional solution structure of mu-conotoxin GIIIB, a
+            specific blocker of skeletal muscle sodium channels
+  TITLE     Direct Submission","On Nov 7, 2007 this sequence version replaced gi:157831191.
+            MU-CONOTOXIN GIIIB, NMR.",may neurotoxin
+1MVJ,1MVJ,CKLKGQSCRKTSYDCCSGSCGRSGKCX,27,Metazoa,Conus striatus,pdb:,"Chain A, SVIB.",8913308,"TITLE     A consensus structure for omega-conotoxins with different
+            selectivities for voltage-sensitive calcium channel subtypes:
+            comparison of MVIIA, SVIB and SNX-202
+  TITLE     Direct Submission","On Jul 10, 2009 this sequence version replaced gi:159162717.
+            N-TYPE CALCIUM CHANNEL BLOCKER, OMEGA-CONOTOXIN MVIIA NMR, 15
+            STRUCTURES.",may neurotoxin
+1PEN,1PEN,GCCSLPPCAANNPDYCX,17,Metazoa,Conus pennaceus,pdb:,"Chain A, ALPHA-CONOTOXIN PNIA.","   8068627
+   8740364","TITLE     Snb: Crystal Structure Determination Via Shake-and-Bake
+  TITLE     New mollusc-specific alpha-conotoxins block Aplysia neuronal
+            acetylcholine receptors
+  TITLE     The 1.1 A crystal structure of the neuronal acetylcholine receptor
+            antagonist, alpha-conotoxin PnIA from Conus pennaceus
+  TITLE     Direct Submission","On Jul 10, 2009 this sequence version replaced gi:157833464.
+            ALPHA-CONOTOXIN PNI1.",may neurotoxin
+1MVI,1MVI,CKGKGAKCSRLMYDCCTGSCRSGKCX,26,Metazoa,Conus magus,pdb:,"Chain A, MVIIA.",8913308,"TITLE     A consensus structure for omega-conotoxins with different
+            selectivities for voltage-sensitive calcium channel subtypes:
+            comparison of MVIIA, SVIB and SNX-202
+  TITLE     Direct Submission","On Jul 10, 2009 this sequence version replaced gi:159162716.
+            N-TYPE CALCIUM CHANNEL BLOCKER, OMEGA-CONOTOXIN MVIIA, NMR, 15
+            STRUCTURES.",may neurotoxin
+1M2C,1M2C,GCCSNPVCHLEHSNLCX,17,Metazoa,Conus magus,pdb:,"Chain A, ALPHA-CONOTOXIN MII.",8631783,"TITLE     A new alpha-conotoxin which targets alpha3beta2 nicotinic
+            acetylcholine receptors
+  TITLE     Direct Submission","On Jul 10, 2009 this sequence version replaced gi:159162666.
+            THREE-DIMENSIONAL STRUCTURE OF ALPHA-CONOTOXIN MII, NMR, 14
+            STRUCTURES.",nAChR inhibitor
+1KCP,1KCP,CRIXNQKCFQHLDDCCSRKCNRFNKCVX,28,Metazoa,Conus purpurascens,pdb:,"Chain A, KAPPA-CONOTOXIN PVIIA.","   12074021
+   9548922","TITLE     Strategy for rapid immobilization of prey by a fish-hunting marine
+            snail
+  TITLE     Three-dimensional structure of kappa-conotoxin PVIIA, a novel
+            potassium channel-blocking toxin from cone snails
+  TITLE     Direct Submission","On Jul 10, 2009 this sequence version replaced gi:159162596.
+            3D STRUCTURE OF K-CONOTOXIN PVIIA, A NOVEL POTASSIUM
+            CHANNEL-BLOCKING TOXIN FROM CONE SNAILS, NMR, 22 STRUCTURES.",may neurotoxin
+1KTX,1KTX,GVEINVKCSGSPQCLKPCKDAGMRFGKCMNRKCHCTPX,38,Metazoa,Androctonus mauritanicus mauritanicus,pdb:,"Chain A, KALIOTOXIN.","   1730708
+   7524673","TITLE     Kaliotoxin, a novel peptidyl inhibitor of neuronal BK-type
+            Ca(2+)-activated K+ channels characterized from Androctonus
+            mauretanicus mauretanicus venom
+  TITLE     Kaliotoxin (1-37) shows structural differences with related
+            potassium channel blockers
+  TITLE     Direct Submission","On Jul 10, 2009 this sequence version replaced gi:159162616.
+            KALIOTOXIN (1-37) SHOWS STRUCTURAL DIFFERENCES WITH RELATED
+            POTASSIUM CHANNEL BLOCKERS.",may neurotoxin
+6KNP,6KNP,GFRSPCAPFCX,11,Metazoa,Conus zonatus,pdb:,"Chain A, Czon1107-P7A(major).",32234761,"TITLE     Structure and allosteric activity of a single-disulfide conopeptide
+            from Conus zonatus at human alpha3beta4 and alpha7 nicotinic
+            acetylcholine receptors
+  TITLE     Direct Submission","Structure of single disulfide peptide Czon1107-P7A(major
+            conformer).",may neurotoxin
+6KN3,6KN3,GFRSPCPPFCX,11,Metazoa,Conus zonatus,pdb:,"Chain A, Czon1107-WT(Conformer B).",32234761,"TITLE     Structure and allosteric activity of a single-disulfide conopeptide
+            from Conus zonatus at human alpha3beta4 and alpha7 nicotinic
+            acetylcholine receptors
+  TITLE     Direct Submission","Structure of single disulfide peptide Czon1107-WT (minor
+            conformer).",may neurotoxin
+6KMY,6KMY,GFRSACPPFCX,11,Metazoa,Conus zonatus,pdb:,"Chain A, Czon1107-P5A.",32234761,"TITLE     Structure and allosteric activity of a single-disulfide conopeptide
+            from Conus zonatus at human alpha3beta4 and alpha7 nicotinic
+            acetylcholine receptors
+  TITLE     Direct Submission",Structure of single disulfide peptide Czon1107-P5A.,may neurotoxin
+2LQA,2LQA,XGCAFEGESCNVQFYPCCPGLGLTCIPGNPDGTCYYL,37,Metazoa,Asteropus,pdb:,"Chain A, Asteropsin A.",23201194,"TITLE     Asteropsin A: an unusual cystine-crosslinked peptide from porifera
+            enhances neuronal Ca2+ influx
+  TITLE     Direct Submission","Solution NMR structure of Asteropsin A from marine sponge Asteropus
+            sp.",may neurotoxin
+1X5V,1X5V,ACGILHDNCVYVPAQNPCCRGLQCRYGKCLVQVX,34,Metazoa,Psalmopoeus cambridgei,pdb:,"Chain A, PcFK1.",16452619,"TITLE     Solution structure of PcFK1, a spider peptide active against
+            Plasmodium falciparum
+  TITLE     Direct Submission",NMR Structure of PcFK1.,may neurotoxin
+1C4E,1C4E,XQCVKKDELCIPYYLDCCEPLECKKVNWWDHKCIG,35,Viridiplantae,Gymnema sylvestre,pdb:,"Chain A, PROTEIN (GURMARIN).","   1607357
+   7787425
+   10491100","TITLE     A Novel Peptide Isolated from the Leaves of Gymnema Sylvestre-I.
+            Characterization and its Suppressive Effect on the Neural Responses
+            to Sweet Taste Stimuli in the Rat
+  TITLE     Amino acid sequence of sweet-taste-suppressing peptide (gurmarin)
+            from the leaves of Gymnema sylvestre
+  TITLE     Three-dimensional structure of gurmarin, a sweet taste-suppressing
+            polypeptide
+  TITLE     High-resolution solution structure of gurmarin, a
+            sweet-taste-suppressing plant polypeptide
+  TITLE     Direct Submission","On Nov 7, 2007 this sequence version replaced gi:157838389.
+            GURMARIN FROM GYMNEMA SYLVESTRE.",may neurotoxin
+6CEG,6CEG,CKPXGSKCSXSMRDCCTTCISYTKRCRKYY,30,Metazoa,Conus,pdb:,"Chain A, conotoxin MoVIB.",30194442,"TITLE     Novel analgesic omega-conotoxins from the vermivorous cone snail
+            Conus moncuri provide new insights into the evolution of
+            conopeptides
+  TITLE     Direct Submission","Solution NMR structure of the omega conotoxin MoVIB from Conus
+            moncuri.",may neurotoxin
+1WCT,1WCT,XCCXDGXCCXAAX,13,Metazoa,Conus textile,pdb:,"Chain A, OMEGAC-TXIX.",10318957,"TITLE     A conotoxin from Conus textile with unusual posttranslational
+            modifications reduces presynaptic Ca2+ influx
+  TITLE     Direct Submission","A NOVEL CONOTOXIN FROM CONUS TEXTILE WITH UNUSUAL
+            POST-TRANSLATIONAL MODIFICATIONS REDUCES PRESYNAPTIC CALCIUM
+            INFLUX, NMR, 1 STRUCTURE, GLYCOSYLATED PROTEIN.",may neurotoxin
+1CCQ,1CCQ,XKCKKLVPLFSKTCPAGKNLCYKMFMVAAPHVPVKRGCIDVCPKSSLLVKYVCCNTDKCN,60,Metazoa,Naja oxiana,pdb:,"Chain A, PROTEIN (CYTOTOXIN 2).",10429199,"TITLE     Secondary Structure and Conformational Heterogeneity of Cytotoxin
+            II from Naja Naja Oxiana
+  TITLE     Two forms of cytotoxin II (cardiotoxin) from Naja naja oxiana in
+            aqueous solution: spatial structures with tightly bound water
+            molecules
+  TITLE     Direct Submission","NMR STRUCTURE WITH TIGHTLY BOUND WATER MOLECULES OF CYTOTOXIN II
+            (CARDIOTOXIN) FROM NAJA NAJA OXIANA IN AQUEOUS SOLUTION (MINOR
+            FORM).",may neurotoxin
+2LI7,2LI7,KEGYLVSKSTGCKYECLKLGDNDYCLRECKQQYGKSSGGYCYAFACWCTHLYEQAVVWPLPNKTCNX,67,Metazoa,Centruroides suffusus suffusus,pdb:,"Chain A, Beta-mammal toxin Css2.",22251893,"TITLE     Solution structure of native and recombinant expressed toxin CssII
+            from the venom of the scorpion Centruroides suffusus suffusus, and
+            their effects on Nav1.5 sodium channels
+  TITLE     Direct Submission",Solution Structure of CssII.,may neurotoxin
+1SIS,3SIS,MCMPCFTTDPNMAKKCRDCCGGNGKCFGPQCLCNRX,36,Metazoa,Mesobuthus eupeus,pdb:,"Chain A, SCORPION INSECTOTOXIN I5A.","   6679765
+   2085324
+   1815511","TITLE     Secondary Structure and Sequential Resonance Assignments in Two
+            Dimensional Proton Magnetic Resonance Spectra of Insectotoxin I5A
+            Buthus Eupeus (Russian)
+  TITLE     [Conformation NMR analysis of the spatial structure of Buthus
+            eupeus insectotoxin I5A]
+  TITLE     NMR Solution Spatial Structure of 'Short' Insectotoxin I5A
+  TITLE     [Determination of the local structure of the protein insectotoxin
+            I5A from the scorpion Buthus eupeus from 1H-NMR spectroscopy data]
+  TITLE     [Determination of the spatial structure of insectotoxin 15A from
+            Buthus erpeus by (1)H-NMR spectroscopy data]
+  TITLE     Direct Submission","On Jul 10, 2009 this sequence version replaced gi:157833816.
+            SPATIAL STRUCTURE OF INSECTOTOXIN I5A BUTHUS EUPEUS BY 1H NUCLEAR
+            MAGNETIC RESONANCE SPECTROSCOPY (RUSSIAN).",may neurotoxin
+P86799,,SEPQXGRDAGGAL,13,Viridiplantae,Morus alba (White mulberry),Uniprot,Insecticidal protein LA-a (EC 3.2.1.132) (EC 3.2.1.14) (Latex abundant protein a),20109180,,FUNCTION: Has insecticidal activity when consumed by D.melanogaster larvae. Has low chitinase and chitosanase activity. {ECO:0000269|PubMed:20109180}.,insectcidal
+P86800,,SEQQXGRDVGGAL,13,Viridiplantae,Morus alba (White mulberry),Uniprot,Insecticidal protein LA-b (EC 3.2.1.132) (EC 3.2.1.14) (Latex abundant protein b),20109180,,FUNCTION: Has insecticidal activity when consumed by D.melanogaster larvae. Has low chitinase and chitosanase activity. {ECO:0000269|PubMed:20109180}.,insectcidal
+P81745,,NCIDFGGDCDGEKDDCQCCXRNGYCSCYNLFGYLKRGCKXEVG,43,Metazoa,Agelenopsis aperta (North American funnel-web spider) (Agelenopsis gertschi),Uniprot,Omega-agatoxin-Aa3c (Omega-AGTX-Aa3c) (Omega-agatoxin IIIC) (Omega-Aga-IIIC) (Omega-agatoxin-3C),8172884,,FUNCTION: Omega-agatoxins are antagonists of voltage-gated calcium channels (Cav). {ECO:0000250}.,Cav inhibitor
+P81746,,SCIKIGEDCDGDKDDCQCCRTNGYCSXYXLFGYLKSG,37,Metazoa,Agelenopsis aperta (North American funnel-web spider) (Agelenopsis gertschi),Uniprot,Omega-agatoxin-Aa3d (Omega-AGTX-Aa3d) (Omega-agatoxin IIID) (Omega-Aga-IIID) (Omega-agatoxin-3D),8172884,,"FUNCTION: Omega-agatoxins are antagonists of voltage-gated calcium channels. This toxin blocks calcium channels in insect central neurons but not at peripheral neuromuscular junctions. In vertebrates, it is broadly active against all high-threshold Cav1/CACNA1 channels and Cav2.2/CACNA1B channels.",Cav inhibitor
