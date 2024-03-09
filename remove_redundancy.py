@@ -3,7 +3,7 @@ import os
 
 #os.chdir('/home/jssousa/pep_dataset/datasets')
 
-file = 'pep_modelling_set.csv'
+file = 'search_accession.csv'
 
 df = pd.read_csv(file)
 
@@ -13,6 +13,6 @@ df = pd.read_csv(file)
 
 df_non_redd = df.drop_duplicates(subset=['Entry'], keep='first')
 
-df_non_redd.to_csv('pep_modelling_set.csv', index=False)
+df_non_redd.to_csv('search_accession.csv', index=False)
 
 print('OK')

@@ -2,8 +2,8 @@ import pandas as pd
 import os
 import csv
 
-rootdir = '/home/jssousa/pep_dataset/unipro_dtsets'
-os.chdir(rootdir)
+#rootdir = '/home/jssousa/pep_dataset/unipro_dtsets'
+#os.chdir(rootdir)
 
 def add_taxon(file):
     
@@ -94,10 +94,10 @@ def del_tax(file):
             
     
         df = pd.DataFrame(new_file)
-        return df.to_csv(f'{rootdir}/venom_pepset.csv', index=False)
+        return df.to_csv(f'pdb_accesion1.csv', index=False)
             
 
-file = 'venom_peptide.csv'
+file = 'pdb_accesion.csv'
 
 del_tax(file)   
 print('OK')
