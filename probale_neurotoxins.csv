@@ -1,0 +1,1112 @@
+Entry,PDB,Sequence,Length,kingdom,Organism,DBSOURCE,Protein names,PubMed ID,Function [CC],ShortFunction
+P0DL77,,MKTFTLIAILTCAVLVIFHAAAAEELEVQDVIQPEDTLTGLATLDEDRLFECSFSCDIKKNGKPCKGSGEKKCSGGWRCKMNFCVKV,87,Metazoa,Coremiocnemis tropix (Australian tarantula spider),UniprotKB,U1-theraphotoxin-Ct1a (U1-TRTX-Ct1a),27793656,"FUNCTION: This toxin causes paralysis and death to sheep blowflies (PubMed:27793656). It may inhibit voltage-gated calcium channels (By similarity). {ECO:0000250|UniProtKB:P0DL81, ECO:0000269|PubMed:27793656}.",Paralytic insect
+P01499,,MISMLRCTFFFLSVILITSYFVTPTMSIKCNCKRHVIKPHICRKICGKNG,50,Metazoa,Apis mellifera (Honeybee),UniprotKB,Mast cell degranulating peptide (MCD peptide) (MCDP) (Peptide 401),7759523; 5789872; 4582672; 1703229,"FUNCTION: Potent anti-inflammatory agent. At low concentrations, mediates the degranulation of mast cells thus evoking an inflammatory response. Also acts as a neurotoxin capable of blocking a class of voltage-gated potassium channels.",Kav blocker
+P0DM66,,MRVLFIIAGLALLSVVCYTSEMKERSSFNEVLSEFFAADEPQERDCLGQWASCEPKNSKCCPNYACTWKYPWCRYRAGK,79,Metazoa,Selenotypus plumipes (Australian featherleg tarantula),UniprotKB,Orally active insecticidal peptide (Toxin OAIP 2),23894279,FUNCTION: Probable ion channel inhibitor. Shows insecticidal activity when injected into mealworms. {ECO:0000269|PubMed:23894279}.,insecticidal
+P0DM67,,MKTSVLFAILGLALLFCLSFGVELEETGRECGGLMTRCDGKTTFCCSGMNCSPTWKWCVYAPGRR,65,Metazoa,Selenotypus plumipes (Australian featherleg tarantula),UniprotKB,Orally active insecticidal peptide-3 (Toxin OAIP 3),23894279,FUNCTION: Probable ion channel inhibitor. Shows insecticidal activity when injected into mealworms. {ECO:0000269|PubMed:23894279}.,insecticidal
+P0DM68,,MKASLFAVIFGLVVLCACSFAEDQFASPNELLKSMFVESTHELTPEVEGRYCQKWMWTCDAERKCCEDMACELWCKKRLG,80,Metazoa,Selenotypus plumipes (Australian featherleg tarantula),UniprotKB,U4-theraphotoxin-Spl1a (U4-TRTX-Spl1a) (Orally active insecticidal peptide-4) (Toxin OAIP 4),23894279,FUNCTION: Probable ion channel inhibitor. Shows insecticidal activity when injected into mealworms. {ECO:0000269|PubMed:23894279}.,insecticidal
+P29423,,MKVAILILSILVLAVASETIEEYRDDFAVEELERATCAGQDKPCKETCDCCGERGECVCALSYEGKYRCICRQGNFLIAWHKLASCKK,88,Metazoa,Phoneutria nigriventer (Brazilian armed spider) (Ctenus nigriventer),UniprotKB,U2-ctenitoxin-Pn1a (U2-CNTX-Pn1a) (Neurotoxin Tx2-1),9839668; 1397265; 16278100,"FUNCTION: Inhibits voltage-gated sodium channels (Nav) (By similarity). Causes scratching, lacrimation, hypersalivation, sweating and agitation followed by spastic paralysis of the anterior and posterior extremities and death at dose levels of 1.62 mg/mouse. Insecticidal to the larval and adult forms of the house fly. {ECO:0000250}.",insecticidal
+P49267,,EIAQNLGSGIPHIRTKLPNGQWCKTPGDLCSSRSECCKAEDSVTYSSGCSRQWSGQQGTFINQCRTCNVESSMC,74,Metazoa,Apomastus schlingeri (Trap-door spider) (Aptostichus schlingeri),UniprotKB,U1-cyrtautoxin-As1a (U1-CUTX-As1a) (Aptotoxin I) (Aptotoxin-1) (Paralytic peptide I) (PP I),1440641,"FUNCTION: Neurotoxin with probable ion channel impairing activity. In vivo, is both paralytic and lethal, when injected into lepidopteran larvae. {ECO:0000269|PubMed:1440641}.",insecticidal
+P49269,,EIPQNLGSGIPHDRIKLPNGQWCKTPGDLCSSSSECCKAKHSNSVTYASFCSREWSGQQGLFINQCRTCNVESSMC,76,Metazoa,Apomastus schlingeri (Trap-door spider) (Aptostichus schlingeri),UniprotKB,U1-cyrtautoxin-As1b (U1-CUTX-As1b) (Aptotoxin IV) (Aptotoxin-4) (Paralytic peptide IV) (PP IV),1440641,"FUNCTION: Neurotoxin with probable ion channel impairing activity. Is both paralytic and lethal, when injected into lepidopteran larvae. {ECO:0000269|PubMed:1440641}.",insecticidal
+P49270,,EIPQNLGSGIPHDKIKLPNGQWCKTPGDLCSSSSECCKAKHSNSVTYASFCSRQWSGQQALFINQCRTCNVESSMC,76,Metazoa,Apomastus schlingeri (Trap-door spider) (Aptostichus schlingeri),UniprotKB,U1-cyrtautoxin-As1c (U1-CUTX-As1c) (Aptotoxin VI) (Aptotoxin-6) (Paralytic peptide VI) (PP VI),1440641,"FUNCTION: Insecticidal neurotoxin with probable ion channel impairing activity. In vivo causes a rapid, irreversible flaccid paralysis that results in death. {ECO:0000269|PubMed:1440641}.",insecticidal
+P49271,1WQB,WLGCARVKEACGPWEWPCCSGLKCDGSECHPQ,32,Metazoa,Apomastus schlingeri (Trap-door spider) (Aptostichus schlingeri),UniprotKB,U3-cyrtautoxin-As1a (U3-CUTX-As1a) (Aptotoxin VII) (Aptotoxin-7) (Paralytic peptide VII) (PP VII),1440641,"FUNCTION: Is both paralytic and lethal, when injected into lepidopteran larvae. Is a slower acting toxin, being lethal at 24 hours, but not paralytic at 1 hour post-injection.",insecticidal
+P49272,,EIPQNLGSDIPHDIIKLPNGQWCKTPGALCSSRSECCKAKHSDSVTYSSGCSRQWSDQQGLFINQCRTCNVESSMC,76,Metazoa,Apomastus schlingeri (Trap-door spider) (Aptostichus schlingeri),UniprotKB,U1-cyrtautoxin-As1d (U1-CUTX-As1d) (Aptotoxin IX) (Aptotoxin-9) (Paralytic peptide IX) (PP IX),1440641,"FUNCTION: Neurotoxin with probable ion channel impairing activity. In vivo, is both paralytic and lethal, when injected into lepidopteran larvae. {ECO:0000269|PubMed:1440641}.",insecticidal
+Q9NJC6,,MMKQQFFLFLAVIVMISSVIEAGRGKEIMKNIKEKLTEVKDKMKHSWNKLTSMSEYACPVIEKWCEDHCAAKKAIGKCEDTECKCLKLRK,90,Metazoa,Mesobuthus martensii (Manchurian scorpion) (Buthus martensii),UniprotKB,Potassium channel toxin BmTXK-beta (BmKLK) (Potassium channel toxin beta-KTx 3) (Toxin BmTX K-beta) (BmTXKbeta),10471839; 11718723; 12044895; 12668201,"FUNCTION: This recombinant peptide reversibly and dose-dependently inhibits the transient outward potassium current (I(To)) of rabbit atrial myocyte and prolongs the action potential duration of rabbit atrial myocyte without affecting the action potential amplitude. Thus, the voltage-gated potassium channels Kv4.1/KCND1, Kv4.2/KCND2, Kv4.3/KCND3 may be the target of this toxin. {ECO:0000269|PubMed:12668201}.",neurotoxic to mammalian
+H9KQJ7,,MSKFILLVCILLLTTNIVSAASKCGRHGDSCVSSSDCCPGTWCHTYANRCQVRITEEELMKQREKILGRKGKDY,74,Metazoa,Apis mellifera (Honeybee),UniprotKB,Omega-conotoxin-like protein 1 (OCLP1),17433819; 22442369,"FUNCTION: The impact of this protein on the neuronal activity of the honeybee brain is not known. It does not affect apparent movement or hatching of blowfly larvae. However, when injected into fish, it induces a strong reversible paralytic effect. In addition, the presence of this small peptide in the hemolymph of adult drones together with its induction after bacterial infection suggests that this peptide exhibits antibacterial activity. This peptide may act by inhibiting ion channels. {ECO:0000269|PubMed:17433819}.",neurotoxic to fish
+P0DQI8,,MANYIEVFSVLAIIFATVLAALAQDCSPEGAQCVRDSECCYNECIDSLCQP,51,Metazoa,Machimus arthriticus (Breck robberfly) (Asilus arthriticus),UniprotKB,U-Asilidin(1)-Mar1a,29303983,"FUNCTION: Induces neurotoxic effect on honeybees, including slow movements, disorientation and paralysis (PubMed:29303983). Since it provokes similar symptoms than omega-atracotoxin, it is probable that it acts in the same way by inhibiting voltage-gated calcium channels. {ECO:0000269|PubMed:29303983, ECO:0000305}.",Paralytic insect
+P0DQJ1,,MANYIDVLSFLAIICATVLATLAQDCSPEGARCVHDSECCFNECIDSLCQP,51,Metazoa,Eutolmus rufibarbis (Golden-tabbed robberfly) (Asilus rufibarbis),UniprotKB,U-Asilidin(1)-Eru1a,29303983,"FUNCTION: Induces neurotoxic effect on honeybees, including slow movements, disorientation and paralysis. Since it provokes similar symptoms than omega-atracotoxin, it is probable that it acts in the same way by inhibiting voltage-gated calcium channels. {ECO:0000250|UniProtKB:P0DQI8}.",Paralytic insect
+Q5Y4Y5,,MRAIISLFLISAMVFSMIQAVPEEEGLQLSEDERGGCLPHNRFCNALSGPRCCSGLKCKELSIWDSRCLG,70,Metazoa,Agelena orientalis (Funnel-web spider),UniprotKB,U2-agatoxin-Ao1a (U2-AGTX-Ao1a) (Agelenin),15688451,"FUNCTION: Insect active toxin causing rapid but reversible paralysis in crickets. No activity shown in mammals. Suppresses the excitatory postsynaptic potentials evoked in lobster neuromuscular synaptic preparations, possibly by blocking the presynaptic calcium channel. Induces instantaneous reversible paralysis when injected into crickets. Does not show effect on mammalian Cav2.1/CACNA1A, Cav2.2/CACNA1B and Cav2.3/CACNA1E (By similarity). {ECO:0000250}.",Paralytic insect
+P81755,1WCT,MRCFPVFIILLLLIASAPCFDARTKTDDDVPLSSLRDNLKRTIRTRLNIRECCEDGWCCTAAPLTGR,67,Metazoa,Conus textile (Cloth-of-gold cone),UniprotKB,Epsilon-conotoxin TxVA (Epsilon-TxIX) (Tx-012) (Tx5.2) (tx5a),10521453; 11158371; 10318957; 10679974,"FUNCTION: Epsilon-conotoxins act at presynaptic membranes, blocking the calcium channels or G protein-coupled receptors. Causes hyperactivity upon intracranial injection into mice. Causes dorsal fins drooping in fish. {ECO:0000269|PubMed:10318957}.",neurotoxic to mammalian/fish
+P84809,,MISVQVIFIAFISIIAFSMVCGGNVFPNRELGILYGCKGYGNAFCDKVCKMHLARGGGRCGEPNPVMWACECIDIDEDNGYFLNALEKQCPLLKG,95,Metazoa,Buthus occitanus tunetanus (Common European scorpion) (Buthus tunetanus),UniprotKB,Lipolysis-activating peptide 1-beta chain (BotLVP1-beta) (LVP1-beta),15680238,"FUNCTION: The homodimer inhibits HMG-CoA reductase (HMGCR) (32% of inhibition produced by 0.6 uM), a glycoprotein involved in the control of cholesterol biosynthesis. The inhibitory effects of bumarsin are seen at much lower concentrations (0.6 uM) than that for statins such as atorvastatin (5 mM) and simvastatin (10 uM). In addition to inhibition of HMG-CoA reductase, this protein lowers cholesterol levels by inducing steroid hormone synthesis via StAR, and by increasing reverse cholesterol transport mediated by the induction of ABCA1 and APOA1 (By similarity). {ECO:0000250}.; FUNCTION: The heterodimer non-edited LVP1 induces lipolysis in rat adipocytes. Induction of lipolysis by LVP1 appears to be mediated through the beta-2 adrenergic receptor pathway (ADRB2). Intracerebroventricular injection is not toxic to mice. {ECO:0000269|PubMed:15680238}.; FUNCTION: The monomer edited version, similar to alpha-toxins, may modulate voltage-gated sodium channels (Nav) and may block voltage-gated potassium channels (Kv). {ECO:0000305|PubMed:15680238}.",probable Kav blocker
+P84810,,MMKLVLFGIIVILFSLIGSIHGISGNYPLNPYGGYYYCTILGENEYCKKICRIHGVRYGYCYDSACWCETLKDEDVSVWNAVKKHCKNPYL,91,Metazoa,Buthus occitanus tunetanus (Common European scorpion) (Buthus tunetanus),UniprotKB,Lipolysis-activating peptide 1-alpha chain (BotLVP1-alpha) (LVP1-alpha) [Cleaved into: Neurotoxin BmKBTx-like],15680238,"FUNCTION: The heterodimer non-edited LVP1 induces lipolysis in rat adipocytes. Induction of lipolysis by LVP1 appears to be mediated through the beta-2 adrenergic receptor pathway (ADRB2). Intracerebroventricular injection is not toxic to mice. {ECO:0000269|PubMed:15680238}.; FUNCTION: The edited BmKBTx-like, similar to beta-toxins, may modulate voltage-gated sodium channels (Nav) and may block voltage-gated potassium channels (Kv). {ECO:0000305|PubMed:15680238}.",probable Kav blocker
+P86822,,MVATNRCCVFALLFALLLVHSLTEAGKGKEILGKIKEKIIEAKDKMKAGWERLTSQSEYACPAIDKFCEDHCAAKKAVGKCDDFKCNCIKL,91,Metazoa,Tityus serrulatus (Brazilian scorpion),UniprotKB,Tityustoxin-19 (Ts19) (Potassium channel toxin beta-Ktx 2) [Cleaved into: Ts19 fragment I (Potassium channel toxin beta-Ktx 2-1); Ts19 fragment II (Ts19 Frag-II) (Potassium channel toxin beta-Ktx 2-2); Ts19 fragment III (Ts19 Frag-III)],33181162; 26116782; 18718845; 25199494,"FUNCTION: [Ts19 fragment I]: May function as a voltage-gated potassium channel blocker and may have cytolytic activity (Ref.3). However, it is noteworthy that the toxin often disappears from the venom fractions tested. Hence, the toxin may be frequently processed in the venom, which justifies the absence of Ts19 Frag-I among different venom samples (PubMed:26116782). {ECO:0000269|Ref.3, ECO:0000305|PubMed:26116782}.; FUNCTION: [Ts19 fragment II]: Specific and reversible blocker of Kv1.2/KCNA2 (IC(50)=544 nM). {ECO:0000269|PubMed:26116782}.; FUNCTION: [Ts19 fragment III]: Shows cytolytic effects on erythrocytes. In addition, induces non-selective pores formation when high concentrations (300 nM) are applied on oocytes. {ECO:0000269|PubMed:26116782}.",probable Kav blocker
+Q7YT39,1LU8 1TYK,MKTSVVFVIAGLALLSVVCYASELKEQSSVNEVLSTIFHFEQPEERGCLEFWWKCNPNDDKCCRPKLKCSKLFKLCNFSFGK,82,Metazoa,Grammostola rosea (Chilean rose tarantula) (Grammostola spatulata),UniprotKB,M-theraphotoxin-Gr1a (M-TRTX-Gr1a) (GsMTx-4) (GsMTx4) (MTx4) (GsMTx-IV),14559077; 21740921; 10779316; 12082099; 19955179; 11343101; 15287735; 15241420; 16376854; 16797839; 17384064; 17573432; 29703751; 34374321,"FUNCTION: This cationic hydrophobic peptide acts on a lot of different channels and has an antimicrobial activity. It blocks mechanosensitive ion channels (also named stretch-activated channels or SACs), without having effect on whole-cell voltage-sensitive currents. It also affects acetylcholine receptors (nAChRs) through interactions with membrane lipids by prolonging the closing time without affecting channel conductance or opening activity (PubMed:34374321). It shows high affinity for lipid bilayers (PubMed:15241420, PubMed:29703751). It acts by partitioning into the membrane and perturbing the interface between the channel and the lipid bilayer without necessarily being in physical contact with the channel. It inhibits atrial fibrillation as well as the membrane motor of outer hair cells at low doses. It also binds to the voltage sensor of voltage-gated potassium channels from the archaebacterium Aeropyrum pernix (KvAP) without affecting channel gating. It shows also a low inhibition on a large spectra of sodium channels (Nav1.1/SCN1A, Nav1.2/SCN2A, Nav1.3/SCN3A, Nav1.4/SCN4A, Nav1.5/SCN5A, Nav1.6/SCN8A, Nav1.7/SCN9A) (IC(50)=7.4-14 uM), and potassium channels Kv11.1/KCNH2 and Kv11.2/KCNH6 (IC(50)=11 uM for both) (PubMed:19955179, PubMed:29703751). It exhibits antimicrobial activities against the Gram-positive bacteria B.subtilis (MIC=0.5 uM), S.aureus (MIC=2-4 uM), and S.epidermidis (MIC=4-8 uM), and Gram-negative bacteria S.typhimurium (MIC=32.64 uM), P.aeruginosa (MIC=8-16 uM), and E.coli (MIC=8-16 uM). {ECO:0000269|PubMed:10779316, ECO:0000269|PubMed:11343101, ECO:0000269|PubMed:15241420, ECO:0000269|PubMed:15287735, ECO:0000269|PubMed:16376854, ECO:0000269|PubMed:16797839, ECO:0000269|PubMed:17384064, ECO:0000269|PubMed:17573432, ECO:0000269|PubMed:19955179, ECO:0000269|PubMed:29703751}.",antibacterial and probable Nav inhibitor
+B8XH01,,MMKLVLFGIIVILFSMIGSIHGSDPPGNYPLNTYGNKYACTILGENDFCQKICKVHGVQYGYCFNSRCWCEYLEEKDVNIWDAVKRHCKNTILYPKGK,98,Metazoa,Buthus occitanus israelis (Common yellow scorpion) (Buthus israelis),UniprotKB,Lipolysis-activating peptide 1-alpha chain (BoiLVP1-alpha) (LVP1-alpha) (Putative beta-like toxin Tx458) (BoiTx458) (Putative beta-like toxin Tx651) (BoiTx651) (Putative beta-like toxin Tx764) (BoiTx764) (Putative beta-like toxin Tx814) (BoiTx814) [Cleaved into: Neurotoxin BmKBTx-like (Putative excitatory toxin Tx135) (BoiTx135)],,"FUNCTION: The heterodimer non-edited LVP1 induces lipolysis in rat adipocytes. Induction of lipolysis by LVP1 appears to be mediated through the beta-2 adrenergic receptor pathway (ADRB2) (By similarity). {ECO:0000250|UniProtKB:P84810}.; FUNCTION: The edited BmKBTx-like, similar to beta-toxins, may modulate voltage-gated sodium channels (Nav) and may block voltage-gated potassium channels (Kv). {ECO:0000250|UniProtKB:P84810}.",probable Kav blocker and moderate VGSC
+P46114,1HP2,MKAFYGILIIFILISMIDLSKQVFINAKCRGSPECLPKCKEAIGKAAGKCMNGKCKCYP,59,Metazoa,Tityus serrulatus (Brazilian scorpion),UniprotKB,Potassium channel toxin alpha-KTx 4.1 (TSK4) (Tityustoxin K-alpha) (TsTX-K-alpha) (TyKalpha) (Tityustoxin-7) (Ts7) (Toxin II-9),33181162; 7509073; 24590385; 12871837; 18687312; 11352729,"FUNCTION: Potently blocks Kv1.1/KCNA1 (85%), Kv1.2/KCNA2 (91%), Kv1.3/KCNA3 (89%), Kv1.6/KCNA6 (94%), and Shaker (97%). {ECO:0000269|PubMed:12871837, ECO:0000269|PubMed:24590385, ECO:0000269|PubMed:7509073}.",probable Kav blocker
+P69939,,MQRNLVVLLFLGMVALSSCGLREKHVQKLVKYAVPVGTLRTILQTVVHKVGKTQFGCPAYQGYCDDHCQDIKKEEGFCHGFKCKCGIPMGF,91,Metazoa,Androctonus australis (Sahara scorpion),UniprotKB,Potassium channel toxin AaTXK-beta (Toxin AaTXKbeta) (Potassium channel toxin AaTXK-beta(1-64)) (Potassium channel toxin beta-KTx 2) [Cleaved into: Potassium channel toxin AaTXK-beta(2-64)],9714546; 24019223,"FUNCTION: [Potassium channel toxin AaTXK-beta]: Blocks voltage-gated potassium channels (Kv) (By similarity). Does not activate Kv7 channels. {ECO:0000250, ECO:0000269|PubMed:24019223}.; FUNCTION: [Potassium channel toxin AaTXK-beta(2-64)]: Peptide activator of Kv7.4/KCNQ4 channels. Also acts as a subtype-selective activator of channels formed by Kv7.3 (KCNQ3), Kv7.2/Kv7.3 (KCNQ2/KCNQ3), Kv7.5/Kv7.3 (KCNQ3/KCNQ5) subunits. {ECO:0000269|PubMed:24019223}.",probable Kav blocker
+P86110,,MESSRKSYVLMLFLAFVIMNVCSVSGEPKDGEIAGFEMEEARYDACVNACLEHHPNVRECEEACKNPVPP,70,Metazoa,Opisthacanthus cayaporum (South American scorpion),UniprotKB,Potassium channel toxin kappa-KTx 2.5 (OcyC8) (OcyKTx6),19379768; 21624408; 18502464,"FUNCTION: Voltage-independently blocks potassium currents on hKv1.1/KCNA1 (IC(50)=217 uM), and hKv1.4/KCNA4 (IC(50)=71 uM) (expressed in CHO cells). {ECO:0000269|PubMed:21624408}.",probable Kav blocker
+Q6WJF5,,MMKFVLFGMIVILFSLMGSIRGDDDPGNYPTNAYGNKYYCTILGENEYCRKICKLHGVTYGYCYNSRCWCEKLEDKDVTIWNAVKNHCTNTILYPNGK,98,Metazoa,Mesobuthus martensii (Manchurian scorpion) (Buthus martensii),UniprotKB,Lipolysis-activating peptide 1-alpha chain (BmLVP1-alpha) (LVP1-alpha) [Cleaved into: Neurotoxin BmKBTx (BmKBT)],17141763; 16513212,"FUNCTION: The heterodimer non-edited LVP1 induces lipolysis in rat adipocytes. Induction of lipolysis by LVP1 appears to be mediated through the beta-2 adrenergic receptor pathway (ADRB2) (By similarity). {ECO:0000250|UniProtKB:P84810}.; FUNCTION: The edited BmKBTx, similar to beta-toxins, may modulate voltage-gated sodium channels (Nav) and may block voltage-gated potassium channels (Kv) (Probable). Seems to be a rare component in the venom. {ECO:0000250|UniProtKB:P84810}.",probable Kav blocker and moderate VGSC
+Q75WH2,,MKAPATIVILIMSLISVLWATADTEDGNLLFPIEDFIRKFDEYPVQPKERSCKLTFWRCKKDKECCGWNICTGLCIPPGKK,81,Metazoa,Macrothele gigas (Japanese funnel web spider),UniprotKB,U12-hexatoxin-Mg1a (U12-HXTX-Mg1a) (Neurotoxin magi-11) (Peptide toxin 5),15246762,"FUNCTION: Blocks voltage-gated sodium channels (Nav) (By similarity). Intracranial injection into mice causes lacrimation, slow breathing and death. Intrathorax injection into crickets causes death. {ECO:0000250, ECO:0000269|PubMed:15246762}.",probable VGSC blocker
+A7KJJ7,,MSRLFVFILIALFLSAIIDVMSNFKVEGACSKPCRKYCIDKGARNGKCINGRCHCYY,57,Metazoa,Mesobuthus martensii (Manchurian scorpion) (Buthus martensii),UniprotKB,Potassium channel toxin alpha-KTx 26.1 (Neurotoxin BmK86),17624312; 29483648,"FUNCTION: Recombinant toxin that reversibly inhibits the potassium current of mKv1.3/KCNA3 channel stably expressed in COS7 cells (IC(50)=150 nM) (PubMed:17624312). Also shows a weak inhibition on Kv1.2/KCNA2, Kv1.3/KCNA3 and TRPV1 channels (PubMed:29483648). {ECO:0000269|PubMed:17624312, ECO:0000269|PubMed:29483648}.",probable Kav inhibitor
+B8XGZ8,,MANVQVIFVAYIAVIAFSMVYGDDYKPFGEHNSYYGCKKQTDEFCNKICKLHLAKKGGFCHQPAPFVELCKCLDIDYDNTYFLKAMEKQCPKLKGNVN,98,Metazoa,Buthus occitanus israelis (Common yellow scorpion) (Buthus israelis),UniprotKB,Lipolysis-activating peptide 1-beta chain (BoiLVP1-beta) (LVP1-beta) (Putative beta-like toxin Tx457),,"FUNCTION: The homodimer inhibits HMG-CoA reductase (HMGCR) (32% of inhibition produced by 0.6 uM), a glycoprotein involved in the control of cholesterol biosynthesis. The inhibitory effects of bumarsin are seen at much lower concentrations (0.6 uM) than that for statins such as atorvastatin (5 mM) and simvastatin (10 uM). In addition to inhibition of HMG-CoA reductase, this protein lowers cholesterol levels by inducing steroid hormone synthesis via StAR, and by increasing reverse cholesterol transport mediated by the induction of ABCA1 and APOA1 (By similarity). {ECO:0000250}.; FUNCTION: The heterodimer non-edited LVP1 induces lipolysis in rat adipocytes. Induction of lipolysis by LVP1 appears to be mediated through the beta-2 adrenergic receptor pathway (ADRB2) (By similarity). {ECO:0000250|UniProtKB:P84809}.; FUNCTION: The monomer edited version, similar to alpha-toxins, may modulate voltage-gated sodium channels (Nav) and may block voltage-gated potassium channels (Kv). {ECO:0000305}.",probable Kav blocker and moderate VGSC
+C0HL52,,GTPCKCHGYIGVYWFMLAGCPNGYGYNLSCPYFLGICCVKK,41,Metazoa,Heteractis crispa (Leathery sea anemone) (Radianthus macrodactylus),UniprotKB,Pi-stichotoxin-Hcr5b (Pi-SHTX-Hcr5b) (APETx-like peptide) (Pi-AnmTX Hcr 1b-2) (Hcr 1b-2),29684594; 32326130; 35200676,"FUNCTION: Remarkably non-selective toxin, with activity on many different ion channels (PubMed:29684594, PubMed:35200676). Weakly and reversibly inhibits rat homomeric ASIC1 (isoform ASIC1a) (IC(50)=4.8 uM), and ASIC3 (IC(50)=15.9 uM) (PubMed:29684594). Molecular modeling interaction with ASIC1a suggests that this peptide hinders the collapse of acidic pockets and stabilizes nonconducting channels state (PubMed:32326130). It activates several potassium channels including Kv1.1/KCNA1, Kv1.2/KCNA2, and drosophila Shaker IR (PubMed:35200676). It moderately to potently inhibits potassium channels including Kv1.3/KCNA3, Kv1.4/KCNA4, Kv1.5/KCNA5, Kv1.6/KCNA6, Kv2.1/KCNB1, Kv4.2/KCND2, Kv7.1/KCNQ1, Kv7.2/Kv7.3 (KCNQ2/KCNQ3), Kv7.4/KCNQ4, hERG/KCNH2, and C.elegans QKT1 (PubMed:35200676). On sodium channels, it moderately to potently inhibits Nav1.1/SCN1A, Nav1.2/SCN2A, Nav1.3/SCN3A, Nav1.4/SCN4A, Nav1.5/SCN5A, Nav1.6/SCN8A, Nav1.7/SCN9A, Nav1.8/SCN10A, and B.germanica BgNav (PubMed:35200676). It also moderately to potently inhibits Cav3.1/CACNA1G, Cav3.2/CACNA1H, and Cav3.3/CACNA1I (PubMed:35200676). Significant shifts in the voltage-current relationship are observed on Kv and Nav, depending on the channel isoform, whereas the toxin does not seem to modulate the voltage-sensor domains of Cav channels, acting mainly as a pore blocker (PubMed:35200676). In vivo, induces an antihyperalgesic effect in the acid-induced muscle pain mice model (PubMed:29684594). {ECO:0000269|PubMed:29684594, ECO:0000269|PubMed:35200676}.",probable ion channel blocker
+D9U2A2,,MKILAVVLISVIVLNTANGENYYPQKYTNDYYGCQKQTDAFCDKVCKLHLADSGFCDQSWGLAKACKCVNVSYDNSFFFNALESQCPLLNKSAA,94,Metazoa,Lychas mucronatus (Chinese swimming scorpion),UniprotKB,Lipolysis-activating peptide 1-beta chain (LVP1-beta) (Neurotoxin LmNaTx19),20663230,"FUNCTION: The homodimer inhibits HMG-CoA reductase (HMGCR) (32% of inhibition produced by 0.6 uM), a glycoprotein involved in the control of cholesterol biosynthesis. The inhibitory effects of bumarsin are seen at much lower concentrations (0.6 uM) than that for statins such as atorvastatin (5 mM) and simvastatin (10 uM). In addition to inhibition of HMG-CoA reductase, this protein lowers cholesterol levels by inducing steroid hormone synthesis via StAR, and by increasing reverse cholesterol transport mediated by the induction of ABCA1 and APOA1 (By similarity). {ECO:0000250}.; FUNCTION: The heterodimer non-edited LVP1 induces lipolysis in rat adipocytes. Induction of lipolysis by LVP1 appears to be mediated through the beta-2 adrenergic receptor pathway (ADRB2) (By similarity). {ECO:0000250|UniProtKB:P84809}.; FUNCTION: The monomer edited version, similar to alpha-toxins, may modulate voltage-gated sodium channels (Nav) and may block voltage-gated potassium channels (Kv). {ECO:0000305}.",probable Kav blocker and moderate VGSC
+D9U2A4,,MNITLFCSVFILISLAGLSVSDDVPGNYPMSLYGNKYSCGVLGENEYCRKICKSHGVSYGYCFNSRCWCEYLEDKDVDFWAAHKNHCKNDKLYPPKK,97,Metazoa,Lychas mucronatus (Chinese swimming scorpion),UniprotKB,Lipolysis-activating peptide 1-alpha chain (LVP1-alpha) (Neurotoxin LmNaTx27) [Cleaved into: Neurotoxin BmKBTx-like],20663230,"FUNCTION: The heterodimer non-edited LVP1 induces lipolysis in rat adipocytes. Induction of lipolysis by LVP1 appears to be mediated through the beta-2 adrenergic receptor pathway (ADRB2) (By similarity). {ECO:0000250|UniProtKB:P84810}.; FUNCTION: The edited BmKBTx-like, similar to beta-toxins, may modulate voltage-gated sodium channels (Nav) and may block voltage-gated potassium channels (Kv). {ECO:0000250|UniProtKB:P84810}.",probable Kav blocker and moderate VGSC
+P0C163,,IFINVKCSLPQQCLRPCKDRFGQHAGGKCINGKCKCYP,38,Metazoa,Centruroides elegans (Bark scorpion),UniprotKB,Potassium channel toxin alpha-KTx 2.10 (Toxin Ce3),16026809,FUNCTION: Weakly blocks Kv1.3/KCNA3 voltage-gated potassium channels (Kd is estimated to be 366 nM). {ECO:0000269|PubMed:16026809}.,probable Kav blocker
+P0C168,,WCSTCLDLACGASRECYDPCFKAFGRAHGKCMNNKCRCYT,40,Metazoa,Tityus trivittatus (Argentinean scorpion),UniprotKB,Potassium channel toxin alpha-KTx 12.2 (Butantoxin) (BuTX) (TtBut),12565736; 10864437,FUNCTION: Inhibits high conductance calcium-activated potassium channels (By similarity). Reversibly inhibits Shaker B potassium channels. {ECO:0000250}.,Kav inhibitor probable KCa
+P0C176,,MKLSCGFLLIFLVLSAMIATFSEVEATVKCGGCNRKCCPGGCRSGKCINGKCQCYGRSDLNEEFENYQ,68,Metazoa,Tityus serrulatus (Brazilian scorpion),UniprotKB,Peptide TsPep3 (Tityustoxin-13) (Ts13),33181162; 12589824; 19689419,FUNCTION: Probable weak potassium channel blocker. {ECO:0000250|UniProtKB:P0C175}.,probable Kav blocker
+P0C182,,TFIDVDCTVSKECWAPCKAAFGVDRGKCMGKKCKCYV,37,Metazoa,Centruroides noxius (Mexican scorpion),UniprotKB,Potassium channel toxin alpha-KTx 1.11 (Slotoxin) (SloTx),11576530,FUNCTION: Reversibly blocks the high conductance calcium-activated potassium channels composed of only alpha subunits (KCa1.1/KCNMA1). Unreversibly blocks the high conductance calcium-activated potassium channels composed of alpha and beta1 subunits (KCNMA1 and KCNMB1). Unreversibly and weakly blocks the high conductance calcium-activated potassium channels composed of alpha and beta4 (KCNMA1 and KCNMB4). {ECO:0000269|PubMed:11576530}.,probable KCav blocker
+P0C1X6,,MHFSGVAFILISMVLIGSIFETTVEAGEGPKSDCKPDLCEAACKDLGKPMDFCKDGTCKCKD,62,Metazoa,Tityus discrepans (Venezuelan scorpion),UniprotKB,Potassium channel toxin alpha-KTx 18.3 (Toxin TdK3),19470401; 16705749; 22332965,FUNCTION: Probable voltage-gated potassium channel inhibitor. {ECO:0000305|PubMed:16705749}.,probable Kav blocker
+P0C1Z3,1WQC 1WQD,DPCYEVCLQQHGNVKECEEACKHPVEY,27,Metazoa,Opisthacanthus madagascariensis (Scorpion),UniprotKB,Potassium channel toxin kappa-KTx 2.2 (Toxin OmTx2) [Cleaved into: Potassium channel toxin kappa-KTx 2.1 (Toxin OmTx1); Potassium channel toxin kappa-KTx 2.4 (Toxin OmTx4)],15631621; 22305749,FUNCTION: OmTx1 decreases the amplitude of the potassium current of the rat channels Kv1.1/KCNA1 by 17% and Kv1.2/KCNA2 by 12% as well as human Kv1.3/KCNA3 by 24%. {ECO:0000269|PubMed:15631621}.; FUNCTION: OmTx2 decreases the amplitude of the potassium current of the rat channels Kv1.1/KCNA1 by 8% and Kv1.2/KCNA2 by 10% as well as human Kv1.3/KCNA3 by 36%. Also alters glucose-induced insulin release from pancreatic islets. {ECO:0000269|PubMed:15631621}.,probable Kav blocker
+P0C1Z4,1WQE,NDPCEEVCLQHTGNVKACEEACQ,23,Metazoa,Opisthacanthus madagascariensis (Scorpion),UniprotKB,Potassium channel toxin kappa-KTx 2.3 (Toxin OmTx3),15631621; 22305749,FUNCTION: Decreases the amplitude of the potassium current of the rat channels Kv1.1/KCNA1 by 33% and Kv1.2/KCNA2 by 8% as well as human Kv1.3/KCNA3 by 70%. {ECO:0000269|PubMed:15631621}.,probable Kav blocker
+P0C8X6,,GCRQCGGGCNKHGKCINGKCKCY,23,Metazoa,Tityus stigmurus (Brazilian scorpion),UniprotKB,Peptide 2412 (Potassium channel toxin alpha-KTx),17270501,FUNCTION: May block voltage-gated potassium channels (Kv). {ECO:0000305}.,probable Kav blocker
+P0CI43,,MKILAVVLISVIVLNTANGENYYPQKYTNDYYGCQQQTDAFCDKVCKLHLAESGFCDQSWGLAKACKCVNVSYDNSFYFNALESQCPLLNKSAA,94,Metazoa,Lychas mucronatus (Chinese swimming scorpion),UniprotKB,Lipolysis-activating peptide 1-beta chain (LVP1-beta),20663230,"FUNCTION: The homodimer inhibits HMG-CoA reductase (HMGCR) (32% of inhibition produced by 0.6 uM), a glycoprotein involved in the control of cholesterol biosynthesis. The inhibitory effects of bumarsin are seen at much lower concentrations (0.6 uM) than that for statins such as atorvastatin (5 mM) and simvastatin (10 uM). In addition to inhibition of HMG-CoA reductase, this protein lowers cholesterol levels by inducing steroid hormone synthesis via StAR, and by increasing reverse cholesterol transport mediated by the induction of ABCA1 and APOA1 (By similarity). {ECO:0000250}.; FUNCTION: The heterodimer non-edited LVP1 induces lipolysis in rat adipocytes. Induction of lipolysis by LVP1 appears to be mediated through the beta-2 adrenergic receptor pathway (ADRB2) (By similarity). {ECO:0000250|UniProtKB:P84809}.; FUNCTION: The monomer edited version, similar to alpha-toxins, may modulate voltage-gated sodium channels (Nav) and may block voltage-gated potassium channels (Kv). {ECO:0000305}.",probable Kav blocker and moderate VGSC
+P0CI44,,MNIILFYFMPILISLPGLLASGTYPNDVYGLTYDCGKLGENEHCLKICKIHGVEYGYCYGWRCWCDKLSDKNKLFWDVYKEHC,83,Metazoa,Lychas mucronatus (Chinese swimming scorpion),UniprotKB,Lipolysis-activating peptide 1-alpha chain (LVP1-alpha) [Cleaved into: Neurotoxin BmKBTx-like],20663230,"FUNCTION: The heterodimer non-edited LVP1 induces lipolysis in rat adipocytes. Induction of lipolysis by LVP1 appears to be mediated through the beta-2 adrenergic receptor pathway (ADRB2) (By similarity). {ECO:0000250|UniProtKB:P84810}.; FUNCTION: The edited BmKBTx-like, similar to beta-toxins, may modulate voltage-gated sodium channels (Nav) and may block voltage-gated potassium channels (Kv). {ECO:0000250|UniProtKB:P84810}.",probable Kav blocker and moderate VGSC
+P0CI45,,MNIMLFCSVFILVSLTGLSVSDDVPGNYPMSLYGNKYSCGVLGENEYCRKICKSHGVNYGYCFNSRCWCEYLEDKDVDFWAAHKNHCKNGKLYPPKK,97,Metazoa,Lychas mucronatus (Chinese swimming scorpion),UniprotKB,Lipolysis-activating peptide 1-alpha chain (LVP1-alpha) [Cleaved into: Neurotoxin BmKBTx-like],20663230,"FUNCTION: The heterodimer non-edited LVP1 induces lipolysis in rat adipocytes. Induction of lipolysis by LVP1 appears to be mediated through the beta-2 adrenergic receptor pathway (ADRB2) (By similarity). {ECO:0000250|UniProtKB:P84810}.; FUNCTION: The edited BmKBTx-like, similar to beta-toxins, may modulate voltage-gated sodium channels (Nav) and may block voltage-gated potassium channels (Kv). {ECO:0000250|UniProtKB:P84810}.",probable Kav blocker and moderate VGSC
+P0DKQ9,,MSKLGVLLTICLLLFPLTALPMDGDEPADRPAERMQDNISSEQHPLFEERHGCCKGPEGCSSRECRPQHCCGRR,74,Metazoa,Conus tulipa (Fish-hunting cone snail) (Tulip cone),UniprotKB,Mu-conotoxin-like T3.1,22229737,"FUNCTION: Mu-conotoxins block voltage-gated sodium channels (Nav) (By similarity). In vitro, this synthetic peptide displays a low blocking effect in mouse extensor digitorum longus muscles (IC(50)=616 nM). {ECO:0000250, ECO:0000269|PubMed:22229737}.",probable VGSC blocker
+P0DP36,,MKMSIVIILLLFTCLIATNGASGTKCSGSPECVKFCRTKGCRNGKCMNRSCKCYLCS,57,Metazoa,Scorpiops tibetanus (Scorpion),UniprotKB,Potassium channel toxin alpha-KTx 23.3 (Toxin St20),28077339,"FUNCTION: This toxin shows both immunosuppressive and anti-inflammatory activities (PubMed:28077339). It has the potential to inhibit human T cell activation, since it reduces IL-2 secretion and the expression of T cell activation marker CD69 and acts as a anti-inflammatory agent, since it provokes the reduction of secretion of both IFN-gamma and TNF-alpha (PubMed:28077339). In vivo, the delayed-type hypersensitivity response in rat autoimmune disease model is ameliorated in the presence of this toxin (PubMed:28077339). Acts by blocking Kv1.3/KCNA3 potassium channels of T-lymphocytes (By similarity). {ECO:0000250|UniProtKB:P0DJ31, ECO:0000269|PubMed:28077339}.",probable Kav blocker
+P0DQR1,,CQQPVKPGLCEAYIPRFFYNTSSKQCEKFIYGGCGGNSNRFLTMKACQDKC,51,Metazoa,Palythoa caribaeorum (White encrusting zoanthid coral),UniprotKB,Kunitz-like toxin PcKuz3 (Kunitz-type serine protease inhibitor PcKuz3) (PI-sphenopitoxin-Pc1c) (PI-SPTX-Pc1c),29285938,"FUNCTION: Potent toxin and weak serine protease inhibitor that displays activity on both trypsin and elastase (PubMed:29285938). May act as a neurotoxin by blocking voltage-gated potassium channels (Kv1.1/KCNA1 and Kv1.2/KCNA2) (Probable). Has a neuroprotective effect, since it suppress, at low concentration, the 6-hydroxydopamine-induced neurotoxicity on the locomotive behavior of zebrafish (PubMed:29285938). In vivo, has strong reversible antilocomotor activity (PubMed:29285938). In addition, it is lethal to zebrafish larvae at high doses (PubMed:29285938). {ECO:0000269|PubMed:29285938, ECO:0000305|PubMed:29285938}.",probable Kav blocker
+P0DQU0,,MKVIALFFLFAFIFCTLEVAIVEAGFGCPLNQGACHRHCLSIRRRGGYCSGFFKQTCTCYRN,62,Metazoa,Mesobuthus martensii (Manchurian scorpion) (Buthus martensii),UniprotKB,Defensin BmKDfsin5,24129506; 31954123,"FUNCTION: Antibacterial peptide active against Gram-positive bacteria (including S.aureus ATCC25923 (MIC=2.5 uM), M.luteus AB93113 (MIC=2.5 uM), and the antibiotic-resistant S.epidermidis PRSE P1389 (MIC=1.25 uM)), but not against Gram-negative bacteria (including E.coli and P.aeruginosa). Has also weak blocking activity on Kv1.1/KCNA1 (8.7% inhibition), Kv1.2/KCNA2 (10.2% inhibition), Kv1.3/KCNA3 (9.0% inhibition), KCa3.1/KCNN4/IK (9.1% inhibition), KCa2.3/KCNN3/SK3 (46.3% inhibition) and Kv11.1/KCNH2/ERG1 (16.9% inhibition) channels (tested at 1 uM) (PubMed:31954123). It inhibits potassium channel current by interacting with the pore region (By similarity). {ECO:0000250|UniProtKB:A0A384E0Y8, ECO:0000269|PubMed:31954123}.",antibacterial probable Kav block
+P0DTB8,,ARDGYIVDEKGCKFACFIN,19,Metazoa,Centruroides margaritatus (Central American bark Scorpion),UniprotKB,Toxin Cm38,25633390,"FUNCTION: May block sodium channels (Nav) found (By similarity). Reversibly modifies the firing of DRG neurons by causing membrane depolarization and increasing the number of action potentials (PubMed:25633390). Shows antimicrobial activity against the Gram-negative bacteria K.pneumoniae (MIC=64 uM), and only a very weak activity against S.aureus (PubMed:25633390). Does not show hemolytic activity (PubMed:25633390). {ECO:0000250|UniProtKB:P58296, ECO:0000269|PubMed:25633390}.",antimicrobial probable Nav blocker
+P45660,,GLIDVRCYDSRQCWIACKKVTGSTQGKCQNKQCRCY,36,Metazoa,Leiurus hebraeus (Deathstalker scorpion) (Leiurus quinquestriatus hebraeus),UniprotKB,Potassium channel toxin alpha-KTx 16.5 (Lqh 15-1) (Toxin 15-1) (alpha-KTx 1.7),7533951,FUNCTION: Augments responses to direct muscle stimulation probably by blocking calcium-activated potassium channels.,probable KCav blocker
+P60273,1LUP,YCQKWMWTCDEERKCCEGLVCRLWCKRIINM,31,Metazoa,Grammostola rosea (Chilean rose tarantula) (Grammostola spatulata),UniprotKB,Kappa-theraphotoxin-Gr2a (Kappa-TRTX-Gr2a) (Toxin GsMTx-2) (MTx2),12082099,"FUNCTION: Blocks mammalian Kv4.2/KCND2 and Kv4.3/KCND3 (By similarity). Blocks mechanosensitive ion channels in rat astrocytes, without having effect on whole-cell voltage-sensitive currents (By similarity). {ECO:0000250|UniProtKB:P61231}.",probable mammalian Kav blocker
+P61791,,DDCGTLFSGCDTSKDCCEGYVCHLWCKYK,29,Metazoa,Heteropoda venatoria (Brown huntsman spider) (Aranea venatoria),UniprotKB,Kappa-sparatoxin-Hv1e (Kappa-SPRTX-Hv1e) (Toxin KJ1),,"FUNCTION: Inhibitor of voltage-gated potassium channels of the Kv4/KCND family (By similarity). Blocks calcium channels (Cav). {ECO:0000250, ECO:0000269|Ref.1}.",Cav blocker probable Kav
+P61792,,DDCGGLFSGCDSNADCCEGYVCRLWCKYKL,30,Metazoa,Heteropoda venatoria (Brown huntsman spider) (Aranea venatoria),UniprotKB,Kappa-sparatoxin-Hv1d (Kappa-SPRTX-Hv1d) (Toxin AU2),,"FUNCTION: Inhibitor of voltage-gated potassium channels of the Kv4/KCND family (By similarity). Blocks calcium channels (Cav). {ECO:0000250, ECO:0000269|Ref.1}.",Cav blocker probable Kav
+P84756,,AWKCLPKDSTCGDDCDCCEGLHCHCPLRNMLPAILRCSCQSKDDHINTCPKYKKS,55,Metazoa,Oxyopes lineatus (Lynx spider),UniprotKB,Omega-oxotoxin-Ol1b (Omega-OXTX-Ol1b) (Oxytoxin-2) (OxyTx2),18606178,"FUNCTION: Weak blocker of vertebrate P/Q-, N- and L-type voltage-gated calcium channels (Cav1 and Cav2) (By similarity). Is both paralytic and lethal when injected into lepidopteran larvae. Is not toxic to mice. {ECO:0000250, ECO:0000269|PubMed:18606178}.",insectcide probable Cav blocker
+P86465,,NIVDVPCRDDYYRDSSGNGVYDQLGGCGAA,30,Metazoa,Bunodosoma cangicum (Sea anemone),UniprotKB,U-actitoxin-Bcg2a (U-AITX-Bcg2a) (AnmTX BC 9a-3) (Bcg III 21.75) (Bcg 21.75),20483220; 22683676; 23801332,FUNCTION: Possible voltage-gated potassium channel (Kv) blocker. {ECO:0000250|UniProtKB:P86467}.,probable Kav blocker
+P86467,,NIIDVPCRPCYYRDSSGNCVYDQLGCGA,28,Metazoa,Bunodosoma cangicum (Sea anemone),UniprotKB,Toxin Bcg III 23.41 (Bcg 23.41) (AnmTX BC 9a-1),20483220; 23801332,FUNCTION: Possible voltage-gated potassium channel (Kv) blocker. Increases amplitude and duration of crab leg nerve compound action potential. {ECO:0000269|PubMed:20483220}.,probable Kav blocker
+Q5G8A6,,MERKLALLLFLGMVTLASCGLREKHVQKLVALIPNDQLRSILKAVVHKVAKTQFGCPAYEGYCNNHCQDIERKDGECHGFKCKCAKD,87,Metazoa,Tityus costatus (Brazilian scorpion),UniprotKB,Scorpine-like peptide Tco 41.46-2 [Cleaved into: Scorpine-like peptide Tco 42.14 (Tco-beta-KTx) (TcobetaKTx)],15683865,FUNCTION: Scorpine-like peptide Tco 41.46-2 may have anti-bacterial activity. {ECO:0000250}.; FUNCTION: Tco 42.14 may block voltage-gated potassium channels. {ECO:0000250}.,probable Kav blocker and antibacterial
+B2KTG2,,MSSGGLLLLLGLLTLWTELTPVSSRERHPDCDKPPDTGRCRKNVRAFYYKPSAKRCVQFIYGGCNANGNHFKSDHLCRCECLEYP,85,Metazoa,Bungarus fasciatus (Banded krait) (Pseudoboa fasciata),UniprotKB,Kunitz-type serine protease inhibitor homolog beta-bungarotoxin BF B1 chain,18164783,FUNCTION: Beta-1-bungarotoxin is a presynaptic neurotoxin of the venom. The B chain is homologous to venom basic protease inhibitors but has no protease inhibitor activity and blocks voltage-gated potassium channels (Kv) (By similarity). {ECO:0000250}.,probable Kav blocker
+B2KTG3,,MSSGGLLLLLGLLTLWAELTPISSRERHPDCDKPPDTGRCGNNVRAFYYKPSTNKCVQFIYGGCNANGNHFKSDHLCRCQCREND,85,Metazoa,Bungarus fasciatus (Banded krait) (Pseudoboa fasciata),UniprotKB,Kunitz-type serine protease inhibitor homolog beta-bungarotoxin BF B2 chain,18164783,FUNCTION: Beta-1-bungarotoxin is a presynaptic neurotoxin of the venom. The B chain is homologous to venom basic protease inhibitors but has no protease inhibitor activity and blocks voltage-gated potassium channels (Kv) (By similarity). {ECO:0000250}.,probable Kav blocker
+P0DQT7,,MKTIVLLFVLVLVFALLVKMGMVEAEHGCPDNEDECHEHCKSIGKSGGYCVGPHKQTCRCN,61,Metazoa,Mesobuthus martensii (Manchurian scorpion) (Buthus martensii),UniprotKB,Defensin BmKDfsin1,24129506,"FUNCTION: Antibacterial peptide active against Gram-positive bacteria, but not on Gram-negative bacteria (By similarity). Has also weak blocking activity on Kv1.1/KCNA1, Kv1.2/KCNA2, Kv1.3/KCNA3, KCa3.1/KCNN4/IK, KCa2.3/KCNN3/SK3 and Kv11.1/KCNH2/ERG1 channels (tested at 1 uM) (By similarity). It inhibits potassium channel current by interacting with the pore region (By similarity). {ECO:0000250|UniProtKB:A0A384E0Y8, ECO:0000250|UniProtKB:P0DQU0}.",probable Kav blocker and antibacterial
+P0DQT8,,METIVLLFLLALVFCTLEMGMVEAEHGCPDNEDECHEHCKSIGKSGGYCVGPHKQTCRCNP,61,Metazoa,Mesobuthus martensii (Manchurian scorpion) (Buthus martensii),UniprotKB,Defensin BmKDfsin2,24129506,"FUNCTION: Antibacterial peptide active against Gram-positive bacteria, but not on Gram-negative bacteria (By similarity). Has also weak blocking activity on Kv1.1/KCNA1, Kv1.2/KCNA2, Kv1.3/KCNA3, KCa3.1/KCNN4/IK, KCa2.3/KCNN3/SK3 and Kv11.1/KCNH2/ERG1 channels (tested at 1 uM) (By similarity). It inhibits potassium channel current by interacting with the pore region (By similarity). {ECO:0000250|UniProtKB:A0A384E0Y8, ECO:0000250|UniProtKB:P0DQU0}.",probable Kav blocker and antibacterial
+P0DQU1,,MKVIAILFLLAFVLCTMEITMVEAGFGCPLFQFACDSHCRGMGRKGGYCGGNFKLTCICVVK,62,Metazoa,Mesobuthus martensii (Manchurian scorpion) (Buthus martensii),UniprotKB,Defensin BmKDfsin6,24129506,"FUNCTION: Antibacterial peptide active against Gram-positive bacteria, but not on Gram-negative bacteria (By similarity). Has also weak blocking activity on Kv1.1/KCNA1, Kv1.2/KCNA2, Kv1.3/KCNA3, KCa3.1/KCNN4/IK, KCa2.3/KCNN3/SK3 and Kv11.1/KCNH2/ERG1 channels (tested at 1 uM) (By similarity). It inhibits potassium channel current by interacting with the pore region (By similarity). {ECO:0000250|UniProtKB:A0A384E0Y8, ECO:0000250|UniProtKB:P0DQU0}.",probable Kav blocker and antibacterial
+P86466,,NIVDVPCRDDYYRDSDGNCVCCKFGGA,27,Metazoa,Bunodosoma cangicum (Sea anemone),UniprotKB,Toxin Bcg III 21.00 (Bcg 21.00) (AnmTX BC 9a-2),20483220; 23801332,FUNCTION: Possible voltage-gated potassium channel (Kv) blocker. {ECO:0000250|UniProtKB:P86467}.,probable Kav blocker
+P0C828,,MGMRMMFTVFLLVVLATTVVSTPSDRASDGRNAAVHERQKSLVPSVITTCCGYDPGTMCPPCRCTNSCG,69,Metazoa,Conus striatus (Striated cone),UniprotKB,Conotoxin SIVA (Conotoxin S4.1) (Conotoxin s4a) (Kappa-conotoxin SIVA) (KappaA-conotoxin) (Spastic peptide),14602116; 14701840; 17115716; 16183187; 9819194,"FUNCTION: Neurotoxin with probable activity on sodium channel (Probable). Induces intense repetitive firing of the frog neuromuscular junction, leading to a tetanic contracture in muscle fiber (spastic paralysis) (PubMed:17115716). In vivo, shows the same effect as the whole venom when injected on fish (PubMed:17115716). Intraperitoneal injection into fish induces a period of rapid swimming followed by a spastic paralysis with stiff fibrillating fins (PubMed:9819194). At high doses, the peptide is lethal to both fish and mice (PubMed:9819194). {ECO:0000269|PubMed:17115716, ECO:0000269|PubMed:9819194, ECO:0000305|PubMed:17115716}.",probable Nav inhibitor
+P0C829,,MGMRMMFTVFLSVVLATTVVSTPSDRASDGRNAAVHERQKELVPSVITTCCGYDPGTMCPPCRCTNSCPTKPKKPGRRND,80,Metazoa,Conus striatus (Striated cone),UniprotKB,Conotoxin SIVB (Conotoxin S4.2) (Conotoxin s4b) (KappaA-conotoxin),14701840; 17115716,"FUNCTION: Neurotoxin with probable activity on sodium channel (Probable). Induces intense repetitive firing of the frog neuromuscular junction, leading to a tetanic contracture in muscle fiber (spastic paralysis) (PubMed:17115716). In vivo, shows the same effect as the whole venom when injected on fish prey (PubMed:17115716). {ECO:0000269|PubMed:17115716, ECO:0000305|PubMed:17115716}.",probable Nav inhibitor
+P58786,1DG0 1QFB,MGKLTILVLVAAVLLSAQVMVQGDGDQPADRNAVPRDDNPGGASGKFMNVLRRSGCPWEPWCG,63,Metazoa,Conus radiatus (Rayed cone),UniprotKB,Contryphan-R (Bromocontryphan) [Cleaved into: [Des-Gly1]-contryphan-R],9033387; 8910408; 10471307; 11041849,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav inhibitor
+Q9BH73,,MLKMGVVLFIFLVLFPLATLQLDADQPVERYAENKQLLSPDERREIILHALGTRCCSWDVCDHPSCTCCG,70,Metazoa,Conus textile (Cloth-of-gold cone),UniprotKB,Conotoxin elongated-tx3a-a [Cleaved into: Conotoxin tx3a-b (Tx3a); Conotoxin tx3a-a (Conotoxin Tx3a.1) (Tx3.2) (Tx3a); Conotoxin elongated-tx3a-b],11158371; 15924437; 17042781; 19380747; 36235146; 22709442; 23031820; 18205318,"FUNCTION: [Conotoxin tx3a-a]: Intracranial injection into mice causes scratching and hyperactivity (PubMed:15924437). In vitro, inhibits proliferation of the mice ovarian cancer cells ID8 (PubMed:36235146). {ECO:0000269|PubMed:15924437, ECO:0000269|PubMed:36235146}.",probable neurotoxin
+Q9NP86,,MQFPMGPACIFLRKGIAEKQRERPLGQDEIEELREAFLEFDKDRDGFISCKDLGNLMRTMGYMPTEMELIELGQQIRMNLGGRVDFDDFVELMTPKLLAETAGMIGVQEMRDAFKEFDTNGDGEITLVELQQAMQRLLGERLTPREISEVVREADVNGDGTVDFEEFVKMMSR,173,Metazoa,Homo sapiens (Human),UniprotKB,Calcium-binding protein 5 (CaBP5),10625670; 15489334; 11108966; 19338761,FUNCTION: Inhibits calcium-dependent inactivation of L-type calcium channel and shifts voltage dependence of activation to more depolarized membrane potentials (By similarity). Involved in the transmission of light signals (By similarity). May positively regulate neurotransmitter vesicle endocytosis and exocytosis in a salt-dependent manner (By similarity). May play a role in the extension and network organization of neurites (By similarity). {ECO:0000250|UniProtKB:Q9JLK3}.,probable Cav inhibitor
+A0A1P8NVR5,,MGKLTILVLVAAILLSTQVMVQGDRDQPADRNAVPRDVNPGRARRKLMKVLRESECPWKPWCG,63,Metazoa,Conus araneosus (Cobweb cone),UniprotKB,Contryphan-Ar2 (Ar1260) (Ar1304) [Cleaved into: Contryphan-Ar1 (Ar1131) (Ar1175)],28152596,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav inhibitor
+A0A1P8NVT3,,MGKLTILVLVAAVLLSTQVMVQGDRDQPADRDAVPRDDKPGGTSGKFMNVLRRSGCPWDPWCG,63,Metazoa,Conus frigidus (Frigid cone),UniprotKB,Contryphan-Fr1 (Fr975),28152596,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav inhibitor
+A0A1P8NVU0,,MGKLTILVLVAAVLLSTQAMVQDQPADRNAVRRNDNPGGASRKSINVLHRNECPWQPWCG,60,Metazoa,Conus buxeus loroisii (Cone snail) (Conus loroisii),UniprotKB,Contryphan-Lo2 (Lo1158),28152596,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav inhibitor
+A0A2L2P6T1,,MEKLTILLLVAAVLMSTHAMFQGGGEKSRKAINFSETRKLARNKQKRCDGWSTYCHDDSECCSETCANSYCTLIKGVRTTSHPI,84,Metazoa,Conus amadis (Amadis cone),UniprotKB,Conotoxin Am6.1 (Am3286) (Am3408) (Am3452) (Am6.1a) (Am6.1b) (Am6.1c),29447903,FUNCTION: Gamma-conotoxins may act on voltage-gated non-specific cation pacemaker channels (HCN). {ECO:0000250|UniProtKB:P56711}.,probable neurotoxin
+A0A3G6IHA6,,LSKKQCGADGQFCFLPGLGLNCCSGLCLIVCVPT,34,Metazoa,Conus ateralbus (Cone snail),UniprotKB,Delta-conotoxin AtVIA,31344776,"FUNCTION: Probable toxin from a worm-hunter cone snail (PubMed:31344776). Shows an excitatory activity on a majority of mouse lumbar dorsal root ganglion (DRG) neurons (PubMed:31344776). Very probably inhibits the inactivation of voltage-gated sodium channels (Nav) (Probable). {ECO:0000269|PubMed:31344776, ECO:0000305|PubMed:31344776}.",probable VGSC inhibitor
+B8QG00,,MKTSSLTIIFIAVIITIICLNIHDIEAREIEFNAGRVVRSEKDCIKHLQRCRENKDCCSKKCSRRGTNPEKRCR,74,Metazoa,Hoffmannihadrurus gertschi (Scorpion) (Hadrurus gertschi),UniprotKB,Hadrucalcin (HdCa),19389159; 27114612,"FUNCTION: This toxin activates ryanodine receptors RyR1 and RyR2 by inducing a long-lasting subconductance state (35% of the full conductance stateon RyR1) (PubMed:19389159, PubMed:27114612). Furthermore, it triggers calcium release from sarcoplasmic vesicles (11.8 nM are enough to induce a sharp release on RyR1, and 55% of the total calcium is released after toxin (100 nM) addition on RyR1) probably by acting as a cell-penetrating peptide (CPP) (PubMed:19389159). In addition, it has been shown to dose-dependently stimulate ryanodine binding to RyR1 (EC(50)=14.8 nM) (PubMed:27114612). It also augments the bell-shaped calcium-[3H]ryanodine binding curve that is maximal at about 10 uM calcium concentration (PubMed:27114612). It binds a different site as ryanodine (By similarity). It acts synergistically with caffeine (PubMed:19389159). In vivo, intracerebroventricular injection into mice induces neurotoxic symptoms, followed by death (By similarity). {ECO:0000250|UniProtKB:A0A1L4BJ42, ECO:0000250|UniProtKB:P59868, ECO:0000250|UniProtKB:P60254, ECO:0000269|PubMed:19389159, ECO:0000269|PubMed:27114612, ECO:0000269|Ref.2}.",probable neurotoxin
+D3JXM1,,MKILSIVLIALIICSISICTEAFGLIDVKCSASRECWVACKKVTGSGQGKCQNNQCRCY,59,Metazoa,Mesobuthus eupeus (Lesser Asian scorpion) (Buthus eupeus),UniprotKB,Potassium channel toxin alpha-KTx 16.4 (Alpha-KTx MeuTx3B) (MeuKTx-4),21466856,FUNCTION: Weak inhibitor of voltage-gated potassium channel hKv1.3/KCNA3. {ECO:0000269|PubMed:21466856}.,probable Kav inhibitor
+P0C1N8,,MSKLGALLTICLLLFSLTAVPLDGDQHADQPAQRLQDRIPTEDHPLFDPNKRCCPPVACNMGCKPCCG,68,Metazoa,Conus textile (Cloth-of-gold cone),UniprotKB,Conotoxin tx3b (Tx3.3),15924437; 22709442,"FUNCTION: Intracranial injection into mice causes scratching, hyperactivity and circular motion.",probable neurotoxin
+P0C1X1,,MGMRMMFTVFLLVVLATTVVSIPSDRASDGRNAVVHERAPELVVTATTNCCGYNPMTICPPCMCTYSCPPKRKPGRRND,79,Metazoa,Conus magus (Magical cone),UniprotKB,Conotoxin MIVA (KappaA-conotoxin),14701840,FUNCTION: Probable neurotoxin with ion channel inhibitor activity. {ECO:0000305}.,probable ion channel inhibitor
+P0C2C5,,DCCGVKLEMCHPCLCDNSCKNYGK,24,Metazoa,Conus purpurascens (Purple cone),UniprotKB,Conotoxin PIVE (Kappa-A-conotoxin PIVE) (KappaA-PIVE),17118419,"FUNCTION: Probable neurotoxin with ion channel inhibitor activity (Probable). In vivo, elicits dose-dependently excitatory activity upon injection into fish. Its action is slowly reversible (PubMed:17118419). {ECO:0000269|PubMed:17118419, ECO:0000305}.",probable ion channel inhibitor
+P0C2X7,1ZJQ 2AAP,MKTSALFVIFGLVLLFCNSFAAELKTTGRGCGGLMAGCDGKSTFCCSGYNCSPTWKWCVYARPGRR,66,Metazoa,Chilobrachys guangxiensis (Chinese earth tiger tarantula) (Chilobrachys jingzhao),UniprotKB,U1-theraphotoxin-Cg1a 1 (U1-TRTX-Cg1a) (Jingzhaotoxin-7) (JZTX-7) (Jingzhaotoxin-VII) (JZTX-VII) (Peptide F5-16.20),18581053; 17476710,FUNCTION: Probable ion channel inhibitor.,probable ion channel inhibitor
+P0C5G6,,VACRCESDGPDVRSATFTGTVDLWNCNTGWHKCIATYTAVASCCKKD,47,Metazoa,Halcurias carlgreni (Sea anemone),UniprotKB,Delta-halcutoxin-Hcg1a (Delta-HCTX-Hcg1a) (Halcurin),9133708; 22683676,"FUNCTION: Is potently lethal to crabs, although it showed neither lethal activity in mice nor hemolytic activity. May bind to voltage-gated sodium channels (Nav), thereby delaying their inactivation during signal transduction. {ECO:0000269|PubMed:9133708}.",probable VGSC inhibitor
+P0C837,,MEKLTILVLVAAVLLSTQVMVQGDADQPADRDAVPRDDNAGGTDGKFMNVQRRSGCPWEPWCG,63,Metazoa,Conus striatus (Striated cone),UniprotKB,Contryphan-S (St990) [Cleaved into: Contryphan-S St933],16183187; 17902199,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav inhibitor
+P0DKP9,,MSKLGVLLTICLLLFPLTALPMDGDQSVDRPAERMQDDISSEQHPLFNQKRRCCRWPCPRKIDGEYCGCCLG,72,Metazoa,Conus consors (Singed cone),UniprotKB,Conotoxin CnIIID,22705119,FUNCTION: Shows a paralytic effect in fish. {ECO:0000269|PubMed:22705119}.,probable neurotoxin
+P0DKQ2,,MSKLGVLLTICLLLLPLTALPMDEDQPADQPADRMQDDISSEQYPLFDKRQKCCGKGMTCPRYFRDNFICGCC,73,Metazoa,Conus consors (Singed cone),UniprotKB,Conotoxin CnIIIG,22705119,FUNCTION: Shows a paralytic effect in fish. {ECO:0000269|PubMed:22705119}.,probable neurotoxin
+P0DQY7,,APALVVTATTNCCGYTGPACHPCLCTQTC,29,Metazoa,Conus striatus (Striated cone),UniprotKB,Conotoxin SIVC (KappaA-conotoxin SIVC) (STR18),34168165; 36422973,FUNCTION: Probable neurotoxin with ion channel inhibitor activity. {ECO:0000305}.,probable ion channel inhibitor
+P24160,,MEKLTILLLVAAVLMSTQAMFQGDGEKSRKAEINFSETRKLARNKQKRCGGYSTYCEVDSECCSDNCVRSYCTLFG,76,Metazoa,Conus textile (Cloth-of-gold cone),UniprotKB,Gamma-conotoxin-like TxVIIA (TxIIA),11158371; 1761058; 8868490,FUNCTION: Gamma-conotoxins may act on voltage-gated non-specific cation pacemaker channels (HCN) (By similarity). Potent neurotoxin. {ECO:0000250}.,probable HCN inhibitor
+P56711,,MEKLTILLLVAAVLMSTQAQNQEQRQQAKINFLSKRKPSAERWRRDCTSWFGRCTVNSECCSNSCDQTYCELYAFPSFGA,80,Metazoa,Conus pennaceus (Feathered cone) (Conus episcopus),UniprotKB,Gamma-conotoxin PnVIIA (PnMEKL-011),11158371; 9484216,FUNCTION: Gamma-conotoxins may act on voltage-gated non-specific cation pacemaker channels (HCN). Triggers depolarization and firing of action potential bursts in the caudodorsal neurons of lymnaea. This effect is due to activation or enhancement of a slow inward cation current that may underlie endogenous bursting activity of these neurons. {ECO:0000269|PubMed:9484216}.,probable HCN inhibitor
+P58787,1DFY 1DFZ,MGKLTILVLVAAVLLSTQVMVQGDADQPADRDAVPRDDNPSGTDGKFMNVLRRFGCPWQPWCG,63,Metazoa,Conus stercusmuscarum (Fly-specked cone),UniprotKB,Contryphan-Sm,9531419; 11041849,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav inhibitor
+P58846,,MFKLGVLLTICLLLFSLNAVPLDGDQPADQPAERLLDDISFENNPFYDPAKRCCRTCFGCTPCCG,65,Metazoa,Conus textile (Cloth-of-gold cone),UniprotKB,Conotoxin tx3c (Textile scratcher peptide) (Tx3.4),15924437; 19380747; 22709442,FUNCTION: Causes scratching in mice. {ECO:0000269|Ref.3}.,probable neurotoxin
+P58923,1EYO,SCSGRDSRCPPVCCMGLMCSRGKCVSIYGE,30,Metazoa,Conus tulipa (Fish-hunting cone snail) (Tulip cone),UniprotKB,Conotoxin TVIIA,10903496; 10903497,"FUNCTION: By structural similarity with conotoxin GS, may inhibit the sodium channel (Nav). No effect was observed upon intracranial injections into mice and intraperitoneal injections into goldfish (25 ug).",probable Nav inhibitor
+Q3C258,6UX5,MNQVMTIFLVLGVIVYSVESSSTPDGTWVKCRHDCFTKYKSCQMSDSCHDEQSCHQCHVKHTDCVNTGCP,70,Metazoa,Actinia equina (Beadlet anemone),UniprotKB,U-actitoxin-Aeq5a (U-AITX-Aeq5a) (Acrorhagin I) (Acrorhagin-1),16183092; 32057717; 33387653; 22683676,"FUNCTION: Toxin that is lethal to crab (PubMed:16183092). It interacts with divalent metal ions (zinc and nickel) suggesting it may function as a metal ion chelator to regulate metal ion levels or as a metal ion transporter, or that its function is modulated by metal ions. Is not active against any of the voltage-gated potassium and sodium channels tested (PubMed:33387653). In addition, it does not show activity in bacterial and fungal growth inhibitory assays as well as in hemolytic assays (PubMed:33387653). {ECO:0000269|PubMed:16183092, ECO:0000269|PubMed:33387653}.",probable ion channel inhibitor
+Q5K0C7,,MKLTCVLIITVLFLTASQLITADYSRDQRQYRAVRLGDEMRNFKGARDCGGQGEGCYTQPCCPGLRCRGGGTGGGVCQL,79,Metazoa,Conus virgo (Virgin cone),UniprotKB,Conotoxin Vi6.1 (Conotoxin vi6a) (virgo 1),15652641; 26851775,"FUNCTION: Ion channel inhibitor that inhibits the increase in intracellular calcium upon depolarization in DRG neurons. In vivo, both intraperitoneal and intracranial injections into mice induce hyperactivity. {ECO:0000269|PubMed:26851775}.",probable Cav inhibitor
+W4VSA0,5L34,MGKLTILFLVAAALLSTQVMVQGDGDQPADRDAVPRDDNPAGTIEKFMNLLRQVRCRWTPVCG,63,Metazoa,Conus victoriae (Queen Victoria cone),UniprotKB,Contryphan-Vc2 ([D-Trp3]-contryphan-Vc2),24505301; 28216409,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav inhibitor
+A0A1L1QJU3,2N8F,NECIRKWLSCVDRKNDCCEGLECYKRRHSFEVCVPIPGFCLVKWKQCDGRERDCCAGLECWKRSGNKSSVCAPIT,75,Metazoa,Hadronyche infensa (Fraser island funnel-web spider) (Atrax infensus),UniprotKB,Pi-hexatoxin-Hi1a (Pi-HXTX-Hi1a) (Double-knot toxin) (DkTx),28320941; 31213240,"FUNCTION: This toxin potently and selectively inhibits ASIC1a (IC(50)=0.4 nM on rASIC1a and IC(50)=0.52 nM on hASIC1a), an isoform of the gene ASIC1 (PubMed:28320941). It incompletely inhibits ASIC1a activation in a pH-independent and slowly reversible manner (Tau(off)=14.2 min for rASIC1a and 31.8 min for hASIC1a) (PubMed:28320941). This toxin acts by binding to and stabilizing the closed state of the channel, thereby impeding the transition into a conducting state (PubMed:28320941). This toxin may bind to the acidic pocket of ASIC1a, since mutation of a key residue of this pocket (Arg-350) abolishes the ability of the toxin to inhibit ASIC1a (PubMed:28320941). In addition, it shows antiparasitic activities, since it moderately inhibits the larval development of the major pathogenic nematode of ruminants (H.contortus, IC(50)=22.9 uM) (PubMed:31213240). In vivo, this toxin protects the brain from neuronal injury when administered up to 8 hours after stroke onset (PubMed:28320941). {ECO:0000269|PubMed:28320941, ECO:0000269|PubMed:31213240}.",probable neurotoxin
+A0A218QX08,,MKISLVTWLITALCLMEIEEIDGDTPGNYPVDFQGIYYECIVYNRCERDCKIHGASYGYCYAGVCFCEYLPDENKNFWDVMKKQCDYMNN,90,Metazoa,Tityus serrulatus (Brazilian scorpion),UniprotKB,Putative sodium channel toxin Ts28 (Putative NaTx) (Putative lipolysis-activating peptide) (Tityustoxin-28),29561852; 33181162,"FUNCTION: The edited BmKBTx-like may modulate voltage-gated sodium channels (Nav). {ECO:0000250|UniProtKB:P84810}.; FUNCTION: The non-edited form is able to form a heterodimer (By similarity). In orthologs, a heterodimer with LVP beta-chain induces lipolysis in rat adipocytes, which is mediated through the beta-2 adrenergic receptor pathway (ADRB2) (By similarity). Since no LVP beta-chains have been identified in the venom of this scorpion, it is possible that this protein is not involved in a lipolysis process (Probable). {ECO:0000250|UniProtKB:P84810, ECO:0000305|PubMed:33181162}.",probable VGSC inhibitor
+A0A3G3C7V6,,MEKLTILLLVAAILMSTQALNQEQRQQAKINLLSKKKPSAERWRRGCTWWFGRCAEDGECCSNSCDQTYCELYAFPSRAI,80,Metazoa,Conus amadis (Amadis cone),UniprotKB,Gamma-conotoxin-like Am6.6,30593932,FUNCTION: Gamma-conotoxins may act on voltage-gated non-specific cation pacemaker channels (HCN). {ECO:0000250|UniProtKB:P56711}.,probable HCN inhibitor
+A0A7S8MVN3,,MKIGVLFTIISMLCLLEVRKICSKKEGGYPRYFSFGYKCQNWGTNEYCRTVCQLHKGEYGYCYAGDCYCEGLTEENRLFWNVYRKYCKNPLFD,93,Metazoa,Tityus serrulatus (Brazilian scorpion),UniprotKB,Putative sodium channel toxin Ts41 (Putative NaTx) (Putative lipolysis-activating peptide) (Tityustoxin-41),33181162,"FUNCTION: The edited BmKBTx-like may modulate voltage-gated sodium channels (Nav). {ECO:0000250|UniProtKB:P84810}.; FUNCTION: The non-edited form is able to form a heterodimer (By similarity). In orthologs, a heterodimer with LVP beta-chain induces lipolysis in rat adipocytes, which is mediated through the beta-2 adrenergic receptor pathway (ADRB2) (By similarity). Since no LVP beta-chains have been identified in the venom of this scorpion, it is possible that this protein is not involved in a lipolysis process (Probable). {ECO:0000250|UniProtKB:P84810, ECO:0000305|PubMed:33181162}.",probable VGSC inhibitor
+B1P1H3,,MRFHTLLFLSFLLLVSCALICTAQHPGLEKSGMFHENVGKGQHIEEKRSCIERMQTCEVEAGLPCCSGAPCICPYIGDCICIQ,83,Metazoa,Chilobrachys guangxiensis (Chinese earth tiger tarantula) (Chilobrachys jingzhao),UniprotKB,U25-theraphotoxin-Cg1a (U25-TRTX-Cg1a) (Jingzhaotoxin-54) (JZTX-54) (Peptide F1-20.74),18581053; 17476710,FUNCTION: Inhibits TTX-sensitive sodium currents in rat dorsal root ganglion (DRG) neurons. {ECO:0000269|PubMed:18581053}.,probable neurotoxin
+B1P1H4,,MRFHTLLFLSFLLLVSCALICTAQHPGLKKSGMFHENVGKGQHIEKKRSCIERMQTCEVEAGLPCCSGAPCICPYIGDCICIQ,83,Metazoa,Chilobrachys guangxiensis (Chinese earth tiger tarantula) (Chilobrachys jingzhao),UniprotKB,U25-theraphotoxin-Cg1a (U25-TRTX-Cg1a) (Jingzhaotoxin-54.2) (JZTX-54.2) (Peptide F1-20.74),18581053; 17476710,FUNCTION: Inhibits TTX-sensitive sodium currents in rat dorsal root ganglion (DRG) neurons. {ECO:0000269|PubMed:18581053}.,probable neurotoxin
+D2Y492,,MKLTCVLIIAVLILTACQFIAADNTEYRKWRRSGTSTGMRLGSRDCGPWCWGQNKCCPDESCRSLHESCT,70,Metazoa,Californiconus californicus (California cone) (Conus californicus),UniprotKB,Conotoxin Cal6.11 (Conotoxin Cal6.2) (Conotoxin Cl6.11) (Conotoxin Cl6b),20363338; 21172372,FUNCTION: Probable neurotoxin with unknown target. Possibly targets ion channels. {ECO:0000305}.,probable ion channel inhibitor
+D9IWN7,,MGMRMMFTVFLLVVLATTVVSFTLDRASDGANAAADLVARGIRGNCCMFHTCPIDYSRFYCP,62,Metazoa,Conus planorbis (Planorbis cone),UniprotKB,Conotoxin Pl168 (Alpha-conotoxin Vt1.24),26506909; 32443665,FUNCTION: Probable neurotoxin with unknown target. Possibly targets ion channels. {ECO:0000305|PubMed:32443665}.,probable ion channel inhibitor
+H2BK78,,MLKMGVVLFTVLVLFPLATLHLDAEQPVERYAENKQDINPDQRSGFLTFALRQGCCPPGVCQMAACNPPPCCP,73,Metazoa,Conus varius (Varius cone),UniprotKB,Conotoxin Vr3a (Vr3-NPPP01),24080356; 34234819,"FUNCTION: Conotoxin with small effects on sodium (Nav), potassium (Kv) and calcium (Cav) currents. At high concentration (10 uM), it has no effects on the peak sodium currents, but induces a ~10 mV shift in a polarizing direction in the current-voltage relationship. At the same concentration, it increases 19% of the peak potassium currents but does not induce a shift in the current-voltage relationship. At the same concentration, it inhibits 31% of the peak calcium currents but does not induce a shift in the current-voltage relationship. On rat DRG neurons, it inhibits calcium channel currents with an IC(50)=19.28 uM. Moreover, at 10 uM, it inhibits 15.32% of the human Cav1.2/CACNA1C currents and 12.86% of the human Cav2.2/CACNA1B currents. {ECO:0000269|PubMed:34234819}.",probable ion channel inhibitor
+M4GX67,,MKAALLLVISTLMLIGVLTKKSGYPIQHDGCKNWCVFNHFCENICETYGGSGYCYFWKLACWCDNIHNWVPTWSRETNKCRAK,83,Metazoa,Mesobuthus martensii (Manchurian scorpion) (Buthus martensii),UniprotKB,BmKBT-like peptide (Beta-toxin BmKBy),22705625,FUNCTION: Sodium channel inhibitor (By similarity). Possesses potent toxicity in mice but induces only paralysis in cotton bollworm. {ECO:0000250}.,probable Nav inhibitor
+P0C1Y2,,MGMRMMFTVFLLVVLATAVLPVTLDRASDGRNAAANAKTPRLIAPFIRDYCCHRGPCMVWCG,62,Metazoa,Conus bandanus (Banded marble cone),UniprotKB,Alpha-conotoxin-like Bn1.3,14701840,FUNCTION: Does not show activity on the acetylcholine receptors tested. {ECO:0000269|PubMed:14701840}.,probable neurotoxin
+P0C292,,MMKLVLFSIIVILFSLIGSIHGADVPGNYPLDSSGNKYPCTVLGDNQSCIDVCKKHGVKYGYCYSFKCWCEFLEDKNVSI,80,Metazoa,Androctonus crassicauda (Arabian fat-tailed scorpion),UniprotKB,Toxin Acra1 (Acra I-1),16762386,FUNCTION: Probable neurotoxin that inhibits ion channels (By similarity). Is toxic to mice. Is about 2.8% of the total protein in the venom. {ECO:0000250}.,probable ion channel inhibitor
+P0C293,,MMKLALFSIIVILFSLIGSIHGADVPGNYPLDSSGNKYPCTVLGDNQSCIDVCKKHGVKYGYCYSFKCWCEFLEDKNVSI,80,Metazoa,Androctonus crassicauda (Arabian fat-tailed scorpion),UniprotKB,Toxin Acra I-2 (Acra1),16762386,FUNCTION: Probable neurotoxin that inhibits ion channels (By similarity). Is toxic to mice. Is about 2.8% of the total protein in the venom. {ECO:0000250}.,probable ion channel inhibitor
+P0C294,,MMKLVLLSVIVILFSLIGSIHGANVPGNYPLDSSGNKYPCTVLGDNQSCIDVCKKHGVKYGYCYGFKCWCEYLKDKNVSL,80,Metazoa,Androctonus crassicauda (Arabian fat-tailed scorpion),UniprotKB,Toxin Acra I-3,16762386,FUNCTION: Probable neurotoxin that inhibits ion channels (By similarity). Is toxic to mice. {ECO:0000250}.,probable ion channel inhibitor
+P0C2C6,,DCCGVKLEMCHPCLCDNSCKKSGK,24,Metazoa,Conus purpurascens (Purple cone),UniprotKB,Conotoxin PIVF (Kappa-conotoxin-like PIVF) (KappaA-PIVF),17118419,"FUNCTION: Probable neurotoxin with ion channel inhibitor activity (Probable). In vivo, elicits dose-dependently excitatory activity upon injection into fish. Its action is slowly reversible (By similarity). {ECO:0000250|UniProtKB:P0C2C5, ECO:0000305}.",probable ion channel inhibitor
+P0C2U8,,KIKWFKTMKSLAKFLAKEQMKKHLGE,26,Metazoa,Lycosa singoriensis (Wolf spider) (Aranea singoriensis),UniprotKB,M-lycotoxin-Ls2a (M-LCTX-Ls2a) (Lycocitin-3),14991689,"FUNCTION: Forms pore that permeabilize the cell membrane. Promotes efflux of calcium from synaptosomes, causes hemolysis, and dissipates voltage gradients across muscle membrane. Potently inhibits the growth of bacteria and yeast. May function both in the prey capture strategy as well as protection from infectious organisms arising from prey ingestion (By similarity). {ECO:0000250}.",probable neurotoxin
+P0CF37,,KDGYLVGNDGCKYSCFTRPGTYCANECSRVKGKDGYCYAWMACYCYSMPNWVKTWNRATNRCGR,64,Metazoa,Tityus discrepans (Venezuelan scorpion),UniprotKB,Bactridin-2 (Bact2) (Bactridine 2) (P-Mice-Antm-beta* NaTx14.8),19540868; 22355312,"FUNCTION: Shows antibacterial activity against both Gram-positive bacteria (B.subtilis, M.luteus, E.faecalis) and Gram-negative bacteria (P.aeruginosa, Y.enterocolitica, A.calcoaceticus). Modifies membrane sodium permeability on Y.enterocolitica. Is toxic to mice, but is not to crabs. Induces concentration dependent haemolysis in human erythrocytes (PubMed:19540868). Acts by inhibiting the sodium (Nav) currents (By similarity). {ECO:0000250|UniProtKB:P0C1X7, ECO:0000269|PubMed:19540868}.",Antimicrobial probable ion channel inhibitor
+P0CF39,,KDGYIIEHRGCKYSCFFGTNSWCNTECTLKKGSSGYCAWPACWCYGLPDNVKIFDSNNLKC,61,Metazoa,Tityus discrepans (Venezuelan scorpion),UniprotKB,Bactridin-1 (Bact1) (Bactridine 1) (P-Arthr-Antm-beta* NaTx2.6),19540868; 22355312,"FUNCTION: Shows antibacterial activity against both Gram-positive bacteria (B.subtilis, M.luteus, E.faecalis) and Gram-negative bacteria (P.aeruginosa, Y.enterocolitica, A.calcoaceticus) (PubMed:19540868). Modifies membrane sodium permeability on Y.enterocolitica (PubMed:19540868). Is toxic to cockroaches and crabs, but is not toxic to mice. Does not induce haemolysis in human erythrocytes (PubMed:19540868). Acts by inhibiting the sodium (Nav) currents (By similarity). {ECO:0000250|UniProtKB:P0C1X7, ECO:0000269|PubMed:19540868}.",Antimicrobial probable ion channel inhibitor
+P0DJ47,,KHGSINCRLPPERGPCRGNITKYYYHNESRTCRTFSYGGCEGNSNNFRNRHYCMKYCARKRHGWLGTGWI,70,Metazoa,Mesobuthus martensii (Manchurian scorpion) (Buthus martensii),UniprotKB,Kunitz-type serine protease inhibitor BmKTT-3 (Delta-KTx 1.2),22354971,"FUNCTION: Dual-function toxin that inhibits 85% of the activity of trypsin at a molar ratio of 4:1 with a dissociation constant of 760 nM, and that inhibits mKv1.3/KCNA3 potassium channel currents, but very weakly. {ECO:0000269|PubMed:22354971}.",probable Kav inhibitor
+P0DJ48,,KNKCQLPSDVGKGKASFTRYFYNEESGKCETFIYGGMGGNSNNFLTKEACCRECAQGSC,59,Metazoa,Lychas mucronatus (Chinese swimming scorpion),UniprotKB,Kunitz-type serine protease inhibitor LmKTT-1c (Delta-KTx 2.3),22354971,FUNCTION: Dual-function toxin that completely inhibits trypsin activity at a molar ratio of 1:1 (dissociation constant of 124 nM) and that inhibits mKv1.3/KCNA3 potassium channel currents (1 uM inhibits 50% of currents). {ECO:0000269|PubMed:22354971}.,probable Kav inhibitor
+P0DJ49,,QKDCSLPVDTGRGKGWFLRYYYNKNSKTCESFIYGGVGGNKNNFLNIENCCKICKAKNC,59,Metazoa,Mesobuthus martensii (Manchurian scorpion) (Buthus martensii),UniprotKB,Kunitz-type serine protease inhibitor BmKTT-1 (Delta-KTx 2.4),22354971,FUNCTION: Dual-function toxin that completely inhibits trypsin activity at a molar ratio of 1:1 (dissociation constant of 136 nM) and that inhibits mKv1.3/KCNA3 potassium channel currents with an IC(50) of 129.7 nM. {ECO:0000269|PubMed:22354971}.,probable Kav inhibitor
+P0DJ50,,MMNVITVVGIILSVVCTISDAEGVDCTLPSDTGRCKAYFIRYFYNQKAGECQKFVYGGCEGNSNNFLTKSDCCKQCSPGKC,81,Metazoa,Mesobuthus martensii (Manchurian scorpion) (Buthus martensii),UniprotKB,Kunitz-type serine protease inhibitor BmKTT-2 (Delta-KTx 3.1),23573241; 22354971,FUNCTION: Dual-function toxin that completely inhibits trypsin activity at a molar ratio of 1:1 (dissociation constant of 420 nM) and that inhibits mKv1.3/KCNA3 potassium channel currents with an IC(50) of 371.3 nM. {ECO:0000269|PubMed:22354971}.,probable Kav inhibitor
+P0DJ76,,MGIARILSAVLFLSVLFVVTFPALLLADHHDGRIDTCRLPSDRGRCKASFERWYFNGRTCAKFIYGGCGGNGNKFPTEKACMKRCAKA,88,Metazoa,Cyriopagopus schmidti (Chinese bird spider) (Haplopelma schmidti),UniprotKB,Kunitz-type kappaPI-theraphotoxin-Hs1e (KappaPI-TRTX-Hs1e) (Huwentoxin HW11c4) (Kunitz-type serine protease inhibitor HWTX-XI-IS4),18923708; 24418069,"FUNCTION: Toxin that shows weak activity against voltage-gated potassium channels (Kv), and no activity against serine proteases (PubMed:24418069). The recombinant toxin shows a weak inhibition on Kv1.1/KCNA1 (59.2% inhibition at 10 uM) (PubMed:24418069). {ECO:0000269|PubMed:24418069}.",probable Kav inhibitor
+P0DKT1,,MKVYCLLVVLLVGLVSQTQGQLDKKCNMACTLDYRPVCGSDGKTYPNRCALTSTACESQQSITVLHDGEC,70,Metazoa,Polystira albida (White giant-turris) (Pleurotoma albida),UniprotKB,Turripeptide Pal9.2,22954218,"FUNCTION: Acts as a neurotoxin by inhibiting an ion channel (By similarity). May also act as a serine protease inhibitor, since it possess the kazal serine protease inhibitor signature. {ECO:0000250}.",probable ion channel inhibitor
+P0DKT2,,MKVYCLLLVLLVGLVSQAHGQLDKKCQMVCTMDYRPVCGSDGRTYPNKCTLTSTACMSQRSITVFHDGEC,70,Metazoa,Gemmula sogodensis (Gem-turris),UniprotKB,Turripeptide Gsg9.2,22954218,"FUNCTION: Acts as a neurotoxin by inhibiting an ion channel (By similarity). May also act as a serine protease inhibitor, since it possess the kazal serine protease inhibitor signature. {ECO:0000250}.",probable ion channel inhibitor
+P0DKT3,,MKVYCLLLVLLVGLVSQAHGQLDKKCQMVCTFDYRPVCGSDGRTYPNKCTLTSTACMSQRSITVFHDGEC,70,Metazoa,Gemmula speciosa (Splendid gem-turris) (Pleurotoma speciosa),UniprotKB,Turripeptide Gsp9.3,22954218,"FUNCTION: Acts as a neurotoxin by inhibiting an ion channel (By similarity). May also act as a serine protease inhibitor, since it possess the kazal serine protease inhibitor signature. {ECO:0000250}.",probable ion channel inhibitor
+P0DKT4,,MKVYCLLLVLLVGLVSQAQGQLDKKCQTMCTMEYLPVCGSDGTTYPNKCTLTSTACVNQMDITVLHNGEC,70,Metazoa,Iotyrris cingulifera (Sea snail) (Pleurotoma cingulifera),UniprotKB,Turripeptide Ici9.2,22954218,"FUNCTION: Acts as a neurotoxin by inhibiting an ion channel (By similarity). May also act as a serine protease inhibitor, since it possess the kazal serine protease inhibitor signature. {ECO:0000250}.",probable ion channel inhibitor
+P0DKT5,,MKVYCLLLVFLVGLVSQAHGRLDKRCMTVCTMEYWPVCGSDGKTYPNKCHLTSTACTSQKDITVLHVGKC,70,Metazoa,Gemmula lisajoni (Gem-turris),UniprotKB,Turripeptide Gli9.1,22954218,"FUNCTION: Acts as a neurotoxin by inhibiting an ion channel (By similarity). May also act as a serine protease inhibitor, since it possess the kazal serine protease inhibitor signature. {ECO:0000250}.",probable ion channel inhibitor
+P0DMX6,,MNKALFLCLVVLCAAVVFAAEDLQKAKHAPFKRAAPCFCSGKPGRGDLWILRGTCPGGYGYTSNCYKWPNICCYPH,76,Metazoa,Anemonia viridis (Snakelocks anemone),UniprotKB,Kappa-actitoxin-Avd4a (Kappa-AITX-Avd4a) (Antihypertensive protein BDS-1) (Blood depressing substance 1) (BDS-1),19627569; 29671760; 21281459; 22683676; 24177670,"FUNCTION: Acts as a gating modifier on both Kv and Nav ion channels, and also acts on blood pressure (By similarity). Voltage-dependently inhibits voltage-gated potassium channels Kv3 (Kv3.1/KCNC1, Kv3.2/KCNC2 and Kv3.4/KCNC4) and slows inactivation of the voltage-gated sodium channel Nav1.7/SCN9A (By similarity). Inhibits all Kv3.1, Kv3.2 and Kv3.4 by about 50% when tested at a voltage of +40 mV (45%, 48% and 56%, respectively) (By similarity). May act by binding residues in voltage-sensing domains S3b and S4 of Kv3 (By similarity). On sodium channels, tests have been done on human Nav1.7/SCN9A (expressed in HEK293 cells) (EC(50)=3 nM) and rat SCG neurons that mostly carry Nav1.7 channels (EC(50)=300 nM) (By similarity). This toxin also reduces blood pressure (By similarity). {ECO:0000250|UniProtKB:P11494}.",probable kav and VGSC inhibitor
+P0DPT1,,ADCLAHLKLCKKNNDCCSKKCSRRGTNPEQRCR,33,Metazoa,Vaejovis mexicanus (Mexican scorpion),UniprotKB,Vejocalcin (VjCa),27114612,"FUNCTION: This toxin stabilizes ryanodine receptor 1 (RyR1) opening in a long-lasting subconductance state (60% of the full conductance state) (PubMed:27114612). Furthermore, it triggers calcium release from sarcoplasmic vesicles (31 nM are enough to induce a sharp release, and 65% of the total calcium is released after toxin (100 nM) addition) probably by acting as a cell-penetrating peptide (CPP) (PubMed:27114612). In addition, it has been shown to dose-dependently stimulate ryanodine binding to RyR1 (EC(50)=3.7 nM) (PubMed:27114612). It also augments the bell-shaped calcium-[3H]ryanodine binding curve that is maximal at about 10 uM calcium concentration (PubMed:27114612). It binds a different site as ryanodine (By similarity). It acts synergistically with caffeine (By similarity). In vivo, intracerebroventricular injection into mice induces neurotoxic symptoms, followed by death (By similarity). {ECO:0000250|UniProtKB:A0A1L4BJ42, ECO:0000250|UniProtKB:B8QG00, ECO:0000250|UniProtKB:P59868, ECO:0000250|UniProtKB:P60254, ECO:0000269|PubMed:27114612}.",probable neurotoxin
+P14531,,MKTQVLALFVLCVLFCLAESRTTLNKRNDIEKRIECKCEGDAPDLSHMTGTVYFSCKGGDGSWSKCNTYTAVADCCHQA,79,Metazoa,Calliactis parasitica (Sea anemone) (Actinia parasitica),UniprotKB,Delta-hormotoxin-Cpt1b (Delta-HRTX-Cpt1b) (Calitoxin) (CLX) (Calitoxin-1) (CLX-1) (Neurotoxic peptide),7510258; 2567180; 22683676,"FUNCTION: In neuromuscular preparation of crustaceans, the toxin increased neurotransmitter release, causing repetitive firing of the axons. May affect sodium channels (Nav). {ECO:0000269|PubMed:2567180, ECO:0000269|PubMed:7510258}.",probable Nav inhibitor
+P58784,,MGKLTILVLVAAVLLSTQVMVQGDGDQPAYRNAAPRDDNPGGAIGKFMNVLRRSGCPWDPWCG,63,Metazoa,Conus purpurascens (Purple cone),UniprotKB,Contryphan-P (Trp-Contryphan-P),9531419; 11041849; 28152596,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav inhibitor
+P60252,,MKPSLIIVTFIVVFMAISCVAADDEQETWIEKRGDCLPHLKRCKENNDCCSKKCKRRGTNPEKRCR,66,Metazoa,Opistophthalmus carinatus (African yellow leg scorpion),UniprotKB,Opicalcin-1 (OpCa1) (Opicalcine-1),12958203; 27114612,"FUNCTION: This toxin stabilizes ryanodine receptor 1 (RyR1) opening in a long-lasting subconductance state (35% of the full conductance state) (PubMed:27114612). Furthermore, it triggers calcium release from sarcoplasmic vesicles (2 nM are enough to induce a sharp release, and 67% of the total calcium is released after toxin (100 nM) addition) probably by acting as a cell-penetrating peptide (CPP) (PubMed:27114612). In addition, it has been shown to dose-dependently stimulate ryanodine binding to RyR1 (EC(50)=0.3 nM) (PubMed:27114612). It also augments the bell-shaped calcium-[3H]ryanodine binding curve that is maximal at about 10 uM calcium concentration (PubMed:27114612). It binds a different site as ryanodine (By similarity). It acts synergistically with caffeine (By similarity). In vivo, intracerebroventricular injection into mice induces neurotoxic symptoms, followed by death (By similarity). {ECO:0000250|UniProtKB:A0A1L4BJ42, ECO:0000250|UniProtKB:B8QG00, ECO:0000250|UniProtKB:P59868, ECO:0000250|UniProtKB:P60254, ECO:0000269|PubMed:27114612}.",probable neurotoxin
+P60253,,MKPSLIIVTFIVVFMTISCVAADDEQETWIEKRGDCLPHLKRCKENNDCCSKKCKRRGANPEKRCR,66,Metazoa,Opistophthalmus carinatus (African yellow leg scorpion),UniprotKB,Opicalcin-2 (OpCa2) (Opicalcine-2),12958203; 27114612,"FUNCTION: This toxin stabilizes ryanodine receptor 1 (RyR1) opening in a long-lasting subconductance state (40% of the full conductance state) (PubMed:27114612). Furthermore, it triggers calcium release from sarcoplasmic vesicles (64.2 nM are enough to induce a sharp release, and 50% of the total calcium is released after toxin (100 nM) addition) probably by acting as a cell-penetrating peptide (CPP) (PubMed:27114612). In addition, it has been shown to dose-dependently stimulate ryanodine binding to RyR1 (EC(50)=3.2 nM) (PubMed:27114612). It also augments the bell-shaped calcium-[3H]ryanodine binding curve that is maximal at about 10 uM calcium concentration (PubMed:27114612). It binds a different site as ryanodine (By similarity). It acts synergistically with caffeine (By similarity). In vivo, intracerebroventricular injection into mice induces neurotoxic symptoms, followed by death (By similarity). {ECO:0000250|UniProtKB:A0A1L4BJ42, ECO:0000250|UniProtKB:B8QG00, ECO:0000250|UniProtKB:P59868, ECO:0000250|UniProtKB:P60254, ECO:0000269|PubMed:27114612}.",probable neurotoxin
+P81727,,GCGGVCAYGESCPSSCNTCYSAQCTAQ,27,Metazoa,Conus betulinus (Beech cone),UniprotKB,Conotoxin Bt9.2 (Conotoxin BeTXIIb),10591037,FUNCTION: Probable neurotoxin that inhibits ion channels. {ECO:0000305}.,probable ion channel inhibitor
+P83390,,SCNNSCQQHSQCASHCVCLLNKCRTVN,27,Metazoa,Conus amadis (Amadis cone),UniprotKB,Conotoxin,,FUNCTION: Probable neurotoxin that inhibits ion channels. {ECO:0000305}.,probable ion channel inhibitor
+P86461,,GTTCYCGSTLGIYWFAVSSCPSGRGYTGHCGYFLGLCC,38,Metazoa,Bunodosoma cangicum (Sea anemone),UniprotKB,Toxin Bcg III 31.16 (Toxin Bcg 31.16),20483220,FUNCTION: Possible modulator of crustacean voltage-gated sodium channels (Nav). {ECO:0000269|PubMed:20483220}.,probable VGSC inhibitor
+P86828,,RLRSKGKK,8,Metazoa,Tityus serrulatus (Brazilian scorpion),UniprotKB,Venom peptide 7.1 (Venom peptide 7) [Cleaved into: Venom peptide 7.2],18718845; 27221550,"FUNCTION: [Venom peptide 7.1]: Has a weak inhibitory effect on voltage-gated sodium channel Nav1.5/SCN5A. Inhibits acetylcholine esterase in vitro. Increases interleukin-6 secretion from macrophages in vitro. Has no antifungal, antiviral or cytotoxic activity. {ECO:0000269|PubMed:27221550}.; FUNCTION: [Venom peptide 7.2]: Strongly inhibits acetylcholine esterase in vitro. Increases Il-6 secretion from macrophages in vitro. Has no antifungal, antiviral or cytotoxic activity. {ECO:0000269|PubMed:27221550}.",probable VGSC inhibitor and antifungal
+Q2I2P8,,MPKLGVSLFIFLVLFPLATLQLDGDQSAGRHAQERGEDLFKMYQYLRRALERRRTGEDFLEECMGGCAFDFCCKRSLRDTTSD,83,Metazoa,Conus litteratus (Lettered cone),UniprotKB,Conotoxin Lt16a (Lt16.1),16908117; 25600641,"FUNCTION: This toxin inhibits both the TTX-sensitive and TTX-resistant sodium currents in adult rat dorsal root ganglion neurons. The inhibition on TTX-resistant sodium currents is stronger than on TTX-sensitive sodium currents (PubMed:25600641). When intracranially injected into mice, the toxin induces tremors (50 nM), spasms (100 nM), and death (200 nM) (PubMed:25600641). {ECO:0000269|PubMed:25600641}.",probable Nav inhibitor
+Q86RA3,,MKLTCVLIIAVLFLTAYQLATAASHAKGKQKHRALRPADKHFRFTKRCNNRGGGCSQHPHCCSGTCNKTFGVCL,74,Metazoa,Conus vexillum (Flag cone),UniprotKB,Conotoxin VxVIA (Conotoxin vx6a),16457862,"FUNCTION: When injected intracranially in mice, induces a series of symptoms such as quivering, climbing, scratching, barrel rolling and paralysis of limbs. Unexpectedly, no effect is observed on ionic currents when tested on locust DUM neuron. {ECO:0000269|PubMed:16457862}.",probable ion channel inhibitor
+Q8I6R2,,MMSKLGVLVTICLLLFPLTALPLDGDQPADHPAKRTQDHNLASPISAWIDPSHYCCCGGGCTDDCVNC,68,Metazoa,Conus vexillum (Flag cone),UniprotKB,Conotoxin Vx2,16181706,"FUNCTION: In vivo, elicits a series of symptoms, such as being sedative, tail stiffening and twisted jumping, when injected intracranially into mice. {ECO:0000269|PubMed:16181706}.",probable ion channel inhibitor
+Q8IS41,,MNLACVLIVAVLFLTASQLATAASYARDKQEYPAVRSSDEMQDSEDLTLTKECTDDSQFCDPNDHDCCSGECIDEGGRGVCAIVPEHV,88,Metazoa,Conus vexillum (Flag cone),UniprotKB,Conotoxin VxVIB (Conotoxin vx6b),16457862,"FUNCTION: May act as a neurotoxin, but produces no obvious effect on ionic currents when tested on the mouse dorsal rooted ganglia (DRG). {ECO:0000269|PubMed:16457862}.",probable neurotoxin
+Q9BKJ0,,MKLSLLLVISASMLIDGLVNADGYIRGSNGCKISCLWGNEGCNKECKGFGAYYGYCWTWGLACWCEGLPDDKTWKSESNTCGGKK,85,Metazoa,Mesobuthus martensii (Manchurian scorpion) (Buthus martensii),UniprotKB,Anti-neuroexcitation peptide 3 (BmKANEP3) (Anti-epilepsy peptide) (Anti-neuroexcitation peptide III) (ANEPIII) (Toxin KIM),11321163,"FUNCTION: Binds to sodium channels (Nav) and inhibits them (By similarity). Recombinant ANEP delays the convulsion seizure of model animals by 18% and shows anti-neuroexcitatory activity. {ECO:0000250, ECO:0000269|PubMed:11321163}.",probable Nav inhibitor
+Q9NDA6,,MGKLTILVLVAAVLLSAQVMVQGDGDQPADRKAVPREDNPGGASGKLMDVLRPKKCVLYPWCG,63,Metazoa,Conus textile (Cloth-of-gold cone),UniprotKB,Leu-contryphan-Tx,11137539,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable KCav or Cav inhibitor
+Q9NDA7,,MGKLTILVLVAVALLSTQVMVQGDGDQPADRDAVPRDDNPGGMSEKFLNALQRRGCPWQPYCG,63,Metazoa,Conus textile (Cloth-of-gold cone),UniprotKB,Contryphan-Tx,11137539,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable KCav or Cav inhibitor
+A0A059UI21,,MSGLSVFILIALVLSVIIDVLNNSKVEAACKENCRQYCQAKGARNGKCINSNCKCYY,57,Metazoa,Mesobuthus gibbosus (Mediterranean checkered scorpion) (Buthus gibbosus),UniprotKB,Potassium channel toxin alpha-KTx 26.3 (Toxin Mgib2),24746279,FUNCTION: Recombinant toxin that reversibly inhibits the potassium current of mKv1.3/KCNA3 channel stably expressed in COS7 cells (IC(50)=150 nM). {ECO:0000250|UniProtKB:A7KJJ7}.,probable Kav inhibitor
+B1P1D5,,MKNTSILFILGLALLLVLAFEVQVGESDGECGGFWWKCGSGKPACCPKYVCSPKWGLCNFPMP,63,Metazoa,Chilobrachys guangxiensis (Chinese earth tiger tarantula) (Chilobrachys jingzhao),UniprotKB,Kappa-theraphotoxin-Cg3a 1 (Kappa-TRTX-Cg3a) (Jingzhaotoxin-4) (JZTX-4),18581053,"FUNCTION: Gating modifier of Kv2.1/KCNB1, Kv2.2/KCNB2 and Kv4.3/KCND3 channels. {ECO:0000250}.",probable Kav inhibitor
+B1P1D6,,MKSTSILFILGLALLLVLAFEVQVGESDGECGGFWWKCGSGKPACCPKYVCSPKWGLCNFPMP,63,Metazoa,Chilobrachys guangxiensis (Chinese earth tiger tarantula) (Chilobrachys jingzhao),UniprotKB,Kappa-theraphotoxin-Cg3a 2 (Kappa-TRTX-Cg3a) (Jingzhaotoxin-4.2) (JZTX-4.2),18581053,"FUNCTION: Gating modifier of Kv2.1/KCNB1, Kv2.2/KCNB2 and Kv4.3/KCND3 channels. {ECO:0000250}.",probable Kav inhibitor
+B1P1H9,,MKVAIAICRNIWYSEALSEMNTQILVSILGLAILAALSSGAKAAEPELAVEVSELLKAMEHAPQPQERECRWFWGACKSDSDCCRYLGCKRKWPNICLWSPWG,103,Metazoa,Chilobrachys guangxiensis (Chinese earth tiger tarantula) (Chilobrachys jingzhao),UniprotKB,U28-theraphotoxin-Cg1a (U28-TRTX-Cg1a) (Jingzhaotoxin-60) (JZTX-60),18581053,FUNCTION: Probable ion channel inhibitor. {ECO:0000305}.,probable ion channel inhibitor
+C0HJT2,,KIWRS,5,Metazoa,Tityus serrulatus (Brazilian scorpion),UniprotKB,Venom peptide 8,27221550,"FUNCTION: Has a weak inhibitory effect on voltage-gated sodium channel Nav1.2/SCN2A. Weakly inhibits acetylcholine esterase in vitro. Increases interleukin-6 secretion from macrophages in vitro. Has no antifungal, antiviral or cytotoxic activity. {ECO:0000269|PubMed:27221550}.",probable VGSC inhibitor
+F5C3T9,,MGKLTILVLVAAVLLSTQVMVQGDGDQPADRNAVRRDDNPGGLSGKFMNVLRRSGCPWHPWCG,63,Metazoa,Conus virgo (Virgin cone),UniprotKB,Contryphan-Vi (Contryphan-R-like),22781954,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav modulator
+P0CY84,,MGKLTILVLVAAVLLSTQVMGQGDRDQPAARNAVPRDDNPGGASAKLMNLLHRSKCPWSPWCG,63,Metazoa,Conus bullatus (Bubble cone),UniprotKB,Contryphan-Bu,21266071,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav modulator
+P0DUU3,,DSCCIEQHCCD,11,Metazoa,Conus amadis (Amadis cone),UniprotKB,Conotoxin Ama1251,31203793,FUNCTION: Probable toxin that inhibits ion channels. {ECO:0000305}.,probable ion channel inhibitor
+P49127,,MKTQVLAVFVLCVLFCLAESRTTLNKRIDIAKRIECKCKGDAPDLSHMTGTVYFSCKGGDGSWSKCNTYTAVADCCHQA,79,Metazoa,Calliactis parasitica (Sea anemone) (Actinia parasitica),UniprotKB,Delta-hormotoxin-Cpt1a (Delta-HRTX-Cpt1a) (Calitoxin-2) (CLX-2),7510258; 22683676,"FUNCTION: In neuromuscular preparation of crustaceans, the toxin increased neurotransmitter release, causing repetitive firing of the axons. May affect sodium channels (Nav). {ECO:0000250|UniProtKB:P14531}.",probable Nav inhibitor
+Q2I2P3,,MGKLTILLLVAAALLSTQVMVQGGGDQPAARNAVPRDDNPDGMSGQFMNVLRRSGCPWEPWCG,63,Metazoa,Conus litteratus (Lettered cone),UniprotKB,Contryphan-Lt,16908117; 28152596,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav or KCav modulator
+Q3YEE1,,MKLTCVLIITVLFLTACQLTAAGNSRDKQEDPVVRSSGEVQRSEDIKLAKRCLESGSLCFAGYGHSSCCSGACLDYGGLGVGACR,85,Metazoa,Conus marmoreus (Marble cone),UniprotKB,Conotoxin MaIr94,17011667,FUNCTION: Produces no obvious effect on ionic currents when tested on the mouse dorsal rooted ganglia (DRG). {ECO:0000250}.,probable neurotoxin
+Q3YEG0,,MQKLTILLLVAAVLMSTQALNQEQHQRAKINLLSKRKPPAERWWRWGGCMLWFGRCTKDSECCSNSCDRTYCELARFPSDW,81,Metazoa,Conus textile (Cloth-of-gold cone),UniprotKB,Gamma-conotoxin-like TeA53,,FUNCTION: Gamma-conotoxins may act on voltage-gated non-specific cation pacemaker channels (HCN). {ECO:0000250}.,probable HCN inhibitor
+Q3YEG7,,MKLTCVLIIAVLFLTACQLATAKTYSTGRQKHRALRSTDKNIKLSRRCNDPGGSCTRHYHCCQLYCNKQESVCLENEPAF,80,Metazoa,Conus betulinus (Beech cone),UniprotKB,Conotoxin Bt6.5 (Conotoxin BeB42),17177885,"FUNCTION: When injected intracranially in mice, induces a series of symptoms such as quivering, climbing, scratching, barrel rolling and paralysis of limbs. Unexpectedly, no effect is observed on ionic currents when tested on locust DUM neuron (By similarity). {ECO:0000250}.",probable neurotoxin
+Q9BHA0,,MEKLTILLLVAAVLLSIQALNQEKHQRAKINLLSKRKPPAERWWRWGGCMAWFGLCSKDSECCSNSCDVTRCELMPFPPDW,81,Metazoa,Conus textile (Cloth-of-gold cone),UniprotKB,Gamma-conotoxin-like TxMEKL-0511 (Conotoxin TxMEKL-0512),11158371,FUNCTION: Gamma-conotoxins may act on voltage-gated non-specific cation pacemaker channels (HCN). {ECO:0000250}.,probable HCN inhibitor
+Q9BPB0,,MEKLTILLLVAAVLMSTQALNQEQHQRAKINLLSKRKPPAERWWECGIWFSRCTKDSECCSNSCDQTYCELMPFPPDW,78,Metazoa,Conus textile (Cloth-of-gold cone),UniprotKB,Gamma-conotoxin-like TxMEKL-053,11158371,FUNCTION: Gamma-conotoxins may act on voltage-gated non-specific cation pacemaker channels (HCN). {ECO:0000250}.,probable HCN inhibitor
+Q9NDA5,,MGKLTILVLVAAVLLSTQAMAQGDGDQPAARNAVPRDDNPDGPSAKFMNVQRRSGCPWEPWCG,63,Metazoa,Conus textile (Cloth-of-gold cone),UniprotKB,Contryphan-R/Tx,11137539,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav or KCav modulator
+X5IFY8,,MGKLTILVLVAAVLLSTQAMVQGDGDQPAARNAVPRDDNPDGPSAKFMNVQRRSGCPWEPWCG,63,Metazoa,Conus geographus (Geography cone) (Nubecula geographus),UniprotKB,Contryphan-G,24662800,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav or KCav modulator
+O43653,,MAGLALQPGTALLCYSCKAQVSNEDCLQVENCTQLGEQCWTARIRAVGLLTVISKGCSLNCVDDSQDYYVGKKNITCCDTDLCNASGAHALQPAAAILALLPALGLLLWGPGQL,114,Metazoa,Homo sapiens (Human),UniprotKB,Prostate stem cell antigen,9465086; 10973799; 16421571; 12975309; 15489334; 15340161; 10713670; 18488030; 19648920; 25680266,FUNCTION: May be involved in the regulation of cell proliferation. Has a cell-proliferation inhibition activity in vitro. {ECO:0000269|PubMed:18488030}.; FUNCTION: May act as a modulator of nicotinic acetylcholine receptors (nAChRs) activity. In vitro inhibits nicotine-induced signaling probably implicating alpha-3:beta-2- or alpha-7-containing nAChRs. {ECO:0000305|PubMed:25680266}.,probable nAChR inhibitor
+P58811,1IEN 2LR9,MFTVFLLVVLATTGVSFTLDRASDGGNAVAKKSDVTARFNWRCCLIPACRRNHKKFCG,58,Metazoa,Conus tulipa (Fish-hunting cone snail) (Tulip cone),UniprotKB,Rho-conotoxin TIA (Rho-TIA),11528421; 12824165; 15194691; 15680270; 23184947,"FUNCTION: Allosteric inhibitor of alpha-1B adrenergic receptors (ADRA1B). Binds to an allosteric modulatory site on transmembrane helix 6 and 7 at the base of extracellular loop 3 of ADRA1B (PubMed:23184947). Also weekly inhibits alpha-1A (ADRA1A) and alpha-1D (ADRA1D) adrenergic receptors in a competive manner (PubMed:15194691). Potently inhibits contractions of vas deferens, spleen and aorta in response to noradrenaline (PubMed:15680270). May also inhibits nicotinic acetylcholine receptors with a possible distinct nAChR binding mode from other alpha-conotoxins, due to a different three residue motif (lacks the Ser-Xaa-Pro motif) (By similarity). {ECO:0000250|UniProtKB:Q2I2R8, ECO:0000269|PubMed:11528421, ECO:0000269|PubMed:12824165, ECO:0000269|PubMed:15194691, ECO:0000269|PubMed:15680270, ECO:0000269|PubMed:23184947}.",probable nAChR inhibitor
+P0DM45,,CKCPSCNFNDVTENCKCCIFRQP,23,Metazoa,Conus cancellatus (Cancellate cone) (Conus austini),UniprotKB,Conotoxin as25a (As25b),23474143,"FUNCTION: Upon intracranial injection in mice, as25a (the toxin without the two 4-hydroxyprolines) provokes paralysis of the hind limbs and death with a dose of 240 pmol. {ECO:0000269|PubMed:23474143}.",probable neurotoxin
+P0DP10,,CCSQDCRVCIPCCPY,15,Metazoa,Conus figulinus (Fig cone),UniprotKB,Conotoxin Fi3a (Conotoxin Fi3b),25420928,FUNCTION: May act as a neurotoxin. {ECO:0000305}.,probable neurotoxin
+P58810,1IEO,VGVCCGYKLCHPC,13,Metazoa,Conus marmoreus (Marble cone),UniprotKB,Chi-conotoxin MrIB (Conotoxin MrIB) (Lambda/chi-conotoxin MrIB) (Chi-MrIB),11528421,FUNCTION: Chi-conotoxins inhibit the neuronal noradrenaline transporter (NET/SLC6A2). {ECO:0000269|PubMed:11528421}.,probable neurotoxin
+P83047,1NXN,GDCPWKPWC,9,Metazoa,Conus ventricosus (Mediterranean cone),UniprotKB,Contryphan-Vn,11688995; 12646193; 15150794,"FUNCTION: Affects both voltage-gated (Kv) and calcium-dependent potassium channel activities (KCa), with composite and diversified effects in invertebrate and vertebrate systems (PubMed:12646193). In vivo, intramuscular injection in freshwater fishes (Poecelia pinnata) causes secretion of mucous substances, a reaction already observed in fish with other contryphans (PubMed:12646193). {ECO:0000269|PubMed:12646193}.",probable Cav or KCav inhibitor
+P85871,,GPMEDPLEIIRI,12,Metazoa,Conus spurius (Alphabet cone),UniprotKB,Conorfamide-Sr2 (CNF-Sr2) (Cono-RFamide-Sr2),18201803; 30243794,"FUNCTION: In contrast to other conorfamides, this peptide does not show activity on human and mouse sensory neuron-specific G-protein coupled receptors MRGPRX1 (PubMed:30243794). In vivo, it causes hyperactivity when injected intracranially into mice, and when injected into the foot of the fresh water snail P.paludosa (PubMed:18201803). It also causes paralysis when injected into the foot of the limpet P.opea (PubMed:18201803). Has no effect when injected below the rear part of the dorsal fin of the fish L.reticulatus (PubMed:18201803). {ECO:0000269|PubMed:18201803}.",probable neurotoxin
+Q9GU58,,MHLSLARSAVLMLLLLFALGNFVVVQSGQITRDVDNGQLTDNRRNLQSKWKPVSLYMSRRGCNNSCQEHSDCESHCICTFRGCGAVNG,88,Metazoa,Conus textile (Cloth-of-gold cone),UniprotKB,Conotoxin tx9a (Spasmodic peptide),10677206; 19380747; 23031820,"FUNCTION: Neurotoxin. In vivo, intracranial injection into mice of 10 pmol/g of the peptide induces running in circles and hyperactivity. At higher doses (50 pmol/g), the mice exhibit running and climbing symptoms for close to one hour. Between 130 and 150 pmol/g, characteristic 'spasmodic' symptomatology is elicited. A hand clap would make mice jump high and start running rapidly. When exposed to a loud hand clap, or if the cage cover were dropped, the mice lose motor control and exhibit seizure-like symptoms from which they eventually recover. At the highest doses tested (over 250 pmol/g), after the characteristic spasmodic symptomatology, lethality occurs. Injection of a similar dose range intramuscularly into Siamese fighting fish elicited no unusual symptomatology. {ECO:0000269|PubMed:10677206}.",probable neurotoxin
+P0C1M9,,GCCGSFACRFGCVPCCV,17,Metazoa,Conus marmoreus (Marble cone),UniprotKB,Conotoxin mr3a,14717596; 15924437; 17042781,"FUNCTION: Intracranial injection into mice causes circular motion, barrel rolling and convulsions. {ECO:0000269|PubMed:15924437, ECO:0000269|PubMed:17042781}.",probable neurotoxin
+P0C1N0,,SKQCCHLAACRFGCTPCCW,19,Metazoa,Conus marmoreus (Marble cone),UniprotKB,Conotoxin mr3b,15924437; 17042781,"FUNCTION: Intracranial injection into mice causes scratching and hyperactivity. {ECO:0000269|PubMed:15924437, ECO:0000269|PubMed:17042781}.",probable neurotoxin
+P0C260,,AFVKGSAQRVAHGY,14,Metazoa,Conus planorbis (Planorbis cone),UniprotKB,Conomap-Vt (Conp-Vt),16797543,"FUNCTION: Is a potent and mollusk specific excitatory peptide. Most potent excitatory effect are observed on the buccal mass. It interacts with non-cholinergic receptors. As this peptide is a major component of the venom, it may play an important role in prey capture.",probable neurotoxin
+P0C352,,CLQFGSTCFLGDDDICCSGECFYSGGTFGICS,32,Metazoa,Conus spurius (Alphabet cone),UniprotKB,Conotoxin sr7a,17166626,"FUNCTION: Elicits hyperactivity when injected intracranially into mice and produces paralysis when injected into the pedal muscle of freshwater snails, Pomacea paludosa, but it has no apparent effect after intramuscular injection into the limpet Patella opea or the freshwater fish Lebistes reticulatus.",probable neurotoxin
+P0C607,,MKLCATFLLVLVTLPLVTGEKSSERSLSGAILRGVRRTCSRRGHRCIRDSQCCGGMCCQGNRCFVAIRRCFHLPF,75,Metazoa,Conus arenatus (Sand-dusted cone),UniprotKB,Conotoxin ar11a (Ar11.1),17996262,FUNCTION: Both natural (L-Leu form) and synthetic (D-Leu from) peptides equally cause sensitivity to touch and body tremor. Neither L-Leu form nor D-Leu form is active on nerve-muscle preparation. {ECO:0000269|PubMed:17996262}.,probable neurotoxin
+P0C6S2,,GGVGRCIYNCMNSGGGLNFIQCKTMCY,27,Metazoa,Conus cancellatus (Cancellate cone) (Conus austini),UniprotKB,Conotoxin as14a (Conotoxin AsXIVA),18206266,"FUNCTION: In vivo, intracranial injection, elicits scratching and grooming activity in mice. {ECO:0000250, ECO:0000269|PubMed:18206266}.",probable neurotoxin
+P0C6S3,,RWDVDQCIYYCLNGVVGYSYTECQTMCT,28,Metazoa,Conus cancellatus (Cancellate cone) (Conus austini),UniprotKB,Conotoxin as14b (Conotoxin AsXIVB),18206266,"FUNCTION: In vivo, intracranial injection elicits scratching and grooming activity in mice, and causes body and rear limb extension and tail curling immediately upon injection. {ECO:0000269|PubMed:18206266}.",probable neurotoxin
+P0CH15,,CCNWPCSFGCIPCCY,15,Metazoa,Conus parius (Cone snail),UniprotKB,Conotoxin pr3a,20570703,"FUNCTION: Probable neurotoxin with unknown target (Probable). Possibly targets ion channels (Probable). In vivo, intraperitoneal injection into fish provokes paralysis after 5 minutes (PubMed:20570703). {ECO:0000269|PubMed:20570703, ECO:0000305}.",probable ion channel inhibitor
+P0CH17,,TCLARDELCGASFLSNFLCCDGLCLLICV,29,Metazoa,Conus parius (Cone snail),UniprotKB,Conotoxin pr6a,20570703,FUNCTION: Intraperitoneal injection into fish (1 nmol) provokes hyperactivity and erratic swimming in various directions after 14 min. {ECO:0000269|PubMed:20570703}.,probable neurotoxin
+P0CH18,,FGSFIPCAHKGEPCTICCRPLRCHEEKTPTCV,32,Metazoa,Conus parius (Cone snail),UniprotKB,Conotoxin pr6b,20570703,FUNCTION: Intraperitoneal injection into fish (0.5 nmol) provokes vertical suspension and paralysis after 6 min. {ECO:0000269|PubMed:20570703}.,probable neurotoxin
+P0CJ22,,TVSDPPARPAVFHSREELMNYVRELNRYFAIVGRPRF,37,Metazoa,Conus betulinus (Beech cone),UniprotKB,Neuropeptide Y1-like conopeptide (Cono-NPY1) (NPY1-like conopeptide),20705590,"FUNCTION: Causes hyperactivity such as jumping, rapid circling and tail flicking, when intraventricularly injected into mice brain. {ECO:0000269|PubMed:20705590}.",probable neurotoxin
+P0CJ23,,TVSDPPARPAVFHSREELMNYVRELNLYFAIVGRPRY,37,Metazoa,Conus betulinus (Beech cone),UniprotKB,Neuropeptide Y2-like conopeptide (Cono-NPY2) (NPY2-like conopeptide),20705590,"FUNCTION: Causes hyperactivity such as jumping, rapid circling and tail flicking, after intraventicular injection into mouse brain. {ECO:0000269|PubMed:20705590}.",probable neurotoxin
+P0DL85,,GCCHLLACRFGCSPCCW,17,Metazoa,Conus pennaceus (Feathered cone) (Conus episcopus),UniprotKB,Conotoxin Pn3a,28831846,"FUNCTION: May act as a neurotoxin (By similarity). Has no activity on mollusks (tested on the freshwater snail C.retropictus) (PubMed:28831846). {ECO:0000250|UniProtKB:P0C1M9, ECO:0000269|PubMed:28831846}.",probable neurotoxin
+P0DM27,,MSGRGFLLLALLLLVTVEATRVEKKHSGILLAWSGPRNRFVRIGRRDMQSPLLSERLRFRALGFRQPSSQKQ,72,Metazoa,Conus textile (Cloth-of-gold cone),UniprotKB,Conorfamide-Tx2 (CNF-Tx2) (Cono-RFamide-Tx2),30243794; 33764053,"FUNCTION: This peptide activates human sensory neuron-specific G-protein coupled receptors MRGPRX1, but not mouse receptors (EC(50)=0.54 uM) (PubMed:30243794). Compared with the agonist chloroquine (anti-malaria drug), it is 600-fold more potent (PubMed:30243794). In vivo, induces itch sensation, since intradermal cheek injection into humanized transgenic mouse (mouse MRGPRX1 replaced by human MRGPRX1) induces scratching (PubMed:30243794). In vivo, treatment of zebrafish larvae with high doses (10 uM) induces hypoactivity at the beginning of the experiment during the dark phase and hyperactivity in the strobe phase after one hour, even after the removal of the toxin from the solution (PubMed:33764053). {ECO:0000269|PubMed:30243794, ECO:0000269|PubMed:33764053}.",probable neurotoxin
+P0DOW6,,CDAPTHYCTNYWECCSGYCEHSHCW,25,Metazoa,Conus princeps (Prince cone),UniprotKB,Gamma-conotoxin PiVIIA,26861393,"FUNCTION: Micromolar concentrations of PiVIIA increase the magnitude of the macroscopic calcium current in DRG neurons from rat. An increase, even modest of the calcium current, may have a significant impact in the excitability and electrical activity of neurons, and may set up PiVIIA as a member of the pharmacological family of the gamma-conotoxins. {ECO:0000250|UniProtKB:P56711, ECO:0000269|PubMed:26861393}.",probable neurotoxin
+P0DOZ7,,MSGRGFLLLALLLLVTVEATKVEKKHSGFLLAWSGPRNRFVRFGRRDMQSPLLSERLRL,59,Metazoa,Conus victoriae (Queen Victoria cone),UniprotKB,Conorfamide-Vc1 (CNF-Vc1) (Cono-RFamide-Vc1),24505301; 25464369; 30243794; 33764053,"FUNCTION: This peptide activates human and mouse sensory neuron-specific G-protein coupled receptors MRGPRX1 (PubMed:30243794). The activity on human receptors has been measured (EC(50)=1.8 uM) (PubMed:30243794). Compared with the agonist chloroquine (anti-malaria drug), it is 200-fold more potent (PubMed:30243794). The peptide also causes an increase in cytosolic calcium in a specific subset of DRG neurons, and, in contrast to other Conus venom peptides, the peptide also affects a large fraction of the non-neuronal cells (PubMed:25464369). In vivo, when intracranially injected into mice, it principally renders mice unable to move, and at very low doses, it causes hyperactivity (PubMed:25464369). It also induces itch sensation, since intradermal cheek injection into humanized transgenic mouse (mouse MRGPRX1 replaced by human MRGPRX1) induces scratching (PubMed:30243794). In vivo, when tested at high doses (10 uM) on zebrafish larvae, it induces a range of behavioral effects ranging from an early hypoactivity during the first hour of treatment to an increase in movement during the following hours when the larvae are submitted to strobe light phases (PubMed:33764053). {ECO:0000269|PubMed:25464369, ECO:0000269|PubMed:30243794, ECO:0000269|PubMed:33764053}.",probable neurotoxin
+P0DOZ9,,SCGYPCSHCGIPGCYPG,17,Metazoa,Conus asiaticus (Cone snail),UniprotKB,Conotoxin Asi14a,27801785,"FUNCTION: May have neurotoxic activities (Probable). Does not show any effect on voltage-gated potassium channels (10 uM of toxin tested), and on nicotinic acetylcholine receptors (5 uM of toxin tested) (PubMed:27801785). Does not show antibacterial activity on both Gram-negative and Gram-positive bacteria (PubMed:27801785). {ECO:0000269|PubMed:27801785, ECO:0000305}.",probable neurotoxin
+P0DP11,,CCSTNCAVCIPCCP,14,Metazoa,Conus figulinus (Fig cone),UniprotKB,Conotoxin Fi3c,25420928,FUNCTION: May act as a neurotoxin. {ECO:0000305}.,probable neurotoxin
+P0DP13,,GCPWMPWC,8,Metazoa,Conus figulinus (Fig cone),UniprotKB,Contryphan-Fib,25420928,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav or KCav inhibitor
+P0DP14,,GCPWDPWC,8,Metazoa,Conus figulinus (Fig cone),UniprotKB,Contryphan-Fic [Cleaved into: Contryphan-Fid],25420928,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav or KCav inhibitor
+P0DP17,,GCPWEPWC,8,Metazoa,Conus leopardus (Leopard cone),UniprotKB,Contryphan-Le,17902199,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav or KCav inhibitor
+P0DP18,,VVGCPWQPWC,10,Metazoa,Conus zeylanicus (Obese cone) (Puncticulis zeylanicus),UniprotKB,Contryphan-Ze (Z1187),17902199,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav or KCav inhibitor
+P0DPE6,,MSSAIKILALLMVLVALAQAKPRKDYRAYPDFDDKSVILEDDKRCDPDKRDSVCKDVCGMLDIGTENGECPGKEVCCVDLFGR,83,Metazoa,Epiactis japonica (Sea anemone) (Cnidopus japonicus),UniprotKB,Toxin CjTL8,29109403,"FUNCTION: In vivo, induces immediate paralysis on shrimps (C.multidentata), followed by death when high doses are injected. No activity is observed when injected into fly larvae (M. domestica). {ECO:0000269|PubMed:29109403}.",probable neurotoxin
+P0DUQ9,,RCPWDPWCN,9,Metazoa,Conus inscriptus (Engraved cone),UniprotKB,Contryphan-In1172,33732044,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav or KCav inhibitor
+P58305,,AKTGILDSDGPTVAGNSLSGT,21,Metazoa,Bunodosoma cangicum (Sea anemone),UniprotKB,Granulitoxin (GRX),9876306,"FUNCTION: Injection into mice produces severe neurotoxic effects such as circular movements, aggressive behavior, dyspnea, tonic-clonic convulsion and death. {ECO:0000269|PubMed:9876306}.",probable neurotoxin
+P58785,,GCVLLPWC,8,Metazoa,Conus purpurascens (Purple cone),UniprotKB,Leu-contryphan-P,10461743,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav or KCav inhibitor
+P58804,,WATIDECEETCNVTFKTCCGPPGDWQCVEACPV,33,Metazoa,Conus radiatus (Rayed cone),UniprotKB,Bromosleeper peptide,9030520,FUNCTION: Induces sleep-like symptoms in mice of all ages.,probable neurotoxin
+P58841,,CCSQDCLVCIPCCPN,15,Metazoa,Conus quercinus (Oak cone),UniprotKB,Conotoxin QcIIIA,2165278,FUNCTION: Causes scratching in mice.,probable neurotoxin
+P58843,,DQSCPWCGFTCCLPNYCQGLTCTVI,25,Metazoa,Conus quercinus (Oak cone),UniprotKB,Conotoxin QcVIA,2165278,FUNCTION: Causes scratching and restlessness in mice.,probable neurotoxin
+P58844,,MTSVQSVTCCCLLWLMLSVQPITPGSPGPAQLSRERSFKFLSGGFKEIVCHRYCAKGIAKEFCNCPDKRDVVSPRIRRRKRSKAM,85,Metazoa,Conus geographus (Geography cone) (Nubecula geographus),UniprotKB,Scratcher peptide,24662800,FUNCTION: Causes scratching in mice. {ECO:0000269|Ref.2}.,probable neurotoxin
+P58845,,NCPYCVVYCCPPAYCEASGCRPP,23,Metazoa,Conus textile (Cloth-of-gold cone),UniprotKB,Textile convulsant peptide (TCP),22709442; 23031820; 36235146,FUNCTION: Causes convulsions mice. {ECO:0000269|Ref.1}.,probable neurotoxin
+P61233,,CGTNRAWCRNAKDHCCCGYSCVKPIWASKPEDDGYCWKKFGGC,43,Metazoa,Macrothele raveni (Funnel-web spider),UniprotKB,U5-hexatoxin-Mr1a (U5-HXTX-Mr1a) (Raventoxin I) (Raventoxin-1),12727269,"FUNCTION: This toxin blocks the neuromuscular transmission, and also acts on muscle. It exerts an effect of first exciting and then inhibiting the contraction of muscle. This toxin is active only against mammals. {ECO:0000269|PubMed:12727269}.",probable neurotoxin
+P83998,,MPCPKILKQCKSDEDCCRGWKCFGFSIKDKMCISR,35,Metazoa,Phoneutria nigriventer (Brazilian armed spider) (Ctenus nigriventer),UniprotKB,U14-ctenitoxin-Pn1a (U14-CNTX-Pn1a) (Neurotoxin PNTx22A0C1),,FUNCTION: Neurotoxin. {ECO:0000250|UniProtKB:P29426}.,probable neurotoxin
+Q7M4K5,,ECKTNKMSCSLHEECCRFRCCFHGKCQTSVFGCWVDP,37,Metazoa,Conus radiatus (Rayed cone),UniprotKB,Conotoxin r11e,12694387,"FUNCTION: Causes hyperactivity, circular motion, convulsion, urination and death, when injected into 13- to 15-day-old mice. Causes gasping, backward swimming or swimming in a vertical direction and death, when intraperitoneally injected into goldfish.",probable neurotoxin
+Q9GU57,1IXT 2MSO,MHLSLARSAVLMLLLLFALGNFVVVQSGLITRDVDNGQLTDNRRNLQTEWNPLSLFMSRRSCNNSCQSHSDCASHCICTFRGCGAVNG,88,Metazoa,Conus gloriamaris (Glory-of-the-Sea cone),UniprotKB,Conotoxin Gm9.1 (Conotoxin Gm9a) (Spasmodic peptide),10677206; 12193600,"FUNCTION: Neurotoxin. In vivo, elicits 'spasmodic' symptomatology. {ECO:0000269|PubMed:12193600}.",probable neurotoxin
+W4VS16,6Q5Z,MNTAGRLLLLCLVLGLVFESLGIPVADDLEADRDTDPDEKDPSVHNYWRNVNCGGVPCKFGCCREDRCREIDCD,74,Metazoa,Conus victoriae (Queen Victoria cone),UniprotKB,Conotoxin Vc7.2 (H-Vc7.2),24505301; 25464369; 30975904,"FUNCTION: Probable toxin with unknown function (Probable). Does not produce any changes in intracellular calcium levels in mouse dorsal root ganglion cells (PubMed:30975904). In vivo, does not produce behavioral changes when intracranially injected into mice (PubMed:30975904). {ECO:0000269|PubMed:30975904}.",probable neurotoxin
+A0A1P8NVU1,,QGDRDQPADRNAVPRDVNPGRARRKLMKVLRESECPWKPWCG,42,Metazoa,Conus monile (Necklace cone),UniprotKB,Contryphan-Mo,28152596,"FUNCTION: Its target is unknown, but this toxin may modulate voltage-activated calcium channels (Cav) or calcium-dependent potassium channels (KCa). {ECO:0000250|UniProtKB:P0C248, ECO:0000250|UniProtKB:P0C250, ECO:0000250|UniProtKB:P62903, ECO:0000250|UniProtKB:P83047}.",probable Cav or KCav inhibitor
+D2Y206,,MKVTLIAILTCAAVLVLHTTAAEELEESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEGNKDCKKKKCKGGWKCKFNMCVKV,84,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1a (U4-TRTX-Hhn1a) (Hainantoxin-II.15) (HNTX-II.15) (Peptide F8-20.15),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y213,,MKVTLIAILTCAAVLVLHTTAAEELEESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEGNKDCKKKKRKGGWKCKFNMCVKV,84,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1aa (U4-TRTX-Hhn1aa) (Hainantoxin-II-2) (HNTX-II-2),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y214,,MKVTLIAILTCAAVLALHTTAAEELEAESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEGNKDCKKKKCKGGWECKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1w (U4-TRTX-Hhn1w) (Hainantoxin-II-3) (HNTX-II-3),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y215,,MTLIAILTCAAALVLHTTAAEELEAESQLMEVGMPDTELEAVDEERLFECSVSCEIEKEGNKDCKKKKCKGGWKCKFNMCVKI,83,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1x (U4-TRTX-Hhn1x) (Hainantoxin-II-4) (HNTX-II-4),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y216,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERLFERSVSCEIEKEGNKDCKKKKCKGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1ab (U4-TRTX-Hhn1ab) (Hainantoxin-II-5) (HNTX-II-5),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y217,,MKMTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELEAVDEERLFECSVSCEIEKEGDKDCKKKKCKGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1z (U4-TRTX-Hhn1z) (Hainantoxin-II-6) (HNTX-II-6),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y218,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERLFECSASCEIEKEGNKDCKKKKCKGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1c (U4-TRTX-Hhn1c) (Hainantoxin-II-7) (HNTX-II-7),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y219,,MKVTLIAILTCAAVLVLHTTAAEELEESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEGNKDCKKKKCKGGWKCKFNICVKV,84,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1ac (U4-TRTX-Hhn1ac) (Hainantoxin-II-8) (HNTX-II-8),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y220,,MKVTLIAILTCAAVLVLHTTAAEELKTESQLMEVGMPDTELATVDEERLFKCSVSCEIEKESNKDCKKKKCKGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1ad (U4-TRTX-Hhn1ad) (Hainantoxin-II-9) (HNTX-II-9),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y221,,MKVTLTAILTCAAVLVLHTTAAEELEESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEGNKGCKKKKCKGGWKCKFNMCVKV,84,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1b (U4-TRTX-Hhn1b) (Hainantoxin-II-10) (HNTX-II-10),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y222,,MKMTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELEAVDEERLFECSVSCEIEREGNKDCKKKKCKGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1y (U4-TRTX-Hhn1y) (Hainantoxin-II-11) (HNTX-II-11),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y223,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERLVECSVSCEIEKEGNKDCKKKKCKGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1d (U4-TRTX-Hhn1d) (Hainantoxin-II-12) (HNTX-II-12),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y224,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEGNKDCKKKKCKGGWKCKFNMCVKA,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1e (U4-TRTX-Hhn1e) (Hainantoxin-II-13) (HNTX-II-13),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y225,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEGNKDYKKKKCKGGWKYKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1f (U4-TRTX-Hhn1f) (Hainantoxin-II-14) (HNTX-II-14),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y226,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEDNKDCKKKKCKGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1g (U4-TRTX-Hhn1g) (Hainantoxin-II-15) (HNTX-II-15),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y227,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEGNKDCKKKKCIGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1h (U4-TRTX-Hhn1h) (Hainantoxin-II-16) (HNTX-II-16),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y229,,MKVTLIAILTCAAVLVLHTTAAEELEESQLMEVGMPDTELAAVDGERLFECSVSCEIEKEGNKDCKKKKCKGGWKCKFNMCVKV,84,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1a (U4-TRTX-Hhn1a) (Hainantoxin-II.11) (HNTX-II.11) (Peptide F8-20.15),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y231,,MKVTLIAILTCAAVLVLHTTAAEELEESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEGNKGCKKKKCKGGWKCKFNMCVKV,84,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1b (U4-TRTX-Hhn1b) (Hainantoxin-II-10.2) (HNTX-II-10.2),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2D4,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEGNKDCKEKKCKGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1i (U4-TRTX-Hhn1i) (Hainantoxin-II-17) (HNTX-II-17),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2D6,,MKVTLIAIPTCAAVLVLHTTAAEELEESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEGNKDCKKKKCKGGWKCKFNMCVKV,84,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1a (U4-TRTX-Hhn1a) (Hainantoxin-II.14) (HNTX-II.14) (Peptide F8-20.15),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2J1,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERLFECSVSCEIGKEGNKDCKKKKCKGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1j (U4-TRTX-Hhn1j) (Hainantoxin-II-18) (HNTX-II-18),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2J2,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEGNKDCKKKKCRGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1k (U4-TRTX-Hhn1k) (Hainantoxin-II-19) (HNTX-II-19),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2J3,,MKVTLIAFLTCAAVLVLHTTAAEELEAESQLMGVGMPDTELAAVDEERLFECSVSCEIEKEGNKDCKKKKCKGGWKCKSNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1l (U4-TRTX-Hhn1l) (Hainantoxin-II-20) (HNTX-II-20),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2J4,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLVEVGMPDTELAAVDEERFFECSVSCEIEKEGNKDCKKKKCKGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1m (U4-TRTX-Hhn1m) (Hainantoxin-II-21) (HNTX-II-21),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2J5,,MKVTLIAILTCAAVLVLHTTAAEELEESQLMEVGMPDTELAAVDEERLFECPVSCEIEKEGNKDCKKKKCKGGWKCKFNMCVKV,84,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1n (U4-TRTX-Hhn1n) (Hainantoxin-II-22) (HNTX-II-22),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2J6,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERHFECSVSCEIEKEGNKDCKKKKCKGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1o (U4-TRTX-Hhn1o) (Hainantoxin-II-23) (HNTX-II-23),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2J8,,MKVTLIAIVTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERLFECSASCEIEKEGNKDCKKKKCKGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1c (U4-TRTX-Hhn1c) (Hainantoxin-II-7.2) (HNTX-II-7.2),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2J9,,MKMTLIAIPTCAAVLVLHTTAAEELEAESQLMEVGMPDTELEAVDGERLFECSVSCEIEKEGNRDCKKKKCKGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1p (U4-TRTX-Hhn1p) (Hainantoxin-II-24) (HNTX-II-24),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2K0,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEGNKDCKKKKCRGGRKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1q (U4-TRTX-Hhn1q) (Hainantoxin-II-25) (HNTX-II-25),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2K1,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERLFKCSVSCEIEKEGNRDCKKKKCKGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1r (U4-TRTX-Hhn1r) (Hainantoxin-II-26) (HNTX-II-26),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2K2,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEGNKDCKKKKCKGGWKCKSNICVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1s (U4-TRTX-Hhn1s) (Hainantoxin-II-27) (HNTX-II-27),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2K3,,MKVTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELAAVDEERLFECSVSCEIEKEGNEDCKKKKCKGGWKCKFNMCVKV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1t (U4-TRTX-Hhn1t) (Hainantoxin-II-28) (HNTX-II-28),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2K4,,MKMTLIAILTCAAVLVLHTTAAEELEAESQLMEVGMPDTELEAVDEERLFECSVSCEIEKEGNKDCKKKKCKGGWKCKFNMCVEV,85,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1u (U4-TRTX-Hhn1u) (Hainantoxin-II-29) (HNTX-II-29),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2K6,,MKVTLIAILTCAAVLVLHTTAAEELEESQLMEVGMPDTELEAVDEERLFECSVSCEIEKEGNKDCKKKKCKGGWKCKFNMCVKV,84,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1a (U4-TRTX-Hhn1a) (Hainantoxin-II.19) (HNTX-II.19) (Peptide F8-20.15),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+D2Y2L0,,MKVTLIAILTRAAVLVLHTTAAEELEESQLMEVSMPDTELAAVDEERLFECSVSCEIEKEGNKDCKKKKCKGGWKCKFNMCVKV,84,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1a (U4-TRTX-Hhn1a) (Hainantoxin-II.23) (HNTX-II.23) (Peptide F8-20.15),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+O77256,,MGMRMMFTVFLLVVLATTVVPITLASATDGRNAAANARVSPVISKSSKKWCHPNPYTVG,59,Metazoa,Conus imperialis (Imperial cone),UniprotKB,Putative conotoxin,,FUNCTION: Acts as a neurotoxin. {ECO:0000250}.,probable neurotoxin
+P0CH77,,FECSVSCEIEKEGNKDCKKKKCKGGWKCKFNMCVKDI,37,Metazoa,Cyriopagopus hainanus (Chinese bird spider) (Haplopelma hainanum),UniprotKB,U4-theraphotoxin-Hhn1v (U4-TRTX-Hhn1v) (Hainantoxin F8-17.06) (Peptide F8-17.06),20192277,FUNCTION: Postsynaptic neurotoxin. {ECO:0000250}.,probable neurotoxin
+P0CI08,,ARCEQCPSYCCQSDSPPECDGCE,23,Metazoa,Hastula hectica (Sea snail) (Impages hectica),UniprotKB,Augerpeptide hhe7a,17886885,FUNCTION: Causes abnormal twist followed by immobility when injected into C.elegans. {ECO:0000269|PubMed:17886885}.,probable neurotoxin
+P0DQY8,,MALSQKALLVLVLSMLLTASDSWARRINCKVFVYAPICRGVAAKRGGDSLSVGGSAELDDTLTDPFLKSEEPKEWRELTRLSRVLQTFLSHPTGEMEQHD,100,Metazoa,Conus ammiralis (Admiral cone),UniprotKB,Elevenin (Conoporin),34564647,"FUNCTION: May mimic the function of prey elevenin neuropeptide. In vivo, intracranial injection in mice induces hyperactivity. {ECO:0000250|UniProtKB:A0A0F7YZQ7}.",probable neurotoxin
+P0DQY9,,MAPSQKALLVLVLSMLLTASDSRARRIDCTRFVYAPICRGVAAKRGGDSLSVGASTELDDALTDPFLRSEEPREEDTEKKWRELSRLSRVLQILLSHPTGETEQLDRLLTL,111,Metazoa,Conus ebraeus (Hebrew cone),UniprotKB,Elevenin,35200678,"FUNCTION: May mimic the function of prey elevenin neuropeptide. In vivo, intracranial injection in mice induces hyperactivity. {ECO:0000250|UniProtKB:A0A0F7YZQ7}.",probable neurotoxin
+P0DUQ4,,MSGCGFLLLALLLLVTVEATKMEKKNFGILFYFTRPRNNFVRIGRRDMQSPLLSERLRF,59,Metazoa,Conus episcopatus (Bishop's cone),UniprotKB,Conorfamide-Ep1 (CNF-Ep1) (Cono-RFamide-Ep1),33764053,"FUNCTION: Neurotoxin that is active on vertebrates (PubMed:33764053). When tested at high doses (10 uM), the toxin affects all zebrafish and mouse DRG neurons in culture, which could be an indication of an effect on a widely expressed receptor or ion channel found in both species (PubMed:33764053). At low doses (1 uM), the effects of the toxin are confined to a specific subpopulation of zebrafish and mouse DRG neurons (PubMed:33764053). In vivo, it induces long-lasting dramatic alterations in the locomotor behavior of zebrafish larvae (PubMed:33764053). It rapidly induces hypoactivity and death of larvae at high doses and it causes hyperactivity at lower doses (PubMed:33764053). In zebrafish adults, intramuscular injection causes the decrease of the movements and visited spaces (PubMed:33764053). In mice, intracranial injection causes lethargy and prolonges sleeping phases and reduced movement (PubMed:33764053). {ECO:0000269|PubMed:33764053}.",probable neurotoxin
+P83108,,VSIGIKCDPSIDLCEGQCRIRYFTGYCSGDTCHCS,35,Metazoa,Buthus sp. (strain IY-2001) (Scorpion),UniprotKB,Neurotoxin,,FUNCTION: Neurotoxin. Decreases the action potential of myelinated nerves in mice and frogs. {ECO:0000269|Ref.1}.,probable neurotoxin
+P83894,,VFCRSNGQQCTSDGQCCYGKCMTAFMGKICMR,32,Metazoa,Phoneutria nigriventer (Brazilian armed spider) (Ctenus nigriventer),UniprotKB,U13-ctenitoxin-Pn1a (U13-CNTX-Pn1a) (Neurotoxin PNTx13C3),16278100,FUNCTION: Acts as a neurotoxin. {ECO:0000305}.,probable neurotoxin
+P84017,,VFCRFNGQQCTSDGQCCYGKCRTAFMGKICM,31,Metazoa,Phoneutria nigriventer (Brazilian armed spider) (Ctenus nigriventer),UniprotKB,U13-ctenitoxin-Pn1b (U13-CNTX-Pn1b) (Neurotoxin PNTx24A0C3),16278100,FUNCTION: Acts as a neurotoxin. {ECO:0000305}.,probable neurotoxin
+P84018,,VFCRFNGQQCTSDGQCCYGKCRTAFLRMICMGG,33,Metazoa,Phoneutria nigriventer (Brazilian armed spider) (Ctenus nigriventer),UniprotKB,U13-ctenitoxin-Pn1c (U13-CNTX-Pn1c) (Neurotoxin PNTx24A0C4),16278100,FUNCTION: Acts as a neurotoxin. {ECO:0000305}.,probable neurotoxin
+P85235,,KKCADIDQDCKTSCDCCE,18,Metazoa,Ctenus ornatus (Brazilian spider) (Oligoctenus ornatus),UniprotKB,U11-ctenitoxin-Co1a (U11-CNTX-Co1a) (Neurotoxin Oc M10-6),,FUNCTION: Neurotoxin. {ECO:0000250|UniProtKB:P83896}.,probable neurotoxin
+Q86C49,,MKVTLIAILTCAAVLVLHTTAAEELEESQLMEVGMPDTELAAVDEERLFECSISCEIEKKGESCKPKKCKGGWKCKFNMCVKV,83,Metazoa,Cyriopagopus schmidti (Chinese bird spider) (Haplopelma schmidti),UniprotKB,U1-theraphotoxin-Hs1f (U1-TRTX-Hs1f) (Huwentoxin-2a) (Huwentoxin-IIa),,FUNCTION: Lethal neurotoxin that blocks neuromuscular transmission. {ECO:0000250}.,probable neurotoxin
+Q9BPE9,7TVQ 7TVR,MRCLPVFVILLLLTASGPSVDAKVHLKTKGDGPLSSFRDNAKSTLQRLQDKSTCCGYRMCVPCG,64,Metazoa,Conus pennaceus (Feathered cone) (Conus episcopus),UniprotKB,Chi-conotoxin-like PnMRCL-013,11158371,FUNCTION: Chi-conotoxins inhibit the neuronal noradrenaline transporter (NET/SLC6A2). {ECO:0000250|UniProtKB:P58808}.,probable neurotoxin
+P0DUS0,,YLPT,4,Metazoa,Tityus serrulatus (Brazilian scorpion),UniprotKB,[des-Arg1]-proctolin (NEP-inhibiting peptide),26056922,"FUNCTION: Venom tetrapeptide that inhibits activities of the human peptidase neprilysin (NEP/MME) (Ki=0.94 uM), the two mammalian endopeptidases EP24.16 and EP24.15 (Ki=36 uM and 74 uM, respectively), and a probable cockroach neprilysin-like protein. It shows 3-fold better inhibitory activity than proctolin. It may play a role in human envenomation as well as in the paralysis and death of scorpion preys. It does not inhibit ACE activity. {ECO:0000269|PubMed:26056922}.",probable neurotoxin
+A0A2L1DGG0,6WQR,MRTLLVFLLLAIFVAVLIGNVQVEAACKEYWECGAFLFCIEGICVPMIG,49,Metazoa,Haemadipsa sylvestris,UniprotKB,RecName: Full=Peptide HSTX-I; Flags: Precursor.,"   29559913
+   32524995","[FUNCTION] Leech salivary gland peptide with unknown function
+            (PubMed:32524995). It was originally described as exhibiting
+            analgesic function by specifically inhibiting rodent Nav1.8/SCN10A
+            and Nav1.9/SCN11A voltage-gated sodium channels, as well as showing
+            analgesic activities in several mouse models (PubMed:29559913). In
+            a second study, the synthetic peptide has been shown as having very
+            weak activity on Nav1.8/SCN10A at the highest concentration tested
+            (90 uM) and as being only very modestly active at hNav1.9/SCN11A,
+            with a modest peak current size reduction (
+            19%) at high concentrations (10 uM) (PubMed:32524995). In addition,
+            this second study reports no analgesic activity in a mouse model of
+            inflammatory pain (PubMed:32524995). {ECO:0000269|PubMed:29559913,
+            ECO:0000269|PubMed:32524995}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000305}.
+            [TISSUE SPECIFICITY] Expressed in salivary glands. Highly expressed
+            in the head, body and tail with a 2-3-fold higher expression in the
+            head. {ECO:0000269|PubMed:29559913}.
+            [MASS SPECTROMETRY] Mass=2621.14; Method=MALDI;
+            Evidence={ECO:0000269|PubMed:29559913}.
+            [MISCELLANEOUS] Does not show effect on voltage-gated calcium
+            channels, potassium channels, and tetrodotoxin-sensitive sodium
+            channels (PubMed:29559913). Does not show activity on Nav1.7/SCN9A,
+            and shows very weak activity on cation channel TRPA1
+            (PubMed:32524995). {ECO:0000269|PubMed:29559913,
+            ECO:0000269|PubMed:32524995}.
+            [SIMILARITY] Belongs to the annelide toxin family. {ECO:0000305}.",probable neurotoxin
+1T7E,1T7E,NSVRDAYIAKSHNCVYECARNEYCNDLCTKNGAKSGYCQWVGKYGNGCWCIELPDNVPIRVPGKCH,66,Metazoa,Mesobuthus martensii,pdb,"Chain A, Alpha-like neurotoxin BmK-I.","   9248001
+   10493862
+   10600453
+   15321715","Crystal structure of mutant Pro9Ser of scorpion alpha-like
+            neurotoxin BmK M1 from Buthus martensii Karsch.",probable neurotoxin
+1T7B,1T7B,NSVRDAYIAQPHNCVYECARNEYCNDLCTKNGAKSGYCQWVGKYGNGCWCIELPDNVPIRVPGKCH,66,Metazoa,Mesobuthus martensii,pdb,"Chain A, Alpha-like neurotoxin BmK-I.","   9248001
+   10493862
+   10600453
+   15321715","Crystal structure of mutant Lys8Gln of scorpion alpha-like
+            neurotoxin BmK M1 from Buthus martensii Karsch.",probable neurotoxin
+1T7A,1T7A,NSVRDAYIADPHNCVYECARNEYCNDLCTKNGAKSGYCQWVGKYGNGCWCIELPDNVPIRVPGKCH,66,Metazoa,Mesobuthus martensii,pdb,"Chain A, Alpha-like neurotoxin BmK-I.","   9248001
+   10493862
+   10600453
+   15321715","Crystal structure of mutant Lys8Asp of scorpion alpha-like
+            neurotoxin BmK M1 from Buthus martensii Karsch.",probable neurotoxin
+P01427,1NOR 2MJ4,LECHNQQSSQPPTTKTCSGETNCYKKWWSDHRGTIIERGCGCPKVKPGVNLNCCRTDRCNN,61,Metazoa,Naja oxiana,UniprotKB,"RecName: Full=Short neurotoxin 1; AltName: Full=Neurotoxin II;
+Short=NT II; Short=NTII; Short=NTX II; AltName: Full=Neurotoxin
+alpha.","   4850498
+   4747603
+   26221036
+   8504813","On Apr 26, 2005 this sequence version replaced gi:69459.
+            [FUNCTION] Binds to muscle nicotinic acetylcholine receptor (nAChR)
+            and inhibit acetylcholine from binding to the receptor, thereby
+            impairing neuromuscular transmission.
+            {ECO:0000250|UniProtKB:P60775}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:4850498}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [MISCELLANEOUS] Negative results: does not inhibit GABA(A) channel
+            composed of alpha-1-beta-3-gamma-2 (GABRA1-GABRB3-GABRG2) subunits.
+            {ECO:0000269|PubMed:26221036}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Type I alpha-neurotoxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P01379,1LSI,MKTLLLTLVVVTIVCLDLGYTRECYLNPHDTQTCPSGQEICYVKSWCNAWCSSRGKVLEFGCAATCPSVNTGTEIKCCSADKCNTYP,87,Metazoa,Laticauda semifasciata,UniprotKB,"RecName: Full=Alpha-elapitoxin-Ls2a; Short=Alpha-EPTX-Ls2a;
+AltName: Full=Long neurotoxin Ls3; AltName: Full=LsIII; Short=Ls
+AltName: Full=Neurotoxin 1; AltName: Full=Neurotoxin alpha;
+Flags: Precursor.","   9920490
+   12957382
+   4616684
+   9305882
+   26221036
+   8555211","On or before Jan 29, 2008 this sequence version replaced
+            gi:82208268, gi:128927.
+            [FUNCTION] Binds with high affinity to muscular (tested on Torpedo
+            marmorata, Kd=1.6 nM) and neuronal (chimeric alpha-7/CHRNA7, Kd=3
+            nM) nicotinic acetylcholine receptor (nAChR) and inhibits
+            acetylcholine from binding to the receptor, thereby impairing
+            neuromuscular and neuronal transmission (PubMed:9305882). Also
+            shows a very weak inhibition on GABA(A) receptors
+            (PubMed:26221036). The toxin (10 uM) inhibits 83% of current in
+            channels composed of alpha-1-beta-3-gamma-2 (GABRA1-GABRB3-GABRG2)
+            subunits, 39% of current in channels composed of
+            alpha-2-beta-2-gamma-2 (GABRA2-GABRB2-GABRG2) subunits, and 33% of
+            current in channels composed of alpha-5-beta-2-gamma-2
+            (GABRA5-GABRB2-GABRG2) subunits (PubMed:26221036).
+            {ECO:0000269|PubMed:26221036, ECO:0000269|PubMed:9305882}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:4616684}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:4616684}.
+            [TOXIC DOSE] LD(50) is 1.24 mg/kg by intramuscular injection.
+            {ECO:0000269|PubMed:4616684}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Long-chain subfamily. Type II alpha-neurotoxin sub-subfamily.
+            {ECO:0000305}.
+            [SEQUENCE CAUTION] Sequence=BAC78204.1; Type=Frameshift;
+            Evidence={ECO:0000305}.",probable neurotoxin
+P01382,1NTN 1W6B,ITCYKTPIPITSETCAPGQNLCYTKTWCDAWCGSRGKVIELGCAATCPTVESYQDIKCCSTDDCNPHPKQKRP,73,Metazoa,Naja oxiana,UniprotKB,"RecName: Full=Alpha-elapitoxin-Nno2a; Short=Alpha-EPTX-Nno2a;
+AltName: Full=Long neurotoxin 1; AltName: Full=Neurotoxin I;
+Short=NT I; Short=Ntx-1; Short=Toxin I; AltName: Full=NnoI.","   4411932
+   9305882
+   26221036
+   2387409
+   8458425
+   15606783","On Apr 12, 2005 this sequence version replaced gi:69413.
+            [FUNCTION] Binds with high affinity to muscular (tested on Torpedo
+            marmorata AChR, Kd=0.38 nM) and neuronal (tested on chimeric
+            alpha-7/CHRNA7, Kd=12 nM) nicotinic acetylcholine receptor (nAChR)
+            and inhibits acetylcholine from binding to the receptor, thereby
+            impairing neuromuscular and neuronal transmission (PubMed:9305882).
+            The toxin also shows a very weak inhibition of GABA(A) receptors
+            composed of alpha-1-beta-3-gamma-2 (GABRA1-GABRB3-GABRG2) subunits
+            (PubMed:26221036). {ECO:0000269|PubMed:26221036,
+            ECO:0000269|PubMed:9305882}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:4411932}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:9305882}.
+            [TOXIC DOSE] LD(50) is 0.56 mg/kg by intraperitoneal injection into
+            mice. {ECO:0000269|PubMed:4411932}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Long-chain subfamily. Type II alpha-neurotoxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P01426,1IQ9 1NEA 3NDS,LECHNQQSSQPPTTKTCPGETNCYKKVWRDHRGTIIERGCGCPTVKPGIKLNCCTTDKCNN,61,Metazoa,Naja pallida,UniprotKB,"RecName: Full=Short neurotoxin 1; AltName: Full=Neurotoxin alpha;
+Short=Toxin alpha.","   9305882
+   1332755
+   12538890","On Apr 12, 2005 this sequence version replaced gi:69458.
+            [FUNCTION] Binds with high affinity to muscular nicotinic
+            acetylcholine receptors (nAChRs) (tested on Torpedo marmorata AChR,
+            Kd=0.07 nM) and with low affinity to neuronal alpha-7/CHRNA7 nAChRs
+            (tested on chimeric receptor, Kd=3 uM) and inhibit acetylcholine
+            from binding to the receptor, thereby impairing neuromuscular
+            transmission (PubMed:9305882). Produces peripheral paralysis by
+            blocking neuromuscular transmission at the postsynaptic site.
+            {ECO:0000269|PubMed:9305882}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|Ref.1}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|Ref.1}.
+            [TOXIC DOSE] LD(50) is 0.036 mg/kg by subcutaneous injection.
+            {ECO:0000269|Ref.1}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Type I alpha-neurotoxin sub-subfamily.
+            {ECO:0000305}.
+            [CAUTION] The venom of this snake was originally thought to be that
+            of N.nigricollis. {ECO:0000305}.",probable neurotoxin
+P01386,1TXA 1TXB,TKCYVTPDATSQTCPDGQDICYTKTWCDGFCSSRGKRIDLGCAATCPKVKPGVDIKCCSTDNCNPFPTWKRKH,73,Metazoa,Ophiophagus hannah,UniprotKB,RecName: Full=Long neurotoxin 2; AltName: Full=Neurotoxin B.,"   4198767
+   24297900
+   9065446","On Apr 12, 2005 this sequence version replaced gi:69417.
+            [FUNCTION] Binds with high affinity to muscular (alpha-1/CHRNA1)
+            and neuronal (alpha-7/CHRNA7) nicotinic acetylcholine receptor
+            (nAChR) and inhibits acetylcholine from binding to the receptor,
+            thereby impairing neuromuscular and neuronal transmission.
+            {ECO:0000250|UniProtKB:P60615}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:4198767}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [TOXIC DOSE] LD(50) is 0.35 mg/kg by subcutaneous injection.
+            {ECO:0000269|PubMed:4198767}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Long-chain subfamily. Type II alpha-neurotoxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+A0A125S9E2,,MFRLTSVGCILLVIAFLNLVGLTNACTSEGYSCSSDSNCCKNVCCWNVCESHCRHPGKRTRLQGFFKHRR,70,Metazoa,Conus imperialis,UniprotKB,"RecName: Full=Conotoxin Im11.11; AltName: Full=Conopeptide im008;
+Flags: Precursor.",30893765,"[FUNCTION] Probable neurotoxin. {ECO:0000305}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:30893765}.
+            [TISSUE SPECIFICITY] Expressed by the venom duct.
+            {ECO:0000305|PubMed:30893765}.
+            [DOMAIN] The cysteine framework is XI (C-C-CC-CC-C-C).
+            {ECO:0000305}.
+            [MISCELLANEOUS] The mature protein is identical to the Conus
+            litteratus toxin AC C7DQX6. {ECO:0000305}.
+            [SIMILARITY] Belongs to the conotoxin I2 superfamily.
+            {ECO:0000305}.",probable neurotoxin
+P0DUB0,,MGVFRCCLAAALVVVCLSRMGGTEPLESNHEDERRADDTSGDDCVDTNEDCVNWASTGQCEANPSYMRENCRK,73,Metazoa,Conus imperialis,UniprotKB,"RecName: Full=Conotoxin Im14.3; AltName: Full=Conopeptide im031;
+Flags: Precursor.",30893765,"[FUNCTION] Probable neurotoxin. {ECO:0000305}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:30893765}.
+            [TISSUE SPECIFICITY] Expressed by the venom duct.
+            {ECO:0000305|PubMed:30893765}.
+            [DOMAIN] The cysteine framework is XIV (C-C-C-C). {ECO:0000305}.
+            [PTM] Contain 2 disulfide bonds. {ECO:0000305}.",probable neurotoxin
+A0A125S9E4,,MIMRMTLTLFVLVVMTAASASGDALTEAKRIPYCGQTGAECYSWCIKQDLSKDWCCDFVKDIRMNPPADKCP,72,Metazoa,Conus imperialis,UniprotKB,"RecName: Full=Conotoxin Im23a; AltName: Full=Conopeptide im010;
+Flags: Precursor.",30893765,"[FUNCTION] Probable neurotoxin. {ECO:0000305}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:30893765}.
+            [TISSUE SPECIFICITY] Expressed by the venom duct.
+            {ECO:0000305|PubMed:30893765}.
+            [DOMAIN] The cysteine framework is XXIII (C-C-C-CC-C).
+            {ECO:0000305}.
+            [SIMILARITY] Belongs to the conotoxin K superfamily. {ECO:0000305}.",probable neurotoxin
+A0A125S9E5,,MIMRMTLTLFVLVVMTAASASGDALTEAKRVPYCGQTGAECYSWCKEQHLIRCCDFVKYVGMNPPADKCR,70,Metazoa,Conus imperialis,UniprotKB,"RecName: Full=Conotoxin Im23.4; AltName: Full=Conopeptide im011;
+Flags: Precursor.",30893765,"[FUNCTION] Probable neurotoxin. {ECO:0000305}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:30893765}.
+            [TISSUE SPECIFICITY] Expressed by the venom duct.
+            {ECO:0000305|PubMed:30893765}.
+            [DOMAIN] The cysteine framework is XXIII (C-C-C-CC-C).
+            {ECO:0000305}.
+            [SIMILARITY] Belongs to the conotoxin K superfamily. {ECO:0000305}.",probable neurotoxin
+C0HJR2,,LTCKTCPFTTCPNSESCPGGQSICYQRKWEEHHGERIERRCVANCPAFGSHDTSLLCCTRDNCN,64,Metazoa,Micrurus mipartitus,UniprotKB,RecName: Full=Micrurotoxin 2; Short=MmTX2.,25675485,"[FUNCTION] Allosteric modulator of the GABA(A) receptor (GABR),
+            possibly increasing receptor affinity for the agonist, thus
+            enhancing receptor opening and macroscopic desensitization. In
+            vivo, intracerebroventricular injection into mice results in
+            periods of reduced basal activity, followed by bursts of intense
+            seizures and death. {ECO:0000269|PubMed:25675485}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:25675485}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:25675485}.
+            [MASS SPECTROMETRY] Mass=7186; Mass_error=1; Method=Electrospray;
+            Evidence={ECO:0000269|PubMed:25675485}.
+            [TOXIC DOSE] LD(50) is 0.01 mg/kg by intracerebroventricular
+            injection in mice. {ECO:0000269|PubMed:25675485}.
+            [MISCELLANEOUS] Negative results: does not bind to nicotinic
+            acetylcholine receptors (nAChR), muscarinic acetylcholine receptors
+            (mAChR), acetylcholinesterase (AChE) or to receptors for glycine
+            and glutamate. {ECO:0000269|PubMed:25675485}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Ancestral subfamily. {ECO:0000305}.",probable neurotoxin
+C0HJR1,,LTCKTCPFTTCPNSESCPGGQSICYQRKWEEHRGERIERRCVANCPAFGSHDTSLLCCTRDNCN,64,Metazoa,Micrurus mipartitus,UniprotKB,RecName: Full=Micrurotoxin 1; Short=MmTX1.,25675485,"[FUNCTION] Allosteric modulator of the GABA(A) receptor (GABR),
+            possibly increasing receptor affinity for the agonist, thus
+            enhancing receptor opening and macroscopic desensitization. In
+            vivo, intracerebroventricular injection into mice results in
+            periods of reduced basal activity, followed by bursts of intense
+            seizures and death. {ECO:0000269|PubMed:25675485}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:25675485}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:25675485}.
+            [MASS SPECTROMETRY] Mass=7205; Mass_error=1; Method=Electrospray;
+            Evidence={ECO:0000269|PubMed:25675485}.
+            [TOXIC DOSE] LD(50) is 0.013-0.027 mg/kg by intracerebroventricular
+            injection into mice. {ECO:0000269|PubMed:25675485}.
+            [MISCELLANEOUS] Negative results: does not bind to nicotinic
+            acetylcholine receptors (nAChR), muscarinic acetylcholine receptors
+            (mAChR), acetylcholinesterase (AChE) or to receptors for glycine
+            and glutamate. {ECO:0000250|UniProtKB:C0HJR2}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Ancestral subfamily. {ECO:0000305}.",probable neurotoxin
+D0PX85,,MIMRMTLTLFVLVVMTAASASGDALTEAKRIPYCGQTGAECYSWCIKQDLSKDWCCDFVKTIARLPPAHICSQ,73,Metazoa,Conus imperialis,UniprotKB,"RecName: Full=Conotoxin im23b; AltName: Full=Conopeptide im009;
+AltName: Full=Im23.2; AltName: Full=U1-CTX-Ci1b; Flags: Precursor.","   22399292
+   30893765","[FUNCTION] Neurotoxin that induces excitatory symptoms in mice
+            following intracranial administration. No symptoms are observed
+            after intraperitoneal and intravenous (tail vein) injections.
+            {ECO:0000269|PubMed:22399292}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:22399292,
+            ECO:0000269|PubMed:30893765}.
+            [TISSUE SPECIFICITY] Expressed by the venom duct.
+            {ECO:0000305|PubMed:22399292, ECO:0000305|PubMed:30893765}.
+            [DOMAIN] The cysteine framework is XXIII (C-C-C-CC-C).
+            {ECO:0000305}.
+            [MASS SPECTROMETRY] Mass=4874.0; Method=Unknown;
+            Evidence={ECO:0000269|PubMed:22399292}.
+            [MISCELLANEOUS] Negative results: does not affect (up to 50 uM) the
+            Nav1.7/SCN9A channel, Drosophila Shaker channel and rat
+            KCa1.1/KCNMA1 channel expressed in HEK293 cell, as well as on whole
+            cell current of neurons from neonatal rat hippocampus and
+            prefrontal cortex. In addition, no detectable effect is observed on
+            either action potential amplitude and duration or Na(+) and Ca(2+)
+            current amplitude and kinetics when im23a is tested on action
+            potentials and depolarization-activated Na(+) and Ca(2+) currents
+            in rat DRG neurons (PubMed:22399292).
+            {ECO:0000305|PubMed:22399292}.
+            [SIMILARITY] Belongs to the conotoxin K superfamily. {ECO:0000305}.",probable neurotoxin
+Q9PRQ3,,KKCLTKYSAGLQTSQTCPAGQKICFKKW,28,Metazoa,Micrurus nigrocinctus,UniprotKB,"RecName: Full=Nicotinic acetylcholine receptor-binding protein
+Mnn-3C; AltName: Full=Three-finger toxin; Short=3FTx.",8603741,"[FUNCTION] Binds and may inhibit nicotinic acetylcholine receptors
+            (nAChR). {ECO:0000269|PubMed:8603741}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:8603741}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. {ECO:0000305}.",probable neurotoxin
+P82463,,LTCVKEKSIFGVTTEDCPDGQNLCFKRWHMIVPGRYKKTRGCAATCPIAENRDVIECCSTDKCNL,65,Metazoa,Naja kaouthia,UniprotKB,RecName: Full=Muscarinic toxin-like protein 2; Short=MTLP-2.,11082188,"[SUBUNIT] Monomer. {ECO:0000305|PubMed:11082188}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:11082188}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [MASS SPECTROMETRY] Mass=7293; Method=MALDI;
+            Evidence={ECO:0000269|PubMed:11082188}.
+            [MISCELLANEOUS] Negative results: has no effect on ligand binding
+            to any of the mAChR subtypes at concentrations up to 1 uM.
+            {ECO:0000269|PubMed:11082188}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 33 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Type C muscarinic toxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P85092,4IYE 5MG9,LTCVTSKSIFGITTEDCPDGQNLCFKRRHYVVPKIYDSTRGCAATCPIPENYDSIHCCKTDKCNE,65,Metazoa,Dendroaspis angusticeps,UniprotKB,"RecName: Full=Toxin AdTx1; AltName: Full=Rho-elapitoxin-Da1a;
+Short=Rho-Da1a; Short=Rho-EPTX-Da1a.","   20015090
+   21419153
+   23005263
+   23935897
+   24793485
+   23722859
+   28578406","[FUNCTION] Orthosteric antagonist of the alpha-1A adrenergic
+            receptor (ADRA1A) with an affinity of 0.35 nM (PubMed:20015090).
+            Has also affinity for ADRA1B > ADRA2C > ADRA1D (PubMed:23935897).
+            Acts as a relaxant of smooth muscle. Reduces prostatic muscle tone
+            as efficiently as tamsulosin (an antagonist presently used), but
+            with fewer cardiovascular side effects (PubMed:23005263).
+            {ECO:0000269|PubMed:20015090, ECO:0000269|PubMed:21419153,
+            ECO:0000269|PubMed:23005263, ECO:0000269|PubMed:23935897}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:20015090}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:20015090}.
+            [MASS SPECTROMETRY] Mass=7278.3691; Method=Electrospray;
+            Evidence={ECO:0000269|PubMed:20015090}.
+            [PHARMACEUTICAL] Due to its high selectivity and potent relaxing
+            effect on isolated prostate smooth muscle, this peptide is in the
+            process of therapeutic development.
+            [MISCELLANEOUS] Negative results: does not show interaction with
+            adrenergic receptors (ADRA2A, ADRA2B, ADRA2C, ADRB1, ADRB2),
+            dopaminergic receptors (DRD1, DRD2, DRD3, DRD4, DRD5), histaminic
+            receptors (HRH1, HRH3, HRH4), muscarinic receptors (CHRM1, CHRM2,
+            CHRM3, CHRM4, CHRM5), and serotoninergic receptors (HTR1A, HTR2A,
+            HTR2B, HTR2C, HTR5A, HTR6, HTR7). {ECO:0000269|PubMed:23005263,
+            ECO:0000269|PubMed:23935897, ECO:0000269|PubMed:24793485}.
+            [MISCELLANEOUS] The mutant AncTx1-W28R-I38S (which is not mutated
+            at position 28 and 38) shows a 10-, 740- and 5-fold increase in
+            inhibition potency than the mutant AncTx1 on alpha-1A, alpha-1D and
+            alpha-2C adrenergic receptors, respectively, but is 2-fold less
+            potent on alpha-1B adrenergic receptor.
+            {ECO:0000269|PubMed:28578406}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 33 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Aminergic toxin sub-subfamily.
+            {ECO:0000305|PubMed:24793485}.",probable neurotoxin
+C0HJT4,,LECHRRGSFISDGKITCSAKKTFCCKMYEKIFGIYWYGCAKTYTEKNTWNVYSKCCTTNLCNT,63,Metazoa,Dendroaspis angusticeps,UniprotKB,RecName: Full=Toxin Tx7335.,27044983,"[FUNCTION] Activates bacterial pH-gated potassium channel KcsA by
+            binding to its extracellular domain, probably at a site different
+            from channel inhibitors. Increases both mean open time and open
+            probability of KscA. {ECO:0000269|PubMed:27044983}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:27044983}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:27044983}.
+            [PTM] Contains 4 disulfide bonds. {ECO:0000269|PubMed:27044983}.
+            [MASS SPECTROMETRY] Mass=7333.5; Method=MALDI;
+            Evidence={ECO:0000269|PubMed:27044983}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Ancestral subfamily. Orphan group XIX sub-subfamily. {ECO:0000305}.",probable neurotoxin
+P86419,,LTCVTKDTIFGITTQNCPAGQNLCFIRRHYINHRYTEITRGCTATCPKPTNVRETIHCCNTDKCNE,66,Metazoa,Dendroaspis angusticeps,UniprotKB,"RecName: Full=Rho-elapitoxin-Da1b; Short=Rho-Da1b;
+Short=Rho-EPTX-Da1b.","   20659106
+   21419153
+   24793485
+   28578406","[FUNCTION] Non-competitive antagonist of alpha-2 adrenergic
+            receptors (ADRA2) in smooth muscles, and partial antagonist of D3
+            dopamine receptors (DRD3) (inhibits 25% of methylspiperone binding
+            to this receptor) (PubMed:20659106). Also shows a low antagonism on
+            D2 dopamine receptors (DRD2) (short isoform) (PubMed:24793485).
+            Shows high affinity to adrenergic receptors (Ki=14 nM (ADRA2A),
+            Ki=73 nM (ADRA2B), and Ki=38 nM (ADRA2C)) (PubMed:20659106).
+            Increases heart rate and blood catecholamine concentrations
+            (PubMed:21419153). {ECO:0000269|PubMed:20659106,
+            ECO:0000269|PubMed:21419153, ECO:0000269|PubMed:24793485}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:20659106}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:20659106}.
+            [MASS SPECTROMETRY] Mass=7507.51; Method=Electrospray;
+            Note=Monoisotopic mass.; Evidence={ECO:0000269|PubMed:20659106}.
+            [MISCELLANEOUS] Negative results: does not show interaction with
+            adrenergic receptors (ADRA1A, ADRA1B, ADRA1D, ADRB1, ADRB2),
+            dopaminergic receptors (DRD1, DRD2, DRD4, DRD5), histaminic
+            receptors (HRH1, HRH3, HRH4), muscarinic receptors (CHRM1, CHRM2,
+            CHRM3, CHRM4, CHRM5), and serotoninergic receptors (HTR1A, HTR2A,
+            HTR2B, HTR2C, HTR5A, HTR6, HTR7). {ECO:0000269|PubMed:24793485}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Aminergic toxin sub-subfamily.
+            {ECO:0000305|PubMed:24793485}.",probable neurotoxin
+Q2VBN5,,MKTLLLTLVVVTIVCLDLGYTRKCLNTPLPLIYTTCPIGQDKCVKMTIKKLPSKYDVIRGCTDICPKSSADVVVVCCDTNKCNK,84,Metazoa,Ophiophagus hannah,UniprotKB,RecName: Full=Beta-cardiotoxin CTX21; Flags: Precursor.,16689684,"[FUNCTION] Acts as a beta-blocker by binding to beta-1 and beta-2
+            adrenergic receptors (ADRB1 and ADRB2). It dose-dependently
+            decreases the heart rate (bradycardia), whereas conventional
+            cardiotoxins increases it. At 100 mg/kg, intraperitoneal injection
+            into mice provokes labored breathing, impaired locomotion, lack of
+            response to external stimuli, and death (after 30 min).
+            {ECO:0000250|UniProtKB:Q69CK0}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000250|UniProtKB:Q69CK0}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [MISCELLANEOUS] Negative results: does not affect blood coagulation
+            and does not show significant hemolytic activity.
+            {ECO:0000250|UniProtKB:Q69CK0}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 52 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Aminergic toxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+Q2VBN8,,MKTLLLTLVVVTIVCLDLGYTRKCLNTPLPLIYKTCPIGQDRCIKMTIKKLPSKYDVIRGCIDICPKSSADVEVLCCDTNKCNK,84,Metazoa,Ophiophagus hannah,UniprotKB,RecName: Full=Beta-cardiotoxin CTX9; Flags: Precursor.,"   16689684
+   24297900","[FUNCTION] Acts as a beta-blocker by binding to beta-1 and beta-2
+            adrenergic receptors (ADRB1 and ADRB2). It dose-dependently
+            decreases the heart rate (bradycardia), whereas conventional
+            cardiotoxins increases it. At 100 mg/kg, intraperitoneal injection
+            into mice provokes labored breathing, impaired locomotion, lack of
+            response to external stimuli, and death (after 30 min).
+            {ECO:0000250|UniProtKB:Q69CK0}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:24297900}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:24297900}.
+            [MISCELLANEOUS] Negative results: does not affect blood coagulation
+            and does not show significant hemolytic activity.
+            {ECO:0000250|UniProtKB:Q69CK0}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 52 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Aminergic toxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+Q2VBN7,,MKTLLLTLVVVTIVCLDLGYTRKCLNTPLPLIYTTCPIGQDKCVKMTIKKLPSKYDVIRGCTDICPKSSADVVVVCCDTNKCDK,84,Metazoa,Ophiophagus hannah,UniprotKB,RecName: Full=Beta-cardiotoxin CTX14; Flags: Precursor.,"   16689684
+   24297900","[FUNCTION] Acts as a beta-blocker by binding to beta-1 and beta-2
+            adrenergic receptors (ADRB1 and ADRB2). It dose-dependently
+            decreases the heart rate (bradycardia), whereas conventional
+            cardiotoxins increases it. At 100 mg/kg, intraperitoneal injection
+            into mice provokes labored breathing, impaired locomotion, lack of
+            response to external stimuli, and death (after 30 min).
+            {ECO:0000250|UniProtKB:Q69CK0}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000305|PubMed:24297900}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:24297900}.
+            [MISCELLANEOUS] Negative results: does not affect blood coagulation
+            and does not show significant hemolytic activity.
+            {ECO:0000250|UniProtKB:Q69CK0}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 52 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Aminergic toxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+Q2VBN4,,MKTLLLTLVVVTIVCLDLGYTRKCLNTPLPLIYKTCPIGQDKCIKMTIKKLPSKYDVIRGCTDICPKSSADVVVVCCDTNKCNK,84,Metazoa,Ophiophagus hannah,UniprotKB,RecName: Full=Beta-cardiotoxin CTX23; Flags: Precursor.,"   16689684
+   24297900","[FUNCTION] Acts as a beta-blocker by binding to beta-1 and beta-2
+            adrenergic receptors (ADRB1 and ADRB2). It dose-dependently
+            decreases the heart rate (bradycardia), whereas conventional
+            cardiotoxins increases it. At 100 mg/kg, intraperitoneal injection
+            into mice provokes labored breathing, impaired locomotion, lack of
+            response to external stimuli, and death (after 30 min).
+            {ECO:0000250|UniProtKB:Q69CK0}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000305|PubMed:24297900}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [MISCELLANEOUS] Negative results: does not affect blood coagulation
+            and does not show significant hemolytic activity.
+            {ECO:0000250|UniProtKB:Q69CK0}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 52 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Aminergic toxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P01404,,MKTLLLTLLVVTIVCLDLASTMICYSHKTPQPSATITCEEKTCYKKSVRKLPAIVAGRGCGCPSKEMLVAIHCCRSDKCNE,81,Metazoa,Dendroaspis angusticeps,UniprotKB,"RecName: Full=Toxin F-VIII; AltName: Full=Toxin DaF8; AltName:
+Full=Toxin TA2; Flags: Precursor.","   4203470
+   25035794","On or before Apr 12, 2005 this sequence version replaced
+            gi:11381621, gi:136538.
+            [FUNCTION] Is cytotoxic against A549 cells (LC(50)=106 ug/ml).
+            {ECO:0000269|PubMed:25035794}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:4203470}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [MASS SPECTROMETRY] Mass=6597.8; Method=Unknown; Note=Average
+            mass.; Evidence={ECO:0000269|PubMed:25035794}.
+            [TOXIC DOSE] LD(50) is >250 mg/kg by subcutaneous injection.
+            {ECO:0000269|PubMed:4203470}.
+            [MISCELLANEOUS] Negative results: is not cytotoxic to MDA-MB-231,
+            HT-29 cells, and HUVEC cells at concentrations up to 300 ug/ml and
+            is not hemolytic at concentrations up to 1mg/ml. Does not inhibit
+            the growth of reference strains of E.coli or S.aureus (MIC values
+            >200 ug/ml). {ECO:0000269|PubMed:25035794}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Orphan group XI sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P01400,,LTCLICPEKYCNKVHTCRNGENICFKRFYEGNLLGKRYPRGCAATCPEAKPREIVECCSTDKCNH,65,Metazoa,Naja melanoleuca,UniprotKB,RecName: Full=Weak toxin S4C11.,1164509,"On Apr 12, 2005 this sequence version replaced gi:69432.
+            [FUNCTION] Binds with low affinity to muscular
+            (alpha-1-beta-1-delta-epsilon/CHRNA1-CHRNB1-CHRND-CHRNE) and very
+            low affinity to neuronal (alpha-7/CHRNA7) nicotinic acetylcholine
+            receptor (nAChR). {ECO:0000250|UniProtKB:O42255}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:1164509}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [TOXIC DOSE] LD(50) is >20 mg/kg by intravenous injection.
+            {ECO:0000269|PubMed:1164509}.
+            [MISCELLANEOUS] The geographical location for this forest cobra
+            population was Rhodesia.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Ancestral subfamily. Orphan group II sub-subfamily. {ECO:0000305}.",probable neurotoxin
+B3EWH9,3VTS,LKCHNKLVPFLSKTCPEGKNLCYKMTLMKMPKIPIKRGCTDACPKSSLLVKVVCCNKDKCN,61,Metazoa,Hemachatus haemachatus,UniprotKB,RecName: Full=Three-finger hemachatoxin.,23144733,"[FUNCTION] This protein lyses red blood cells and has cardiotoxic
+            and hypotensive activities. {ECO:0000250|UniProtKB:P01471}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:23144733}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [MASS SPECTROMETRY] Mass=6835.68; Mass_error=0.94;
+            Method=Electrospray; Evidence={ECO:0000269|PubMed:23144733}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 31 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Type IB cytotoxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P86539,,LKCNKLIPLAYKTCPAGKNLCYKMYMVATP,30,Metazoa,Naja naja,UniprotKB,RecName: Full=Cytotoxin 3a; Short=CTX3a.,20203422,"[FUNCTION] Shows cytolytic activity on many different cells by
+            forming pore in lipid membranes. In vivo, increases heart rate or
+            kills the animal by cardiac arrest. In addition, it binds to
+            heparin with high affinity, interacts with Kv channel-interacting
+            protein 1 (KCNIP1) in a calcium-independent manner, and binds to
+            integrin alpha-V/beta-3 (ITGAV/ITGB3) with moderate affinity.
+            {ECO:0000250|UniProtKB:P60301, ECO:0000250|UniProtKB:P60304}.
+            [SUBUNIT] Monomer in solution; Homodimer and oligomer in the
+            presence of negatively charged lipids forming a pore with a size
+            ranging between 20 and 30 Angstroms.
+            {ECO:0000250|UniProtKB:P60301}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:20203422}.
+            Target cell membrane {ECO:0000250|UniProtKB:P60301}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 30 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Type IA cytotoxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P62377,,LKCHNTQLPFIYKTCPEGKNLCFKATLKKFPLKFPVKRGCADNCPKNSALLKYVCCSTDKCN,62,Metazoa,Naja naja,UniprotKB,"RecName: Full=Cytotoxin-like basic protein; Short=CLBP; AltName:
+Full=Less-cytotoxic basic polypeptide; Short=LCBP.","   2583280
+   2311757
+   3566773","[FUNCTION] Has low cytotoxic activity.
+            {ECO:0000250|UniProtKB:P14541}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:3566773}.
+            Target cell membrane {ECO:0000250|UniProtKB:P62375}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [TOXIC DOSE] LD(50) is 60 mg/kg by subcutaneous injection.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 31 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Orphan group XV sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P60305,,LKCNKLIPIASKTCPAGKNLCYKMFMMSDLTIPVKRGCIDVCPKNSLLVKYVCCNTDRCN,60,Metazoa,Naja kaouthia,UniprotKB,"RecName: Full=Cytotoxin 1; Short=CTX1; Short=CX1; AltName:
+Full=Cardiotoxin F8; AltName: Full=Cardiotoxin-I; Short=CTX-I;
+AltName: Full=Toxin CM-6.","   1148180
+   7210030
+   3365434
+   18381281
+   22807058
+   24552570","[FUNCTION] Monomer: shows cytolytic activity (apoptosis is induced
+            in C2C12 cells, but no cytotoxicity is observed on INS-1E)
+            (PubMed:18381281, PubMed:22807058). In addition, this toxin shows
+            insulinotropic activity that may be mediated by the modulation of
+            potassium channels (Kv) (PubMed:22807058). It induces the increase
+            of intracellular calcium release (PubMed:24552570). It induces
+            insulin secretion from rat INS-1E cells in absence and in presence
+            of glucose, without affecting cell viability and integrity
+            (PubMed:22807058). In presence of glucose, the insulinotropic
+            activity is increased, suggesting a possible synergistic effect
+            with glucose (PubMed:22807058). Its insulinotropic activity does
+            not involve GLP-1R signaling (PubMed:22807058, PubMed:24552570).
+            {ECO:0000269|PubMed:18381281, ECO:0000269|PubMed:22807058,
+            ECO:0000269|PubMed:24552570}.
+            [FUNCTION] Heterodimer: has no cytolytic activity, but retains most
+            of the alpha-cobratoxin capacity to compete with alpha-bungarotoxin
+            for binding to Torpedo and alpha-7/CHRNA7 nicotinic acetylcholine
+            receptors (nAChRs) as well as to Lymnea stagnalis
+            acetylcholine-binding protein. {ECO:0000269|PubMed:18381281}.
+            [SUBUNIT] Monomer, or heterodimer with alpha-cobratoxin (AC
+            P01391); disulfide-linked. {ECO:0000269|PubMed:18381281}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:1148180}.
+            Target cell membrane {ECO:0000250|UniProtKB:P60301}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:1148180}.
+            [TOXIC DOSE] LD(100) is 0.75 mg/kg by intravenous injection and
+            2.25 mg/kg by intraperitoneal injection.
+            {ECO:0000269|PubMed:1148180}.
+            [MISCELLANEOUS] Negative results: does not induce direct hemolysis
+            of human erythrocytes and it also does not induce potent
+            vasoconstriction. {ECO:0000269|PubMed:22807058}.
+            [MISCELLANEOUS] Is classified as a S-type cytotoxin, since a serine
+            residue stands at position 28 (Ser-29 in standard classification).
+            {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Type IA cytotoxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+Q9PST4,,MKTLLLTLVVVTIVCLDLGYTLKCNKLVPLFYKTCPAGKNLCYKMYMVATPKVPVKRGCIDVCPKSSLLVKYVCCNTDRCN,81,Metazoa,Naja sputatrix,UniprotKB,"RecName: Full=Cytotoxin 2a; AltName: Full=Cardiotoxin 2a;
+Short=CTX-2a; Short=Ctx2a; Flags: Precursor.","   9565688
+   11248705
+   9738945","[FUNCTION] Shows cytolytic activity on many different cells by
+            forming pore in lipid membranes. In vivo, increases heart rate or
+            kills the animal by cardiac arrest. In addition, it binds to
+            heparin with high affinity, interacts with Kv channel-interacting
+            protein 1 (KCNIP1) in a calcium-independent manner, and binds to
+            integrin alpha-V/beta-3 (ITGAV/ITGB3) with moderate affinity.
+            {ECO:0000250|UniProtKB:P60301, ECO:0000250|UniProtKB:P60304}.
+            [SUBUNIT] Monomer in solution; Homodimer and oligomer in the
+            presence of negatively charged lipids forming a pore with a size
+            ranging between 20 and 30 Angstroms.
+            {ECO:0000250|UniProtKB:P60301}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000250}. Target cell membrane
+            {ECO:0000250|UniProtKB:P60301}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. Non-spliced
+            mRNAs of CTX-2A are found in liver, heart, and muscle, but these
+            transcripts give truncated proteins. {ECO:0000269|PubMed:11248705}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 51 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Type IA cytotoxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+Q98965,,MKTLLLTLVVVTIVCLDLGYTLKCNQLIPPFYKTCAAGKNLCYKMFMVAAQRFPVKRGCIDVCPKSSLLVKYVCCNTDRCNN,82,Metazoa,Naja atra,UniprotKB,"RecName: Full=Cytotoxin 6; AltName: Full=Cardiotoxin-6; Short=CTX6;
+Flags: Precursor.",9192088,"[FUNCTION] Shows cytolytic activity on many different cells by
+            forming pore in lipid membranes. In vivo, increases heart rate or
+            kills the animal by cardiac arrest. In addition, it binds to
+            heparin with high affinity, interacts with Kv channel-interacting
+            protein 1 (KCNIP1) in a calcium-independent manner, and binds to
+            integrin alpha-V/beta-3 (ITGAV/ITGB3) with moderate affinity.
+            {ECO:0000250|UniProtKB:P60301, ECO:0000250|UniProtKB:P60304}.
+            [SUBUNIT] Monomer in solution; Homodimer and oligomer in the
+            presence of negatively charged lipids forming a pore with a size
+            ranging between 20 and 30 Angstroms.
+            {ECO:0000250|UniProtKB:P60301}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000250}. Target cell membrane
+            {ECO:0000250|UniProtKB:P60301}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Type IA cytotoxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+O73859,,YTLKCNKLVPLFYKTCPAGKNLCYKMFMMSNKTVPVKRGCIDVCPKNSALVKYVCCNTDRCN,62,Metazoa,Naja sputatrix,UniprotKB,"RecName: Full=Cytotoxin 7; AltName: Full=Cardiotoxin-7;
+Short=CTX-7; Short=Ctx7; Flags: Precursor.",9738945,"[FUNCTION] Shows cytolytic activity on many different cells by
+            forming pore in lipid membranes. In vivo, increases heart rate or
+            kills the animal by cardiac arrest. In addition, it binds to
+            heparin with high affinity, interacts with Kv channel-interacting
+            protein 1 (KCNIP1) in a calcium-independent manner, and binds to
+            integrin alpha-V/beta-3 (ITGAV/ITGB3) with moderate affinity.
+            {ECO:0000250|UniProtKB:P60301, ECO:0000250|UniProtKB:P60304}.
+            [SUBUNIT] Monomer in solution; Homodimer and oligomer in the
+            presence of negatively charged lipids forming a pore with a size
+            ranging between 20 and 30 Angstroms.
+            {ECO:0000250|UniProtKB:P60301}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000250}. Target cell membrane
+            {ECO:0000250|UniProtKB:P60301}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [MISCELLANEOUS] Is classified as a S-type cytotoxin, since a serine
+            residue stands at position 30 (Ser-29 in standard classification).
+            {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Type IA cytotoxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+Q02454,,MKTLLLTTVVVTIVCLDLEYTLKCNKLVPLFYKTCPAGKNLCYKMFMVATPKVPVKRGCIDVCPKSSLLVKYVCCNTDRCN,81,Metazoa,Naja sputatrix,UniprotKB,"RecName: Full=Cytotoxin; Short=CTX; AltName: Full=Cardiotoxin;
+Flags: Precursor.",8446963,"[FUNCTION] Shows cytolytic activity on many different cells by
+            forming pore in lipid membranes. In vivo, increases heart rate or
+            kills the animal by cardiac arrest. In addition, it binds to
+            heparin with high affinity, interacts with Kv channel-interacting
+            protein 1 (KCNIP1) in a calcium-independent manner, and binds to
+            integrin alpha-V/beta-3 (ITGAV/ITGB3) with moderate affinity.
+            {ECO:0000250|UniProtKB:P60301, ECO:0000250|UniProtKB:P60304}.
+            [SUBUNIT] Monomer in solution; Homodimer and oligomer in the
+            presence of negatively charged lipids forming a pore with a size
+            ranging between 20 and 30 Angstroms.
+            {ECO:0000250|UniProtKB:P60301}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000250}. Target cell membrane
+            {ECO:0000250|UniProtKB:P60301}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 51 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Type IA cytotoxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P01452,1CDT,LKCNKLIPIAYKTCPEGKNLCYKMMLASKKMVPVKRGCINVCPKNSALVKYVCCSTDRCN,60,Metazoa,Naja mossambica,UniprotKB,"RecName: Full=Cytotoxin 4; AltName: Full=CTX M3; AltName:
+Full=Cardiotoxin VII4; AltName: Full=Cytotoxin V(II)4.","   4834686
+   8182052
+   2370666","[FUNCTION] Shows cytolytic activity on many different cells by
+            forming pore in lipid membranes. In vivo, increases heart rate or
+            kills the animal by cardiac arrest. In addition, it binds to
+            heparin with high affinity, interacts with Kv channel-interacting
+            protein 1 (KCNIP1) in a calcium-independent manner, and binds to
+            integrin alpha-V/beta-3 (ITGAV/ITGB3) with moderate affinity.
+            {ECO:0000250|UniProtKB:P60301, ECO:0000250|UniProtKB:P60304,
+            ECO:0000269|PubMed:8182052}.
+            [SUBUNIT] Monomer in solution; Homodimer and oligomer in the
+            presence of negatively charged lipids forming a pore with a size
+            ranging between 20 and 30 Angstroms.
+            {ECO:0000250|UniProtKB:P60301}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:4834686}.
+            Target cell membrane {ECO:0000250|UniProtKB:P60301}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            [TOXIC DOSE] LD(50) is 1.97 mg/kg by intravenous injection.
+            [MISCELLANEOUS] Is classified as a S-type cytotoxin, since a serine
+            residue stands at position 28 (Ser-29 in standard classification).
+            {ECO:0000305|PubMed:8182052}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Type IA cytotoxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P01445,7O2K,LKCNKLIPLAYKTCPAGKNLCYKMFMVSNKTVPVKRGCIDVCPKNSLLVKYVCCNTDRCN,60,Metazoa,Naja kaouthia,UniprotKB,RecName: Full=Cytotoxin 2; Short=CX2; AltName: Full=Toxin CM-7A.,"   7210030
+   18381281
+   33915327","[FUNCTION] Monomer: shows cytolytic activity.
+            {ECO:0000269|PubMed:18381281}.
+            [FUNCTION] Heterodimer: has no cytolytic activity, but retains most
+            of the alpha-cobratoxin capacity to compete with alpha-bungarotoxin
+            for binding to Torpedo and alpha-7/CHRNA7 nicotinic acetylcholine
+            receptors (nAChRs) as well as to Lymnea stagnalis
+            acetylcholine-binding protein. {ECO:0000269|PubMed:18381281}.
+            [SUBUNIT] Monomer, or heterodimer with alpha-cobratoxin (AC
+            P01391); disulfide-linked. {ECO:0000269|PubMed:18381281}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:33915327,
+            ECO:0000269|PubMed:7210030}. Target cell membrane
+            {ECO:0000250|UniProtKB:P60301}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:33915327}.
+            [MASS SPECTROMETRY] Mass=6737; Method=MALDI;
+            Evidence={ECO:0000269|PubMed:33915327}.
+            [TOXIC DOSE] LD(50) is 1.2 mg/kg by intravenous injection.
+            {ECO:0000269|PubMed:7210030}.
+            [MISCELLANEOUS] Is classified as a S-type cytotoxin, since a serine
+            residue stands at position 28 (Ser-29 in standard classification).
+            {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Type IA cytotoxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P0DQP2,7C28,TLLLTLVVVTIVCLDLGYTLTCVTDKSFGGVITEECAAGQKICFKNWKKMGPKLYDVKRGCTATCPKADDNGCVKCCNTDKCNK,84,Metazoa,Dendroaspis jamesoni jamesoni,UniprotKB,"RecName: Full=Venom protein SynTx; AltName: Full=Dj_SynTx; AltName:
+Full=Synergistic-like venom 3FTx protein S2C4 homolog; AltName:
+Full=T3431; Flags: Precursor.","   28843532
+   33000863","[FUNCTION] This protein shows a synergetic toxic effect in that it
+            enhances the toxicity of other toxins.
+            {ECO:0000250|UniProtKB:P01407}.
+            [SUBUNIT] Homodimer; disulfide-linked.
+            {ECO:0000269|PubMed:33000863}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:33000863}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:33000863}.
+            [MASS SPECTROMETRY] Mass=7584.7; Method=Electrospray;
+            Note=Homodimer mass is 14,122.9.;
+            Evidence={ECO:0000269|PubMed:33000863}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 32 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Aminergic toxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+C0HLK5,,RICDDSSIPFLRTPQLCPKGQDVCYKKTPIVKKFKWLQKKGCASSCPKDGFIKIFKIECCTKDNCI,66,Metazoa,Micrurus dumerilii,UniprotKB,RecName: Full=Clarkitoxin-I-Mdum; AltName: Full=Dumertoxin-1.,31557485,"[FUNCTION] No toxicity is observed upon intravenous or
+            intracerebroventricular injection into mice. Has no cytotoxic
+            activity towards C2C12 cells at 100 ug/ml.
+            {ECO:0000269|PubMed:31557485}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:31557485}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:31557485}.
+            [MASS SPECTROMETRY] Mass=7537; Method=Electrospray;
+            Evidence={ECO:0000269|PubMed:31557485}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. {ECO:0000305}.",probable neurotoxin
+P0DSN0,,MECYRMSNIVTCQPWEKFCYKEVTMFFPNHPVHLSGCASECTETNSKFCCTTDKCNGAGSG,61,Metazoa,Naja kaouthia,UniprotKB,"RecName: Full=Nakoroxin; AltName: Full=Naja kaouthia orphan toxin;
+AltName: Full=Three-finger toxin; Short=3FTx.",28864897,"[FUNCTION] Shows no cytotoxicity and does not inhibit the binding
+            of alpha-bungarotoxin to nicotinic acetylcholine receptors of
+            muscle and alpha-7/CHRNA7 types. However, it potentiates the
+            binding of alpha-bungarotoxin to the acetylcholine-binding protein
+            from Lymnaea stagnalis. {ECO:0000269|PubMed:28864897}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:28864897}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:28864897}.
+            [MASS SPECTROMETRY] Mass=6845.35; Method=Unknown;
+            Evidence={ECO:0000269|PubMed:28864897}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 28 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. {ECO:0000305}.",probable neurotoxin
+F5CPE6,,MKTLLLTLVVVTIVCLDLGYTLKCYVGRKPYKLITCPEGSKKCATVPLPTRPLPIFSKGCYTSCPSQYVKCCSTDLCNGSPTSG,84,Metazoa,Micrurus altirostris,UniprotKB,"RecName: Full=Three-finger toxin MALT0070C; Short=3FTx MALT0070C;
+Flags: Precursor.",21515432,"[SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:21515432}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. {ECO:0000305}.",probable neurotoxin
+F5CPE3,,MKTLLLTLVVVTILCLDFGHTVTCHKTDVFTKTCISPICYEKITSAFIIERGCGCPETSRKVKVRCCMTDKCNR,74,Metazoa,Micrurus altirostris,UniprotKB,"RecName: Full=Three-finger toxin MALT0065C; Short=3FTx MALT0065C;
+Flags: Precursor.",21515432,"[SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:21515432}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [MASS SPECTROMETRY] Mass=5998.2; Method=Electrospray; Note=Average
+            mass.; Evidence={ECO:0000269|PubMed:21515432}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. {ECO:0000305}.",probable neurotoxin
+F5CPD3,,MKTLLLTLVVVTIVCLDLGNTRICDDSNIPSERTPKRCQGGYNICYKINFPTPGYELLQIKGCAARCPTNPRFPKAECCATDNCI,85,Metazoa,Micrurus altirostris,UniprotKB,"RecName: Full=Three-finger toxin MALT0044C; Short=3FTx MALT0044C;
+Flags: Precursor.",21515432,"[SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:21515432}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:21515432}.
+            [MASS SPECTROMETRY] Mass=7149.3; Method=Electrospray; Note=Average
+            mass.; Evidence={ECO:0000269|PubMed:21515432}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. {ECO:0000305}.",probable neurotoxin
+P79688,,MKTLLLTLVVLTIACLDLGYTKTCFNDDLTNPKTTELCRHSVYFCFKNSRIAGGVERMQRGCSLTCPDIKYNGKYIYCCTRDNCNA,86,Metazoa,Bungarus multicinctus,UniprotKB,RecName: Full=Cardiotoxin homolog TA-ctx-like; Flags: Precursor.,8988340,"[SUBCELLULAR LOCATION] Secreted {ECO:0000250}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Orphan group IX sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P01406,,MICYSHKTPQNSATITCEEKTCYKKFVTNVPGVILARGCGCPKKEIFRSIHCCRSDKCNE,60,Metazoa,Dendroaspis jamesoni kaimosae,UniprotKB,RecName: Full=Toxin S5C4.,669583,"On Apr 12, 2005 this sequence version replaced gi:69438.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:669583}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [TOXIC DOSE] LD(50) is >250 mg/kg by intravenous injection.
+            {ECO:0000269|PubMed:669583}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Orphan group XI sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P01405,,MICYSHKTPQNSATITCEEKTCYKFVTKLPGVILARGCGCPKKEIFRKSIHCCRSDKCNE,60,Metazoa,Dendroaspis viridis,UniprotKB,RecName: Full=Toxin 4.9.6.,4442418,"On Apr 12, 2005 this sequence version replaced gi:69437.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:4442418}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [TOXIC DOSE] LD(50) is >3.3 mg/kg by intraperitoneal injection.
+            {ECO:0000269|PubMed:4442418}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Orphan group XI sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P01409,,LTCVTGKSIGGISTEECAAGQKICNKKWTKMGPKLYDVSRGCTATCPKADEYGCVKCCNTDRN,63,Metazoa,Dendroaspis angusticeps,UniprotKB,"RecName: Full=Synergistic-type venom protein C9S3, chain 2.",511106,"[FUNCTION] This protein shows a synergetic toxic effect in that it
+            enhances the toxicity of other D.angusticeps toxins.
+            [SUBUNIT] Heterodimer of C9S3 chain 1 (AC P01408) and chain 2,
+            linked by at least two disulfide bonds.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:511106}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 33 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Aminergic toxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P01408,,LTCVTGKSIGGISTEECAAGQKICFKKWTKMGPKLYDVSRGCTATCPKADEYGCVKCCKTDRN,63,Metazoa,Dendroaspis angusticeps,UniprotKB,"RecName: Full=Synergistic-type venom protein C9S3, chain 1.",511106,"[FUNCTION] This protein shows a synergetic toxic effect in that it
+            enhances the toxicity of other toxins. {ECO:0000269|PubMed:511106}.
+            [SUBUNIT] Heterodimer of C9S3 chain 1 and chain 2 (AC P01409);
+            disulfide-linked. {ECO:0000250|UniProtKB:P0DQP2}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:511106}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:511106}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 33 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Aminergic toxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P01411,,LTCVTGKSIGGISTEECAAGQKRCNKKWTKMGPKLYDVSRGCAATCPTADEYGCVKCCNTDK,62,Metazoa,Dendroaspis angusticeps,UniprotKB,"RecName: Full=Synergistic-type venom protein C8S2, chain 2.",511106,"[FUNCTION] This protein shows a synergetic toxic effect in that it
+            enhances the toxicity of other toxins. {ECO:0000269|PubMed:511106}.
+            [SUBUNIT] Heterodimer of C8S2 chain 1 (AC P01410) and chain 2;
+            disulfide-linked. {ECO:0000250|UniProtKB:P0DQP2}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:511106}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:511106}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 33 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Aminergic toxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P01410,,LTCVTGKSIGGISTEECAAGQKRCFKKWTKMGPKLYDVSRGCTATCPKADEYGCVKCCNIDK,62,Metazoa,Dendroaspis angusticeps,UniprotKB,"RecName: Full=Synergistic-type venom protein C8S2, chain 1.",511106,"[FUNCTION] This protein shows a synergetic toxic effect in that it
+            enhances the toxicity of other toxins. {ECO:0000269|PubMed:511106}.
+            [SUBUNIT] Heterodimer of C8S2 chain 1 and chain 2 (AC P01411);
+            disulfide-linked. {ECO:0000250|UniProtKB:P0DQP2}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:511106}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:511106}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 33 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Aminergic toxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P01407,,LTCVTDKSFGGVNTEECAAGQKICFKNWKKMGPKLYDVKRGCTATCPKADDDGCVKCCNTDK,62,Metazoa,Dendroaspis jamesoni kaimosae,UniprotKB,RecName: Full=Synergistic-type venom protein S2C4.,437703,"[FUNCTION] This protein shows a synergetic toxic effect in that it
+            enhances the toxicity of other toxins. {ECO:0000269|PubMed:437703}.
+            [SUBUNIT] Homodimer; disulfide-linked.
+            {ECO:0000250|UniProtKB:P0DQP2}.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:437703}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland.
+            {ECO:0000305|PubMed:437703}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 33 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Aminergic toxin sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+P24742,,LICYNTPFKDISKTCAEGENLCYYGKKDAVWNLYPIRGCAD,41,Metazoa,Calliophis bivirgatus,UniprotKB,"RecName: Full=Maticotoxin A; AltName: Full=Three-finger toxin;
+Short=3FTx.",2048137,"On Jan 20, 2006 this sequence version replaced gi:104361.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:2048137}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. {ECO:0000305}.",probable neurotoxin
+P19004,,RKCFNSPGRLVSKPCPEGNNLCYKMSNRMYPPGFNVRRGCAETCPRRNRLLEVVCCCDTDNCNK,64,Metazoa,Aspidelaps scutatus,UniprotKB,RecName: Full=Cytotoxin homolog S4C8.,3356299,"On Apr 12, 2005 this sequence version replaced gi:85943.
+            [SUBCELLULAR LOCATION] Secreted {ECO:0000269|PubMed:3356299}.
+            [TISSUE SPECIFICITY] Expressed by the venom gland. {ECO:0000305}.
+            [TOXIC DOSE] LD(50) is 9.4 mg/kg by intravenous injection.
+            {ECO:0000269|PubMed:3356299}.
+            [MISCELLANEOUS] Is classified as a P-type cytotoxin, since a
+            proline residue stands at position 31 (Pro-31 in standard
+            classification). {ECO:0000305}.
+            [SIMILARITY] Belongs to the snake three-finger toxin family.
+            Short-chain subfamily. Orphan group XIII sub-subfamily.
+            {ECO:0000305}.",probable neurotoxin
+Q6B4T5,,MRFLVGAVLVVVLVACATAFESDAETFKSLVVEERKCHGDGSKGCATKPDDWCCKNTPCKCPAWSSTSECRCAMDCSRRCKGKRALLLPVETHRLLFPEQW,101,Metazoa,Loxosceles intermedia (Brown spider),UniprotKB,U1-sicaritoxin-Li1a (U1-SCRTX-Li1a) (LiTx1),15302533,FUNCTION: Toxin active against insects (S.frugiperda larvae). May act on sodium (Nav) or calcium channels (Cav).,probable Nav or Cav inhibitor
+Q6B4T4,,MKLLFEGLLVLVLIAFVVAEFESDAEKWEALITQERACKGEGVKGCYYEADDWCCKKTPCKCPAWSHERECRCTQPCNPSCRGKRALMVDPETHRMLSLHRLSEE,105,Metazoa,Loxosceles intermedia (Brown spider),UniprotKB,U1-sicaritoxin-Li1b (U1-SCRTX-Li1b) (LiTx2),15302533,FUNCTION: Toxin active against insects (S.frugiperda larvae). May act on sodium (Nav) or calcium (Cav) channels.,probable Nav or Cav inhibitor
+Q27Q53,,ARGDAEKWESLISEERACKGEGVKGCYDKPDDWCCKKTPCKCPAWSHERECRCTQPCARRCRGKRALMLDPETHRLLFSED,81,Metazoa,Loxosceles intermedia (Brown spider),UniprotKB,U1-sicaritoxin-Li1c (U1-SCRTX-Li1c) (LiTx4),,FUNCTION: Toxin active against insects (S.frugiperda larvae). May act on sodium (Nav) or calcium (Cav) channels. {ECO:0000250|UniProtKB:Q6B4T5}.,probable Nav or Cav inhibitor
